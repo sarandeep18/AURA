@@ -1,0 +1,501 @@
+{% extends "base.html" %}
+
+{% block title %}
+AURA | Dashboard
+{% endblock %}
+
+
+{% block content %}
+
+<!-- =========================================
+     HEADER
+========================================== -->
+
+<header class="top-header">
+
+    <div>
+        <h2>Welcome back, Vamsi! 👋</h2>
+
+        <p>
+            Here's what's happening with your sales today.
+        </p>
+    </div>
+
+
+    <div class="header-actions">
+
+        <select>
+            <option>Last 30 Days</option>
+            <option>Last 7 Days</option>
+            <option>Last 6 Months</option>
+            <option>This Year</option>
+        </select>
+
+        <!-- Export PDF Report -->
+        <a href="/export-report" class="primary-btn export-btn">
+            Export Report
+        </a>
+
+    </div>
+
+</header>
+
+
+
+<!-- =========================================
+     KPI CARDS
+========================================== -->
+
+<section class="kpi-grid">
+
+    <div class="kpi-card">
+
+        <div class="kpi-icon purple">
+            ₹
+        </div>
+
+        <p>Total Revenue</p>
+
+        <h2>
+            {{ data.revenue }}
+        </h2>
+
+        <span class="positive">
+            ↑ 12.5% from last month
+        </span>
+
+    </div>
+
+
+    <div class="kpi-card">
+
+        <div class="kpi-icon blue">
+            ▣
+        </div>
+
+        <p>Total Orders</p>
+
+        <h2>
+            {{ data.orders }}
+        </h2>
+
+        <span class="positive">
+            ↑ 8.2% from last month
+        </span>
+
+    </div>
+
+
+    <div class="kpi-card">
+
+        <div class="kpi-icon pink">
+            ♙
+        </div>
+
+        <p>Total Customers</p>
+
+        <h2>
+            {{ data.customers }}
+        </h2>
+
+        <span class="positive">
+            ↑ 6.8% from last month
+        </span>
+
+    </div>
+
+
+    <div class="kpi-card">
+
+        <div class="kpi-icon orange">
+            ₹
+        </div>
+
+        <p>Average Order Value</p>
+
+        <h2>
+            {{ data.avg_order }}
+        </h2>
+
+        <span class="positive">
+            ↑ 3.4% from last month
+        </span>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================
+     SECOND KPI ROW
+========================================== -->
+
+<section class="small-kpi-grid">
+
+    <div class="small-card">
+
+        <p>Return Rate</p>
+
+        <h3>
+            8.4%
+        </h3>
+
+        <span class="negative">
+            ↓ 1.2%
+        </span>
+
+    </div>
+
+
+    <div class="small-card">
+
+        <p>Gross Profit</p>
+
+        <h3>
+            ₹2,87,500
+        </h3>
+
+        <span class="positive">
+            ↑ 11.7%
+        </span>
+
+    </div>
+
+
+    <div class="small-card">
+
+        <p>Products Sold</p>
+
+        <h3>
+            8,420
+        </h3>
+
+        <span class="positive">
+            ↑ 7.5%
+        </span>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================
+     ANALYTICS SECTION
+========================================== -->
+
+<section class="dashboard-grid">
+
+    <!-- Revenue Overview -->
+
+    <div class="panel large-panel">
+
+        <div class="panel-heading">
+
+            <div>
+                <h3>Revenue Overview</h3>
+                <p>Monthly revenue performance</p>
+            </div>
+
+            <span class="panel-tag">
+                Monthly
+            </span>
+
+        </div>
+
+
+        <div class="fake-chart">
+
+            <div class="chart-line">
+                Revenue Trend
+            </div>
+
+            <div class="chart-labels">
+                <span>Apr</span>
+                <span>May</span>
+                <span>Jun</span>
+                <span>Jul</span>
+                <span>Aug</span>
+                <span>Sep</span>
+                <span>Oct</span>
+                <span>Nov</span>
+                <span>Dec</span>
+                <span>Jan</span>
+                <span>Feb</span>
+                <span>Mar</span>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <!-- Sales by Category -->
+
+    <div class="panel">
+
+        <div class="panel-heading">
+
+            <div>
+                <h3>Sales by Category</h3>
+                <p>Category distribution</p>
+            </div>
+
+        </div>
+
+
+        <div class="donut-placeholder">
+
+            <div class="donut-center">
+
+                <strong>100%</strong>
+                <small>Sales</small>
+
+            </div>
+
+        </div>
+
+
+        <div class="category-list">
+
+            <p>
+                <span class="dot purple-dot"></span>
+                Top Wear
+                <strong>40.2%</strong>
+            </p>
+
+            <p>
+                <span class="dot blue-dot"></span>
+                Bottom Wear
+                <strong>24.6%</strong>
+            </p>
+
+            <p>
+                <span class="dot pink-dot"></span>
+                Ethnic Wear
+                <strong>15.8%</strong>
+            </p>
+
+            <p>
+                <span class="dot orange-dot"></span>
+                Footwear
+                <strong>10.7%</strong>
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================
+     PRODUCT TABLE + CITY ANALYSIS
+========================================== -->
+
+<section class="dashboard-grid">
+
+    <div class="panel large-panel">
+
+        <div class="panel-heading">
+
+            <div>
+                <h3>Top Selling Products</h3>
+                <p>Best performing products</p>
+            </div>
+
+            <a href="/products">
+                View All
+            </a>
+
+        </div>
+
+
+        <table>
+
+            <thead>
+
+                <tr>
+                    <th>Product</th>
+                    <th>Category</th>
+                    <th>Sold</th>
+                    <th>Revenue</th>
+                </tr>
+
+            </thead>
+
+
+            <tbody>
+
+                <tr>
+                    <td>Men Solid Casual Shirt</td>
+                    <td>Top Wear</td>
+                    <td>2,458</td>
+                    <td>₹12,45,000</td>
+                </tr>
+
+                <tr>
+                    <td>Women Floral Dress</td>
+                    <td>Top Wear</td>
+                    <td>1,965</td>
+                    <td>₹9,75,000</td>
+                </tr>
+
+                <tr>
+                    <td>Men Denim Jeans</td>
+                    <td>Bottom Wear</td>
+                    <td>1,876</td>
+                    <td>₹8,90,000</td>
+                </tr>
+
+                <tr>
+                    <td>Women Kurti</td>
+                    <td>Ethnic Wear</td>
+                    <td>1,540</td>
+                    <td>₹6,45,000</td>
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+
+
+    <!-- Top Cities -->
+
+    <div class="panel">
+
+        <div class="panel-heading">
+
+            <div>
+                <h3>Top Cities by Revenue</h3>
+                <p>Highest sales locations</p>
+            </div>
+
+        </div>
+
+
+        <div class="city-row">
+
+            <span>Delhi</span>
+
+            <div class="progress">
+                <div style="width: 92%"></div>
+            </div>
+
+            <strong>₹18.4L</strong>
+
+        </div>
+
+
+        <div class="city-row">
+
+            <span>Mumbai</span>
+
+            <div class="progress">
+                <div style="width: 80%"></div>
+            </div>
+
+            <strong>₹15.7L</strong>
+
+        </div>
+
+
+        <div class="city-row">
+
+            <span>Bangalore</span>
+
+            <div class="progress">
+                <div style="width: 69%"></div>
+            </div>
+
+            <strong>₹13.2L</strong>
+
+        </div>
+
+
+        <div class="city-row">
+
+            <span>Hyderabad</span>
+
+            <div class="progress">
+                <div style="width: 62%"></div>
+            </div>
+
+            <strong>₹11.8L</strong>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================
+     INSIGHTS + ALERTS
+========================================== -->
+
+<section class="bottom-grid">
+
+    <div class="panel">
+
+        <h3>Key Insights</h3>
+
+        <div class="insight success">
+            Revenue increased by 12.5% compared to last month.
+        </div>
+
+        <div class="insight">
+            Top Wear contributes the highest overall sales.
+        </div>
+
+        <div class="insight">
+            Delhi is currently the highest performing city.
+        </div>
+
+    </div>
+
+
+    <div class="panel">
+
+        <h3>Recent Alerts</h3>
+
+        <div class="alert-item">
+            Low stock detected for selected products.
+        </div>
+
+        <div class="alert-item">
+            Return rate increased in Footwear category.
+        </div>
+
+        <div class="alert-item">
+            Monthly report is ready for export.
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================
+     FOOTER
+========================================== -->
+
+<footer class="dashboard-footer">
+
+    <strong>AURA Sales Analytics</strong>
+
+    <p>
+        Transforming raw data into actionable insights ✨
+    </p>
+
+</footer>
+
+{% endblock %}

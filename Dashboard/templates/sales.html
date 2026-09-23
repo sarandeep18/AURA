@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+
+{% block title %}
+AURA | Sales Overview
+{% endblock %}
+
+
+{% block content %}
+
+<header class="top-header">
+
+    <div>
+        <h2>Sales Overview</h2>
+        <p>Analyze overall sales performance.</p>
+    </div>
+
+</header>
+
+
+<section class="kpi-grid">
+
+    <div class="kpi-card">
+        <p>Total Sales</p>
+        <h2>₹12,45,000</h2>
+    </div>
+
+    <div class="kpi-card">
+        <p>Orders</p>
+        <h2>2,458</h2>
+    </div>
+
+    <div class="kpi-card">
+        <p>Average Order</p>
+        <h2>₹998</h2>
+    </div>
+
+    <div class="kpi-card">
+        <p>Growth</p>
+        <h2>12.5%</h2>
+    </div>
+
+</section>
+
+
+<section class="dashboard-grid">
+
+    <div class="panel large-panel">
+
+        <h3>Monthly Sales Performance</h3>
+
+        <div class="fake-chart">
+            Monthly Sales Chart
+        </div>
+
+    </div>
+
+
+    <div class="panel">
+
+        <h3>Sales Summary</h3>
+
+        <p class="summary-text">
+            The current dataset shows steady growth in
+            revenue and customer activity.
+        </p>
+
+    </div>
+
+</section>
+
+{% endblock %}

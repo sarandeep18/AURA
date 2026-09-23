@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block title %}
+AURA | Inventory
+{% endblock %}
+
+
+{% block content %}
+
+<header class="top-header">
+
+    <div>
+        <h2>Inventory</h2>
+        <p>Track product availability and stock levels.</p>
+    </div>
+
+</header>
+
+
+<section class="kpi-grid">
+
+    <div class="kpi-card">
+        <p>Total Products</p>
+        <h2>482</h2>
+    </div>
+
+    <div class="kpi-card">
+        <p>In Stock</p>
+        <h2>436</h2>
+    </div>
+
+    <div class="kpi-card">
+        <p>Low Stock</p>
+        <h2>31</h2>
+    </div>
+
+    <div class="kpi-card">
+        <p>Out of Stock</p>
+        <h2>15</h2>
+    </div>
+
+</section>
+
+{% endblock %}

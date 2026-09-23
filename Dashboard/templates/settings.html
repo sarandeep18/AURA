@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block title %}
+AURA | Settings
+{% endblock %}
+
+
+{% block content %}
+
+<header class="top-header">
+
+    <div>
+        <h2>Settings</h2>
+        <p>Manage basic dashboard preferences.</p>
+    </div>
+
+</header>
+
+
+<section class="panel settings-panel">
+
+    <label>
+        Dashboard Name
+    </label>
+
+    <input
+        type="text"
+        value="AURA Sales Data Analysis"
+    >
+
+
+    <label>
+        Currency
+    </label>
+
+    <select>
+        <option>Indian Rupee (₹)</option>
+    </select>
+
+
+    <label>
+        Default Report Period
+    </label>
+
+    <select>
+        <option>Last 30 Days</option>
+        <option>Last 7 Days</option>
+        <option>This Year</option>
+    </select>
+
+
+    <button class="primary-btn">
+        Save Settings
+    </button>
+
+</section>
+
+{% endblock %}

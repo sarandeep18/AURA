@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+
+{% block title %}
+AURA | Reports
+{% endblock %}
+
+
+{% block content %}
+
+<header class="top-header">
+
+    <div>
+        <h2>Reports</h2>
+        <p>Generate and view analytics reports.</p>
+    </div>
+
+    <button class="primary-btn">
+        Generate Report
+    </button>
+
+</header>
+
+
+<section class="panel">
+
+    <h3>Available Reports</h3>
+
+
+    <div class="report-card">
+
+        <div>
+            <h4>Sales Performance Report</h4>
+            <p>Overall sales and revenue analysis.</p>
+        </div>
+
+        <button>
+            View
+        </button>
+
+    </div>
+
+
+    <div class="report-card">
+
+        <div>
+            <h4>Product Analysis Report</h4>
+            <p>Product and category performance.</p>
+        </div>
+
+        <button>
+            View
+        </button>
+
+    </div>
+
+
+    <div class="report-card">
+
+        <div>
+            <h4>Customer Analytics Report</h4>
+            <p>Customer purchasing behavior.</p>
+        </div>
+
+        <button>
+            View
+        </button>
+
+    </div>
+
+</section>
+
+{% endblock %}

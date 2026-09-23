@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+
+{% block title %}
+AURA | Products
+{% endblock %}
+
+
+{% block content %}
+
+<header class="top-header">
+
+    <div>
+        <h2>Products</h2>
+        <p>Product performance and sales analysis.</p>
+    </div>
+
+</header>
+
+
+<section class="panel">
+
+    <div class="panel-heading">
+
+        <div>
+            <h3>Product Performance</h3>
+            <p>Top selling products from the dataset</p>
+        </div>
+
+    </div>
+
+
+    <table>
+
+        <thead>
+
+            <tr>
+                <th>Product</th>
+                <th>Category</th>
+                <th>Quantity Sold</th>
+                <th>Revenue</th>
+                <th>Status</th>
+            </tr>
+
+        </thead>
+
+
+        <tbody>
+
+            <tr>
+                <td>Men Casual Shirt</td>
+                <td>Top Wear</td>
+                <td>2,458</td>
+                <td>₹12,45,000</td>
+                <td>
+                    <span class="status success-status">
+                        Top Selling
+                    </span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Women Floral Dress</td>
+                <td>Top Wear</td>
+                <td>1,965</td>
+                <td>₹9,75,000</td>
+                <td>
+                    <span class="status success-status">
+                        High
+                    </span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Denim Jeans</td>
+                <td>Bottom Wear</td>
+                <td>1,876</td>
+                <td>₹8,90,000</td>
+                <td>
+                    <span class="status">
+                        Good
+                    </span>
+                </td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+</section>
+
+{% endblock %}

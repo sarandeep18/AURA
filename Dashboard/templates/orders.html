@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+
+{% block title %}
+AURA | Orders
+{% endblock %}
+
+
+{% block content %}
+
+<header class="top-header">
+
+    <div>
+        <h2>Orders</h2>
+        <p>View and analyze sales transactions.</p>
+    </div>
+
+</header>
+
+
+<section class="panel">
+
+    <table>
+
+        <thead>
+
+            <tr>
+                <th>Order ID</th>
+                <th>Customer</th>
+                <th>Category</th>
+                <th>Amount</th>
+                <th>Status</th>
+            </tr>
+
+        </thead>
+
+
+        <tbody>
+
+            <tr>
+                <td>#AURA001</td>
+                <td>Customer 01</td>
+                <td>Top Wear</td>
+                <td>₹1,899</td>
+                <td>
+                    <span class="status success-status">
+                        Completed
+                    </span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>#AURA002</td>
+                <td>Customer 02</td>
+                <td>Footwear</td>
+                <td>₹2,499</td>
+                <td>
+                    <span class="status success-status">
+                        Completed
+                    </span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>#AURA003</td>
+                <td>Customer 03</td>
+                <td>Ethnic Wear</td>
+                <td>₹1,599</td>
+                <td>
+                    <span class="status">
+                        Processing
+                    </span>
+                </td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+</section>
+
+{% endblock %}

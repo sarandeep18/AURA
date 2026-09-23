@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>
+        {% block title %}AURA{% endblock %}
+    </title>
+
+    <!-- Main CSS -->
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+
+<body>
+
+    <!-- =========================================
+         SIDEBAR
+    ========================================== -->
+
+    <aside class="sidebar">
+
+        <!-- =====================================
+             AURA BRANDING
+        ====================================== -->
+
+        <div class="brand">
+
+            <img
+                src="{{ url_for('static', filename='images/AURA.png') }}"
+                alt="AURA Logo"
+                class="brand-logo"
+            >
+
+            <p class="brand-title">
+                Sales Data Analysis
+            </p>
+
+            <!-- Sahu Tech Branding -->
+            <div class="sahu-tech-badge">
+
+                Developed by
+
+                <strong>
+                    Sahu Tech™
+                </strong>
+
+            </div>
+
+        </div>
+
+
+        <!-- =====================================
+             SIDEBAR NAVIGATION
+        ====================================== -->
+
+        <nav class="sidebar-menu">
+
+            <a href="/" class="nav-link">
+                <span>⌂</span>
+                Dashboard
+            </a>
+
+            <a href="/sales" class="nav-link">
+                <span>▥</span>
+                Sales Overview
+            </a>
+
+            <a href="/products" class="nav-link">
+                <span>◈</span>
+                Products
+            </a>
+
+            <a href="/categories" class="nav-link">
+                <span>▦</span>
+                Categories
+            </a>
+
+            <a href="/customers" class="nav-link">
+                <span>♙</span>
+                Customers
+            </a>
+
+            <a href="/orders" class="nav-link">
+                <span>▣</span>
+                Orders
+            </a>
+
+            <a href="/returns" class="nav-link">
+                <span>↶</span>
+                Returns & Exchanges
+            </a>
+
+            <a href="/inventory" class="nav-link">
+                <span>▤</span>
+                Inventory
+            </a>
+
+            <a href="/marketing" class="nav-link">
+                <span>◎</span>
+                Marketing
+            </a>
+
+            <a href="/reports" class="nav-link">
+                <span>▧</span>
+                Reports
+            </a>
+
+
+            <!-- Management Section -->
+            <div class="menu-title">
+                MANAGEMENT
+            </div>
+
+
+            <a href="/alerts" class="nav-link">
+                <span>!</span>
+                Alerts
+            </a>
+
+            <a href="/settings" class="nav-link">
+                <span>⚙</span>
+                Settings
+            </a>
+
+            <a href="/help" class="nav-link">
+                <span>?</span>
+                Help & Support
+            </a>
+
+        </nav>
+
+
+        <!-- =====================================
+             SIDEBAR FOOTER
+        ====================================== -->
+
+        <div class="sidebar-footer">
+
+            <div class="profile-row">
+
+                <div class="profile-circle">
+                    VK
+                </div>
+
+                <div class="profile-details">
+
+                    <strong>
+                        Vamsi Krishna
+                    </strong>
+
+                    <p>
+                        Administrator
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </aside>
+
+
+
+    <!-- =========================================
+         MAIN CONTENT
+    ========================================== -->
+
+    <main class="main-content">
+
+        {% block content %}
+        {% endblock %}
+
+    </main>
+
+</body>
+
+</html>

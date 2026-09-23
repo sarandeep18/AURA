@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,City,State,Product_ID,Product_Name,Category,Brand,Color,Size,Quantity,Price,Discount_Percent,Sales,Profit,Payment_Method,Inventory_Stock
+ORD10001,2025-03-04,CUST1419,Customer_1001,Male,22,Chennai,Tamil Nadu,P002,Slim Fit Jeans,Jeans,DenimCo,Green,XXL,4,2499,20,7996.8,2310.21,Cash,78
+ORD10002,2026-01-01,CUST1223,Customer_1002,Male,57,Vijayawada,Andhra Pradesh,P015,Track Pants,Sportswear,SportX,Pink,XL,4,1599,15,5436.6,1082.35,Debit Card,83
+ORD10003,2026-10-11,CUST1039,Customer_1003,Female,53,Kakinada,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Blue,XL,3,1799,15,4587.45,1018.45,UPI,77
+ORD10004,2026-05-10,CUST1468,Customer_1004,Female,26,Bhubaneswar,Odisha,P015,Track Pants,Sportswear,SportX,Red,L,2,1599,0,3198.0,948.16,Debit Card,9
+ORD10005,2025-09-25,CUST1581,Customer_1005,Male,32,Delhi,Delhi,P011,Cargo Pants,Trousers,UrbanWear,Beige,M,1,1799,25,1349.25,356.0,UPI,50
+ORD10006,2025-08-30,CUST1137,Customer_1006,Female,46,Vijayawada,Andhra Pradesh,P016,Denim Jacket,Outerwear,DenimCo,Beige,L,1,3199,15,2719.15,556.49,UPI,84
+ORD10007,2025-11-14,CUST1483,Customer_1007,Female,34,Hyderabad,Telangana,P013,Saree,Ethnic Wear,Heritage,Beige,M,4,3999,0,15996.0,4528.42,Credit Card,70
+ORD10008,2026-08-05,CUST1473,Customer_1008,Female,46,Kakinada,Andhra Pradesh,P013,Saree,Ethnic Wear,Heritage,Green,XL,1,3999,25,2999.25,304.78,Credit Card,79
+ORD10009,2025-06-29,CUST1069,Customer_1009,Male,46,Mumbai,Maharashtra,P012,Kurta,Ethnic Wear,Heritage,Grey,L,3,1899,15,4842.45,633.18,Net Banking,59
+ORD10010,2025-03-08,CUST1336,Customer_1010,Female,31,Pune,Maharashtra,P002,Slim Fit Jeans,Jeans,DenimCo,Grey,S,4,2499,20,7996.8,1773.59,Credit Card,46
+ORD10011,2025-01-26,CUST1141,Customer_1011,Female,20,Bengaluru,Karnataka,P020,Sweatshirt,Sportswear,UrbanWear,Pink,M,2,1699,5,3228.1,928.88,Net Banking,33
+ORD10012,2026-12-29,CUST1399,Customer_1012,Male,35,Mumbai,Maharashtra,P009,Sneakers,Footwear,SportX,Red,XXL,4,3299,0,13196.0,3595.35,Credit Card,21
+ORD10013,2026-05-24,CUST1278,Customer_1013,Female,24,Vijayawada,Andhra Pradesh,P007,Formal Trousers,Trousers,OfficeLine,Beige,L,1,1999,0,1999.0,517.58,Net Banking,19
+ORD10014,2025-06-24,CUST1181,Customer_1014,Female,45,Chennai,Tamil Nadu,P010,Polo Shirt,T-Shirts,StyleHub,Grey,M,4,1299,15,4416.6,811.88,Net Banking,13
+ORD10015,2025-12-28,CUST1420,Customer_1015,Male,29,Bhubaneswar,Odisha,P007,Formal Trousers,Trousers,OfficeLine,Yellow,XXL,1,1999,10,1799.1,539.53,Credit Card,79
+ORD10016,2025-02-27,CUST1058,Customer_1016,Male,56,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,SportX,White,L,4,3599,25,10797.0,1726.37,Cash,24
+ORD10017,2025-12-05,CUST1514,Customer_1017,Male,50,Mumbai,Maharashtra,P015,Track Pants,Sportswear,SportX,Green,XL,2,1599,25,2398.5,333.13,Cash,46
+ORD10018,2026-04-04,CUST1051,Customer_1018,Female,35,Pune,Maharashtra,P007,Formal Trousers,Trousers,OfficeLine,Pink,S,4,1999,0,7996.0,1942.76,UPI,52
+ORD10019,2025-05-08,CUST1353,Customer_1019,Female,25,Vijayawada,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Blue,XXL,2,2199,20,3518.4,431.88,Net Banking,60
+ORD10020,2025-04-21,CUST1576,Customer_1020,Male,38,Pune,Maharashtra,P009,Sneakers,Footwear,SportX,Green,XL,2,3299,20,5278.4,554.32,UPI,12
+ORD10021,2025-04-28,CUST1344,Customer_1021,Female,38,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,SportX,Pink,M,3,3599,20,8637.6,2645.89,Net Banking,36
+ORD10022,2025-09-23,CUST1496,Customer_1022,Male,56,Chennai,Tamil Nadu,P011,Cargo Pants,Trousers,UrbanWear,Green,S,3,1799,25,4047.75,424.02,Credit Card,58
+ORD10023,2025-06-28,CUST1396,Customer_1023,Female,49,Delhi,Delhi,P007,Formal Trousers,Trousers,OfficeLine,Beige,XL,1,1999,20,1599.2,258.86,Credit Card,15
+ORD10024,2025-04-14,CUST1333,Customer_1024,Female,33,Kakinada,Andhra Pradesh,P013,Saree,Ethnic Wear,Heritage,Blue,XXL,5,3999,30,13996.5,1514.85,Debit Card,82
+ORD10025,2026-03-30,CUST1310,Customer_1025,Female,29,Bhubaneswar,Odisha,P020,Sweatshirt,Sportswear,UrbanWear,Beige,XXL,2,1699,5,3228.1,529.41,UPI,20
+ORD10026,2025-04-21,CUST1536,Customer_1026,Male,50,Chennai,Tamil Nadu,P011,Cargo Pants,Trousers,UrbanWear,Pink,XXL,1,1799,10,1619.1,515.4,Credit Card,90
+ORD10027,2025-09-02,CUST1397,Customer_1027,Male,34,Hyderabad,Telangana,P003,Casual Shirt,Shirts,StyleHub,Pink,S,3,1499,15,3822.45,1031.46,Cash,76
+ORD10028,2025-01-24,CUST1074,Customer_1028,Male,53,Bhubaneswar,Odisha,P008,Leather Jacket,Outerwear,LeatherCraft,Beige,S,2,4599,0,9198.0,1407.42,Cash,22
+ORD10029,2025-07-24,CUST1187,Customer_1029,Female,51,Jaipur,Rajasthan,P008,Leather Jacket,Outerwear,LeatherCraft,Blue,XXL,3,4599,25,10347.75,1481.96,Debit Card,53
+ORD10030,2025-07-23,CUST1080,Customer_1030,Male,47,Visakhapatnam,Andhra Pradesh,P009,Sneakers,Footwear,SportX,Beige,S,1,3299,30,2309.3,347.61,Credit Card,53
+ORD10031,2026-09-23,CUST1483,Customer_1031,Male,48,Mumbai,Maharashtra,P019,Loafers,Footwear,OfficeLine,Black,XL,4,2799,25,8397.0,1208.75,Net Banking,17
+ORD10032,2026-12-12,CUST1181,Customer_1032,Male,39,Bhubaneswar,Odisha,P009,Sneakers,Footwear,SportX,Green,XL,1,3299,15,2804.15,525.69,Credit Card,96
+ORD10033,2026-03-12,CUST1334,Customer_1033,Male,45,Bhubaneswar,Odisha,P011,Cargo Pants,Trousers,UrbanWear,Pink,S,2,1799,30,2518.6,265.63,Cash,18
+ORD10034,2025-05-13,CUST1560,Customer_1034,Female,52,Bhubaneswar,Odisha,P015,Track Pants,Sportswear,SportX,Red,L,3,1599,0,4797.0,1108.73,Cash,80
+ORD10035,2025-07-02,CUST1479,Customer_1035,Male,28,Vijayawada,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,Red,L,1,1899,20,1519.2,429.13,Cash,63
+ORD10036,2025-03-28,CUST1225,Customer_1036,Female,36,Pune,Maharashtra,P019,Loafers,Footwear,OfficeLine,White,XL,5,2799,25,10496.25,2002.32,Net Banking,88
+ORD10037,2026-12-28,CUST1448,Customer_1037,Female,53,Kakinada,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Beige,S,3,3599,15,9177.45,1395.58,Net Banking,11
+ORD10038,2025-08-21,CUST1187,Customer_1038,Female,24,Vijayawada,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,Beige,XXL,3,1299,10,3507.3,987.05,Debit Card,20
+ORD10039,2026-01-30,CUST1013,Customer_1039,Female,20,Vijayawada,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,White,S,2,2199,20,3518.4,441.23,Net Banking,10
+ORD10040,2026-08-28,CUST1191,Customer_1040,Female,39,Delhi,Delhi,P009,Sneakers,Footwear,SportX,Yellow,XXL,3,3299,15,8412.45,1569.75,Cash,86
+ORD10041,2025-06-16,CUST1150,Customer_1041,Female,42,Kakinada,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Beige,L,1,1799,15,1529.15,232.56,Credit Card,9
+ORD10042,2025-03-10,CUST1501,Customer_1042,Male,20,Mumbai,Maharashtra,P001,Classic T-Shirt,T-Shirts,UrbanWear,Red,XXL,2,799,30,1118.6,136.88,Cash,14
+ORD10043,2025-08-23,CUST1482,Customer_1043,Female,51,Jaipur,Rajasthan,P017,Chinos,Trousers,OfficeLine,Grey,XL,5,1899,25,7121.25,2246.79,Cash,79
+ORD10044,2026-12-07,CUST1515,Customer_1044,Female,37,Mumbai,Maharashtra,P015,Track Pants,Sportswear,SportX,Pink,M,1,1599,25,1199.25,255.59,Cash,66
+ORD10045,2025-05-01,CUST1251,Customer_1045,Female,28,Vijayawada,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,Red,M,2,2999,0,5998.0,1230.39,Debit Card,40
+ORD10046,2025-06-21,CUST1179,Customer_1046,Female,58,Bengaluru,Karnataka,P015,Track Pants,Sportswear,SportX,Yellow,XXL,2,1599,15,2718.3,681.92,Net Banking,51
+ORD10047,2025-12-24,CUST1392,Customer_1047,Male,52,Mumbai,Maharashtra,P016,Denim Jacket,Outerwear,DenimCo,Green,L,2,3199,15,5438.3,1559.07,Cash,65
+ORD10048,2026-03-13,CUST1417,Customer_1048,Female,55,Delhi,Delhi,P002,Slim Fit Jeans,Jeans,DenimCo,Beige,S,2,2499,5,4748.1,686.24,Net Banking,63
+ORD10049,2026-01-17,CUST1562,Customer_1049,Female,23,Delhi,Delhi,P013,Saree,Ethnic Wear,Heritage,Beige,XXL,1,3999,20,3199.2,379.39,UPI,81
+ORD10050,2026-11-11,CUST1568,Customer_1050,Male,28,Kolkata,West Bengal,P009,Sneakers,Footwear,SportX,Yellow,L,3,3299,15,8412.45,2312.8,UPI,14
+ORD10051,2025-01-06,CUST1344,Customer_1051,Male,38,Kakinada,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Yellow,L,4,1799,5,6836.2,1533.29,Cash,78
+ORD10052,2025-04-12,CUST1559,Customer_1052,Female,23,Chennai,Tamil Nadu,P019,Loafers,Footwear,OfficeLine,Pink,S,4,2799,15,9516.6,2207.0,Cash,13
+ORD10053,2025-06-02,CUST1403,Customer_1053,Female,32,Chennai,Tamil Nadu,P010,Polo Shirt,T-Shirts,StyleHub,Yellow,XXL,4,1299,25,3897.0,1053.56,Net Banking,78
+ORD10054,2025-08-17,CUST1095,Customer_1054,Female,24,Bengaluru,Karnataka,P013,Saree,Ethnic Wear,Heritage,Black,XXL,2,3999,25,5998.5,1014.81,Debit Card,47
+ORD10055,2026-11-24,CUST1562,Customer_1055,Male,51,Delhi,Delhi,P015,Track Pants,Sportswear,SportX,Grey,L,2,1599,0,3198.0,708.86,UPI,41
+ORD10056,2025-11-06,CUST1072,Customer_1056,Male,54,Delhi,Delhi,P014,Blazer,Formal Wear,OfficeLine,Pink,XL,5,3499,0,17495.0,5410.55,UPI,16
+ORD10057,2025-03-11,CUST1273,Customer_1057,Female,53,Delhi,Delhi,P010,Polo Shirt,T-Shirts,StyleHub,Red,M,3,1299,0,3897.0,400.25,Net Banking,49
+ORD10058,2026-06-23,CUST1469,Customer_1058,Female,22,Hyderabad,Telangana,P007,Formal Trousers,Trousers,OfficeLine,Red,XXL,3,1999,0,5997.0,1811.44,UPI,89
+ORD10059,2026-05-01,CUST1600,Customer_1059,Male,46,Jaipur,Rajasthan,P014,Blazer,Formal Wear,OfficeLine,White,XL,2,3499,25,5248.5,647.73,Cash,13
+ORD10060,2025-11-27,CUST1086,Customer_1060,Female,51,Visakhapatnam,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Pink,S,5,3499,30,12246.5,1873.5,UPI,92
+ORD10061,2025-04-25,CUST1031,Customer_1061,Female,44,Visakhapatnam,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Beige,XXL,4,3599,30,10077.2,1019.76,Net Banking,27
+ORD10062,2026-12-08,CUST1557,Customer_1062,Male,51,Visakhapatnam,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Pink,XL,5,3599,5,17095.25,4721.91,Net Banking,85
+ORD10063,2026-05-25,CUST1303,Customer_1063,Female,50,Kakinada,Andhra Pradesh,P009,Sneakers,Footwear,SportX,Green,XL,1,3299,15,2804.15,357.48,UPI,86
+ORD10064,2025-01-12,CUST1163,Customer_1064,Male,48,Delhi,Delhi,P009,Sneakers,Footwear,SportX,Green,XXL,1,3299,25,2474.25,352.5,Cash,63
+ORD10065,2025-06-09,CUST1531,Customer_1065,Male,48,Pune,Maharashtra,P011,Cargo Pants,Trousers,UrbanWear,Red,S,1,1799,0,1799.0,196.66,Credit Card,13
+ORD10066,2026-02-01,CUST1471,Customer_1066,Male,45,Bhubaneswar,Odisha,P016,Denim Jacket,Outerwear,DenimCo,Pink,L,1,3199,10,2879.1,578.36,Debit Card,18
+ORD10067,2026-01-28,CUST1420,Customer_1067,Male,45,Hyderabad,Telangana,P005,Summer Dress,Dresses,Elegance,Red,XXL,5,2999,15,12745.75,2895.37,UPI,19
+ORD10068,2025-04-05,CUST1072,Customer_1068,Female,23,Bengaluru,Karnataka,P010,Polo Shirt,T-Shirts,StyleHub,Beige,M,3,1299,20,3117.6,636.98,UPI,34
+ORD10069,2026-12-11,CUST1248,Customer_1069,Male,35,Pune,Maharashtra,P013,Saree,Ethnic Wear,Heritage,Pink,M,3,3999,25,8997.75,2156.03,Net Banking,61
+ORD10070,2025-12-15,CUST1285,Customer_1070,Male,27,Visakhapatnam,Andhra Pradesh,P013,Saree,Ethnic Wear,Heritage,Black,L,2,3999,30,5598.6,1075.2,Credit Card,59
+ORD10071,2026-03-27,CUST1190,Customer_1071,Male,51,Pune,Maharashtra,P012,Kurta,Ethnic Wear,Heritage,Red,L,4,1899,15,6456.6,1572.41,UPI,46
+ORD10072,2026-08-14,CUST1443,Customer_1072,Female,56,Bengaluru,Karnataka,P011,Cargo Pants,Trousers,UrbanWear,White,XXL,4,1799,15,6116.6,1301.63,Net Banking,53
+ORD10073,2026-01-15,CUST1503,Customer_1073,Male,39,Kolkata,West Bengal,P015,Track Pants,Sportswear,SportX,Black,S,3,1599,5,4557.15,770.97,UPI,11
+ORD10074,2026-02-17,CUST1201,Customer_1074,Male,25,Visakhapatnam,Andhra Pradesh,P018,Anarkali Dress,Dresses,Elegance,Yellow,M,5,3299,25,12371.25,2000.86,UPI,76
+ORD10075,2025-10-31,CUST1224,Customer_1075,Female,24,Kolkata,West Bengal,P019,Loafers,Footwear,OfficeLine,Blue,XL,1,2799,15,2379.15,686.24,Cash,16
+ORD10076,2025-11-25,CUST1464,Customer_1076,Male,31,Bhubaneswar,Odisha,P011,Cargo Pants,Trousers,UrbanWear,Yellow,XL,2,1799,15,3058.3,975.6,UPI,72
+ORD10077,2026-05-08,CUST1126,Customer_1077,Female,40,Pune,Maharashtra,P016,Denim Jacket,Outerwear,DenimCo,Green,S,2,3199,30,4478.6,458.43,Cash,20
+ORD10078,2025-05-27,CUST1504,Customer_1078,Female,60,Bhubaneswar,Odisha,P009,Sneakers,Footwear,SportX,Grey,S,5,3299,30,11546.5,2566.94,Debit Card,48
+ORD10079,2025-01-31,CUST1261,Customer_1079,Male,38,Visakhapatnam,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,Beige,S,2,1899,10,3418.2,909.83,Credit Card,22
+ORD10080,2025-05-21,CUST1176,Customer_1080,Male,39,Visakhapatnam,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,Beige,L,5,2999,30,10496.5,1587.36,Cash,52
+ORD10081,2026-09-16,CUST1383,Customer_1081,Female,45,Kakinada,Andhra Pradesh,P001,Classic T-Shirt,T-Shirts,UrbanWear,Red,XL,1,799,5,759.05,216.78,Cash,78
+ORD10082,2026-10-06,CUST1204,Customer_1082,Female,54,Bengaluru,Karnataka,P013,Saree,Ethnic Wear,Heritage,Blue,L,1,3999,25,2999.25,655.92,Debit Card,78
+ORD10083,2025-08-11,CUST1353,Customer_1083,Male,54,Mumbai,Maharashtra,P014,Blazer,Formal Wear,OfficeLine,Red,M,5,3499,10,15745.5,4725.25,Debit Card,52
+ORD10084,2026-12-30,CUST1551,Customer_1084,Female,45,Vijayawada,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,Red,S,3,1899,15,4842.45,908.84,UPI,37
+ORD10085,2026-05-20,CUST1269,Customer_1085,Male,31,Visakhapatnam,Andhra Pradesh,P007,Formal Trousers,Trousers,OfficeLine,White,L,1,1999,5,1899.05,577.39,Debit Card,5
+ORD10086,2026-06-05,CUST1590,Customer_1086,Female,44,Delhi,Delhi,P009,Sneakers,Footwear,SportX,Pink,L,2,3299,5,6268.1,1500.77,Net Banking,78
+ORD10087,2026-04-01,CUST1470,Customer_1087,Male,55,Delhi,Delhi,P014,Blazer,Formal Wear,OfficeLine,Black,S,5,3499,15,14870.75,4638.28,Debit Card,75
+ORD10088,2025-11-01,CUST1582,Customer_1088,Male,60,Mumbai,Maharashtra,P017,Chinos,Trousers,OfficeLine,White,M,3,1899,20,4557.6,1111.61,Net Banking,75
+ORD10089,2025-08-06,CUST1025,Customer_1089,Female,51,Bengaluru,Karnataka,P020,Sweatshirt,Sportswear,UrbanWear,Beige,L,4,1699,20,5436.8,691.84,Net Banking,99
+ORD10090,2025-02-24,CUST1477,Customer_1090,Female,21,Bhubaneswar,Odisha,P018,Anarkali Dress,Dresses,Elegance,White,L,3,3299,10,8907.3,1697.26,Debit Card,81
+ORD10091,2025-02-10,CUST1224,Customer_1091,Female,20,Kolkata,West Bengal,P006,Running Shoes,Footwear,SportX,Red,S,5,3599,15,15295.75,1653.98,Net Banking,69
+ORD10092,2026-06-25,CUST1444,Customer_1092,Male,52,Kolkata,West Bengal,P016,Denim Jacket,Outerwear,DenimCo,Red,S,4,3199,20,10236.8,2972.77,Net Banking,27
+ORD10093,2026-11-26,CUST1309,Customer_1093,Male,47,Jaipur,Rajasthan,P003,Casual Shirt,Shirts,StyleHub,Green,S,4,1499,5,5696.2,575.26,Cash,43
+ORD10094,2025-10-30,CUST1512,Customer_1094,Female,32,Delhi,Delhi,P014,Blazer,Formal Wear,OfficeLine,Pink,XXL,5,3499,20,13996.0,2131.38,Net Banking,33
+ORD10095,2026-02-06,CUST1532,Customer_1095,Female,26,Bengaluru,Karnataka,P015,Track Pants,Sportswear,SportX,Yellow,S,3,1599,15,4077.45,654.27,Cash,37
+ORD10096,2026-04-11,CUST1178,Customer_1096,Female,35,Kolkata,West Bengal,P009,Sneakers,Footwear,SportX,Green,S,4,3299,10,11876.4,3797.16,UPI,60
+ORD10097,2025-02-14,CUST1236,Customer_1097,Male,57,Delhi,Delhi,P004,Hoodie,Outerwear,UrbanWear,White,L,5,2199,25,8246.25,1904.45,Credit Card,17
+ORD10098,2026-02-10,CUST1011,Customer_1098,Male,37,Visakhapatnam,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,Beige,XL,2,1499,0,2998.0,433.02,Net Banking,37
+ORD10099,2026-01-03,CUST1325,Customer_1099,Female,30,Bhubaneswar,Odisha,P009,Sneakers,Footwear,SportX,Red,XXL,3,3299,30,6927.9,1838.89,Credit Card,27
+ORD10100,2026-12-20,CUST1446,Customer_1100,Male,43,Jaipur,Rajasthan,P012,Kurta,Ethnic Wear,Heritage,Grey,XL,2,1899,30,2658.6,575.58,UPI,33
+ORD10101,2025-09-11,CUST1525,Customer_1101,Male,30,Hyderabad,Telangana,P018,Anarkali Dress,Dresses,Elegance,Black,L,2,3299,10,5938.2,796.89,Credit Card,81
+ORD10102,2026-11-25,CUST1597,Customer_1102,Female,47,Chennai,Tamil Nadu,P012,Kurta,Ethnic Wear,Heritage,Blue,XXL,4,1899,20,6076.8,1244.39,Cash,91
+ORD10103,2025-08-22,CUST1062,Customer_1103,Male,46,Kakinada,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Blue,XXL,4,3599,15,12236.6,2737.05,Cash,54
+ORD10104,2026-06-24,CUST1062,Customer_1104,Male,19,Visakhapatnam,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Black,M,3,2799,0,8397.0,2612.73,Debit Card,11
+ORD10105,2025-02-04,CUST1031,Customer_1105,Female,22,Mumbai,Maharashtra,P020,Sweatshirt,Sportswear,UrbanWear,Grey,M,3,1699,5,4842.15,817.19,Cash,10
+ORD10106,2025-12-25,CUST1237,Customer_1106,Male,35,Kakinada,Andhra Pradesh,P018,Anarkali Dress,Dresses,Elegance,White,S,4,3299,15,11216.6,1867.07,Credit Card,15
+ORD10107,2025-07-20,CUST1294,Customer_1107,Male,32,Visakhapatnam,Andhra Pradesh,P009,Sneakers,Footwear,SportX,Red,L,5,3299,5,15670.25,3318.91,Debit Card,79
+ORD10108,2026-03-13,CUST1146,Customer_1108,Female,38,Hyderabad,Telangana,P010,Polo Shirt,T-Shirts,StyleHub,Pink,XL,5,1299,15,5520.75,943.76,Credit Card,26
+ORD10109,2025-12-28,CUST1277,Customer_1109,Female,48,Bhubaneswar,Odisha,P015,Track Pants,Sportswear,SportX,White,S,2,1599,5,3038.1,336.27,Cash,9
+ORD10110,2026-11-13,CUST1113,Customer_1110,Female,19,Bhubaneswar,Odisha,P007,Formal Trousers,Trousers,OfficeLine,White,S,1,1999,0,1999.0,203.97,Cash,64
+ORD10111,2026-05-17,CUST1510,Customer_1111,Male,18,Mumbai,Maharashtra,P010,Polo Shirt,T-Shirts,StyleHub,Blue,XXL,2,1299,0,2598.0,597.13,Debit Card,64
+ORD10112,2025-08-01,CUST1153,Customer_1112,Male,57,Kolkata,West Bengal,P010,Polo Shirt,T-Shirts,StyleHub,Grey,L,1,1299,30,909.3,262.07,Net Banking,62
+ORD10113,2025-04-19,CUST1192,Customer_1113,Female,52,Bengaluru,Karnataka,P019,Loafers,Footwear,OfficeLine,White,XL,5,2799,0,13995.0,3903.14,Credit Card,25
+ORD10114,2026-09-22,CUST1018,Customer_1114,Female,32,Hyderabad,Telangana,P011,Cargo Pants,Trousers,UrbanWear,Red,S,3,1799,20,4317.6,505.95,Cash,20
+ORD10115,2026-08-26,CUST1191,Customer_1115,Male,56,Delhi,Delhi,P014,Blazer,Formal Wear,OfficeLine,White,L,4,3499,25,10497.0,2755.33,Credit Card,17
+ORD10116,2026-08-03,CUST1305,Customer_1116,Male,60,Delhi,Delhi,P016,Denim Jacket,Outerwear,DenimCo,Blue,S,1,3199,20,2559.2,353.29,Net Banking,6
+ORD10117,2026-02-23,CUST1539,Customer_1117,Male,55,Pune,Maharashtra,P012,Kurta,Ethnic Wear,Heritage,Red,L,5,1899,20,7596.0,971.68,UPI,64
+ORD10118,2025-04-07,CUST1177,Customer_1118,Male,46,Visakhapatnam,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Beige,XXL,2,2199,25,3298.5,761.31,UPI,6
+ORD10119,2026-09-05,CUST1153,Customer_1119,Female,44,Kakinada,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,White,L,3,2499,5,7122.15,2081.49,Debit Card,43
+ORD10120,2025-07-15,CUST1456,Customer_1120,Female,60,Delhi,Delhi,P016,Denim Jacket,Outerwear,DenimCo,White,L,4,3199,15,10876.6,2444.26,Net Banking,54
+ORD10121,2025-11-09,CUST1245,Customer_1121,Female,22,Kolkata,West Bengal,P019,Loafers,Footwear,OfficeLine,Yellow,XXL,1,2799,0,2799.0,600.25,Cash,42
+ORD10122,2025-07-13,CUST1108,Customer_1122,Female,26,Vijayawada,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Beige,XXL,4,2199,15,7476.6,2329.27,Net Banking,92
+ORD10123,2026-04-16,CUST1528,Customer_1123,Female,34,Chennai,Tamil Nadu,P005,Summer Dress,Dresses,Elegance,Red,L,2,2999,10,5398.2,1410.92,UPI,76
+ORD10124,2025-11-21,CUST1063,Customer_1124,Female,56,Kolkata,West Bengal,P014,Blazer,Formal Wear,OfficeLine,Yellow,XXL,4,3499,15,11896.6,2681.32,Net Banking,81
+ORD10125,2025-11-29,CUST1014,Customer_1125,Male,60,Kakinada,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Beige,M,1,1799,0,1799.0,474.2,Net Banking,74
+ORD10126,2025-09-12,CUST1366,Customer_1126,Female,42,Bengaluru,Karnataka,P019,Loafers,Footwear,OfficeLine,Red,L,5,2799,20,11196.0,1905.66,UPI,62
+ORD10127,2025-09-04,CUST1227,Customer_1127,Male,34,Chennai,Tamil Nadu,P012,Kurta,Ethnic Wear,Heritage,Yellow,S,5,1899,15,8070.75,1156.4,Credit Card,20
+ORD10128,2026-06-15,CUST1147,Customer_1128,Male,22,Bengaluru,Karnataka,P007,Formal Trousers,Trousers,OfficeLine,Green,XL,4,1999,0,7996.0,2479.38,Debit Card,89
+ORD10129,2025-12-16,CUST1314,Customer_1129,Male,38,Kakinada,Andhra Pradesh,P007,Formal Trousers,Trousers,OfficeLine,Green,M,2,1999,15,3398.3,478.71,UPI,9
+ORD10130,2026-05-07,CUST1298,Customer_1130,Female,22,Bhubaneswar,Odisha,P001,Classic T-Shirt,T-Shirts,UrbanWear,Blue,M,3,799,0,2397.0,583.8,UPI,33
+ORD10131,2025-03-18,CUST1591,Customer_1131,Female,60,Jaipur,Rajasthan,P007,Formal Trousers,Trousers,OfficeLine,Red,XXL,4,1999,10,7196.4,2147.13,Debit Card,11
+ORD10132,2025-11-07,CUST1059,Customer_1132,Female,54,Hyderabad,Telangana,P009,Sneakers,Footwear,SportX,Yellow,XL,1,3299,30,2309.3,511.83,Debit Card,57
+ORD10133,2025-03-19,CUST1512,Customer_1133,Male,43,Hyderabad,Telangana,P011,Cargo Pants,Trousers,UrbanWear,Green,XL,1,1799,0,1799.0,243.35,Cash,33
+ORD10134,2025-01-23,CUST1464,Customer_1134,Male,26,Bengaluru,Karnataka,P017,Chinos,Trousers,OfficeLine,Grey,XXL,2,1899,25,2848.5,761.13,Debit Card,16
+ORD10135,2025-05-10,CUST1508,Customer_1135,Female,25,Vijayawada,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,Grey,L,5,2999,25,11246.25,1779.14,UPI,48
+ORD10136,2026-02-24,CUST1525,Customer_1136,Female,32,Delhi,Delhi,P004,Hoodie,Outerwear,UrbanWear,Green,L,2,2199,30,3078.6,884.46,Cash,28
+ORD10137,2025-02-24,CUST1533,Customer_1137,Male,51,Vijayawada,Andhra Pradesh,P007,Formal Trousers,Trousers,OfficeLine,Blue,L,2,1999,10,3598.2,1103.94,Credit Card,52
+ORD10138,2025-09-21,CUST1080,Customer_1138,Male,23,Mumbai,Maharashtra,P010,Polo Shirt,T-Shirts,StyleHub,White,XXL,3,1299,10,3507.3,686.04,UPI,51
+ORD10139,2026-12-02,CUST1125,Customer_1139,Male,28,Vijayawada,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,Pink,S,5,1899,5,9020.25,2002.24,Credit Card,16
+ORD10140,2025-02-22,CUST1280,Customer_1140,Female,35,Hyderabad,Telangana,P004,Hoodie,Outerwear,UrbanWear,Green,L,5,2199,0,10995.0,2570.5,Cash,22
+ORD10141,2025-09-28,CUST1282,Customer_1141,Female,24,Kolkata,West Bengal,P017,Chinos,Trousers,OfficeLine,Pink,XXL,5,1899,0,9495.0,2498.66,Cash,37
+ORD10142,2026-04-26,CUST1374,Customer_1142,Male,50,Bengaluru,Karnataka,P012,Kurta,Ethnic Wear,Heritage,Grey,XL,1,1899,30,1329.3,365.27,Net Banking,25
+ORD10143,2026-07-05,CUST1002,Customer_1143,Female,60,Chennai,Tamil Nadu,P005,Summer Dress,Dresses,Elegance,Blue,M,5,2999,15,12745.75,3066.41,Net Banking,10
+ORD10144,2026-07-29,CUST1380,Customer_1144,Male,34,Vijayawada,Andhra Pradesh,P008,Leather Jacket,Outerwear,LeatherCraft,White,XXL,3,4599,25,10347.75,1381.55,Cash,35
+ORD10145,2026-04-26,CUST1360,Customer_1145,Male,38,Chennai,Tamil Nadu,P009,Sneakers,Footwear,SportX,Grey,XXL,4,3299,25,9897.0,2426.64,Debit Card,37
+ORD10146,2026-03-03,CUST1025,Customer_1146,Female,37,Delhi,Delhi,P012,Kurta,Ethnic Wear,Heritage,Blue,XXL,1,1899,0,1899.0,543.35,Cash,76
+ORD10147,2025-05-06,CUST1182,Customer_1147,Male,58,Mumbai,Maharashtra,P006,Running Shoes,Footwear,SportX,Yellow,M,5,3599,15,15295.75,3750.5,Cash,75
+ORD10148,2026-03-07,CUST1306,Customer_1148,Female,57,Mumbai,Maharashtra,P008,Leather Jacket,Outerwear,LeatherCraft,Blue,L,3,4599,30,9657.9,2495.14,UPI,67
+ORD10149,2025-07-08,CUST1076,Customer_1149,Female,21,Bengaluru,Karnataka,P009,Sneakers,Footwear,SportX,Blue,XL,2,3299,20,5278.4,1038.85,UPI,67
+ORD10150,2026-08-11,CUST1119,Customer_1150,Male,51,Visakhapatnam,Andhra Pradesh,P015,Track Pants,Sportswear,SportX,Beige,XXL,4,1599,10,5756.4,989.18,Cash,28
+ORD10151,2026-07-14,CUST1084,Customer_1151,Male,30,Vijayawada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Blue,XL,4,2799,5,10636.2,1707.47,Net Banking,92
+ORD10152,2026-07-16,CUST1572,Customer_1152,Female,44,Mumbai,Maharashtra,P015,Track Pants,Sportswear,SportX,Yellow,M,2,1599,30,2238.6,569.29,Credit Card,65
+ORD10153,2025-11-18,CUST1412,Customer_1153,Female,18,Bhubaneswar,Odisha,P002,Slim Fit Jeans,Jeans,DenimCo,Green,L,2,2499,25,3748.5,704.45,Cash,89
+ORD10154,2026-09-11,CUST1513,Customer_1154,Male,31,Chennai,Tamil Nadu,P020,Sweatshirt,Sportswear,UrbanWear,Pink,L,4,1699,10,6116.4,1871.04,Cash,52
+ORD10155,2025-10-22,CUST1548,Customer_1155,Female,57,Bengaluru,Karnataka,P009,Sneakers,Footwear,SportX,Blue,XXL,4,3299,25,9897.0,1521.42,Net Banking,98
+ORD10156,2025-03-18,CUST1289,Customer_1156,Female,37,Kolkata,West Bengal,P001,Classic T-Shirt,T-Shirts,UrbanWear,Yellow,M,4,799,30,2237.2,599.05,Cash,66
+ORD10157,2025-09-22,CUST1246,Customer_1157,Male,27,Hyderabad,Telangana,P013,Saree,Ethnic Wear,Heritage,Grey,XXL,2,3999,10,7198.2,1647.75,Credit Card,87
+ORD10158,2025-11-28,CUST1479,Customer_1158,Male,54,Visakhapatnam,Andhra Pradesh,P012,Kurta,Ethnic Wear,Heritage,Blue,S,1,1899,10,1709.1,297.3,Cash,79
+ORD10159,2025-07-29,CUST1116,Customer_1159,Female,24,Bengaluru,Karnataka,P013,Saree,Ethnic Wear,Heritage,Black,L,1,3999,0,3999.0,1278.46,Debit Card,64
+ORD10160,2026-11-17,CUST1083,Customer_1160,Female,52,Bhubaneswar,Odisha,P018,Anarkali Dress,Dresses,Elegance,Blue,M,5,3299,10,14845.5,1712.0,Debit Card,89
+ORD10161,2026-02-25,CUST1106,Customer_1161,Male,36,Vijayawada,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,Green,L,4,2999,15,10196.6,2887.23,Credit Card,53
+ORD10162,2025-01-18,CUST1600,Customer_1162,Male,40,Pune,Maharashtra,P006,Running Shoes,Footwear,SportX,Black,S,4,3599,25,10797.0,3436.14,Cash,74
+ORD10163,2025-05-10,CUST1255,Customer_1163,Male,20,Hyderabad,Telangana,P003,Casual Shirt,Shirts,StyleHub,Red,XL,5,1499,10,6745.5,1358.99,Cash,38
+ORD10164,2026-11-15,CUST1250,Customer_1164,Male,31,Kolkata,West Bengal,P007,Formal Trousers,Trousers,OfficeLine,Blue,XL,4,1999,20,6396.8,1795.39,Cash,81
+ORD10165,2026-02-21,CUST1528,Customer_1165,Female,22,Jaipur,Rajasthan,P004,Hoodie,Outerwear,UrbanWear,Blue,S,3,2199,5,6267.15,825.13,Credit Card,56
+ORD10166,2025-03-05,CUST1262,Customer_1166,Female,51,Visakhapatnam,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Black,S,1,3599,15,3059.15,306.26,Credit Card,67
+ORD10167,2025-02-17,CUST1517,Customer_1167,Male,53,Kakinada,Andhra Pradesh,P015,Track Pants,Sportswear,SportX,Green,L,5,1599,10,7195.5,952.04,Debit Card,83
+ORD10168,2026-03-05,CUST1155,Customer_1168,Male,50,Bengaluru,Karnataka,P001,Classic T-Shirt,T-Shirts,UrbanWear,White,L,1,799,10,719.1,188.63,Debit Card,77
+ORD10169,2026-04-02,CUST1126,Customer_1169,Female,50,Bengaluru,Karnataka,P015,Track Pants,Sportswear,SportX,Beige,S,3,1599,10,4317.3,639.92,Cash,13
+ORD10170,2025-02-14,CUST1240,Customer_1170,Female,60,Kakinada,Andhra Pradesh,P007,Formal Trousers,Trousers,OfficeLine,Pink,S,1,1999,5,1899.05,533.79,Net Banking,67
+ORD10171,2026-11-27,CUST1586,Customer_1171,Female,55,Bengaluru,Karnataka,P004,Hoodie,Outerwear,UrbanWear,Green,S,3,2199,30,4617.9,1350.82,Cash,26
+ORD10172,2025-01-05,CUST1340,Customer_1172,Female,41,Hyderabad,Telangana,P010,Polo Shirt,T-Shirts,StyleHub,Red,XXL,4,1299,30,3637.2,951.64,Credit Card,73
+ORD10173,2025-09-29,CUST1292,Customer_1173,Female,29,Visakhapatnam,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,Blue,L,1,1299,15,1104.15,256.54,Credit Card,77
+ORD10174,2026-07-05,CUST1163,Customer_1174,Male,40,Mumbai,Maharashtra,P003,Casual Shirt,Shirts,StyleHub,White,M,5,1499,10,6745.5,1246.44,Debit Card,59
+ORD10175,2025-01-07,CUST1128,Customer_1175,Female,56,Visakhapatnam,Andhra Pradesh,P013,Saree,Ethnic Wear,Heritage,Yellow,XL,4,3999,25,11997.0,1202.52,Cash,21
+ORD10176,2026-09-06,CUST1562,Customer_1176,Male,20,Chennai,Tamil Nadu,P017,Chinos,Trousers,OfficeLine,Red,M,5,1899,0,9495.0,1944.01,Debit Card,61
+ORD10177,2026-10-14,CUST1060,Customer_1177,Male,26,Delhi,Delhi,P010,Polo Shirt,T-Shirts,StyleHub,Black,L,1,1299,10,1169.1,171.97,Debit Card,21
+ORD10178,2025-09-08,CUST1217,Customer_1178,Male,20,Jaipur,Rajasthan,P002,Slim Fit Jeans,Jeans,DenimCo,Green,M,1,2499,20,1999.2,340.84,Credit Card,30
+ORD10179,2025-01-24,CUST1558,Customer_1179,Female,22,Kakinada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Yellow,S,4,2799,10,10076.4,2976.98,UPI,16
+ORD10180,2026-12-04,CUST1453,Customer_1180,Male,53,Vijayawada,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,Yellow,L,4,1299,10,4676.4,1344.58,UPI,100
+ORD10181,2025-12-08,CUST1570,Customer_1181,Male,42,Bengaluru,Karnataka,P009,Sneakers,Footwear,SportX,Beige,XXL,1,3299,5,3134.05,536.76,Net Banking,21
+ORD10182,2025-07-31,CUST1583,Customer_1182,Female,34,Chennai,Tamil Nadu,P017,Chinos,Trousers,OfficeLine,Pink,M,5,1899,10,8545.5,1782.66,Cash,61
+ORD10183,2026-12-18,CUST1062,Customer_1183,Female,55,Hyderabad,Telangana,P010,Polo Shirt,T-Shirts,StyleHub,Black,L,1,1299,20,1039.2,148.09,Debit Card,39
+ORD10184,2025-10-04,CUST1557,Customer_1184,Female,58,Chennai,Tamil Nadu,P014,Blazer,Formal Wear,OfficeLine,Yellow,M,3,3499,15,8922.45,2135.08,Cash,36
+ORD10185,2025-08-01,CUST1396,Customer_1185,Male,41,Mumbai,Maharashtra,P006,Running Shoes,Footwear,SportX,Red,M,3,3599,30,7557.9,1523.67,Net Banking,38
+ORD10186,2026-01-01,CUST1434,Customer_1186,Female,34,Vijayawada,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,Pink,M,2,2499,15,4248.3,580.04,Cash,59
+ORD10187,2026-12-10,CUST1557,Customer_1187,Male,43,Hyderabad,Telangana,P016,Denim Jacket,Outerwear,DenimCo,Black,XL,4,3199,15,10876.6,3066.05,Net Banking,10
+ORD10188,2026-11-04,CUST1348,Customer_1188,Female,18,Bengaluru,Karnataka,P014,Blazer,Formal Wear,OfficeLine,Grey,S,5,3499,25,13121.25,3979.13,Net Banking,70
+ORD10189,2025-04-21,CUST1512,Customer_1189,Male,39,Visakhapatnam,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,White,L,3,2799,0,8397.0,2213.12,Debit Card,5
+ORD10190,2026-12-23,CUST1224,Customer_1190,Female,42,Hyderabad,Telangana,P012,Kurta,Ethnic Wear,Heritage,Black,M,4,1899,30,5317.2,1559.68,Cash,20
+ORD10191,2025-06-25,CUST1580,Customer_1191,Male,59,Chennai,Tamil Nadu,P009,Sneakers,Footwear,SportX,Pink,XXL,4,3299,5,12536.2,2733.23,Net Banking,23
+ORD10192,2025-03-27,CUST1061,Customer_1192,Male,52,Jaipur,Rajasthan,P019,Loafers,Footwear,OfficeLine,Green,L,3,2799,30,5877.9,1072.02,Credit Card,59
+ORD10193,2026-11-14,CUST1222,Customer_1193,Male,35,Pune,Maharashtra,P013,Saree,Ethnic Wear,Heritage,White,S,5,3999,25,14996.25,2901.71,Net Banking,81
+ORD10194,2026-06-18,CUST1525,Customer_1194,Male,19,Hyderabad,Telangana,P005,Summer Dress,Dresses,Elegance,Beige,L,5,2999,0,14995.0,2501.69,Debit Card,49
+ORD10195,2025-03-24,CUST1227,Customer_1195,Female,44,Vijayawada,Andhra Pradesh,P009,Sneakers,Footwear,SportX,White,S,4,3299,20,10556.8,2607.88,Debit Card,49
+ORD10196,2026-02-24,CUST1114,Customer_1196,Male,32,Kakinada,Andhra Pradesh,P020,Sweatshirt,Sportswear,UrbanWear,White,S,3,1699,30,3567.9,466.39,Debit Card,95
+ORD10197,2025-06-28,CUST1049,Customer_1197,Female,46,Kolkata,West Bengal,P004,Hoodie,Outerwear,UrbanWear,Beige,XXL,3,2199,5,6267.15,1970.22,Net Banking,65
+ORD10198,2025-05-30,CUST1321,Customer_1198,Male,60,Chennai,Tamil Nadu,P008,Leather Jacket,Outerwear,LeatherCraft,Green,XXL,3,4599,0,13797.0,1488.67,Cash,8
+ORD10199,2025-10-11,CUST1028,Customer_1199,Male,58,Hyderabad,Telangana,P005,Summer Dress,Dresses,Elegance,Yellow,XXL,4,2999,15,10196.6,3045.29,Net Banking,16
+ORD10200,2026-06-12,CUST1321,Customer_1200,Male,57,Jaipur,Rajasthan,P006,Running Shoes,Footwear,SportX,Pink,L,1,3599,0,3599.0,483.23,Cash,43
+ORD10201,2025-07-30,CUST1187,Customer_1201,Female,26,Visakhapatnam,Andhra Pradesh,P016,Denim Jacket,Outerwear,DenimCo,Green,M,3,3199,30,6717.9,2103.55,UPI,97
+ORD10202,2026-01-30,CUST1499,Customer_1202,Male,59,Jaipur,Rajasthan,P004,Hoodie,Outerwear,UrbanWear,Grey,XXL,1,2199,20,1759.2,449.87,Credit Card,95
+ORD10203,2025-10-11,CUST1327,Customer_1203,Female,56,Kolkata,West Bengal,P013,Saree,Ethnic Wear,Heritage,White,XXL,1,3999,30,2799.3,615.98,Debit Card,72
+ORD10204,2025-07-24,CUST1217,Customer_1204,Male,34,Chennai,Tamil Nadu,P016,Denim Jacket,Outerwear,DenimCo,White,S,3,3199,15,8157.45,1509.09,Cash,12
+ORD10205,2026-09-02,CUST1368,Customer_1205,Male,19,Chennai,Tamil Nadu,P012,Kurta,Ethnic Wear,Heritage,Blue,S,4,1899,25,5697.0,1736.16,Net Banking,24
+ORD10206,2026-04-30,CUST1562,Customer_1206,Female,60,Kakinada,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Black,M,5,3599,25,13496.25,2880.99,Debit Card,9
+ORD10207,2025-04-19,CUST1342,Customer_1207,Male,57,Visakhapatnam,Andhra Pradesh,P008,Leather Jacket,Outerwear,LeatherCraft,Blue,L,1,4599,30,3219.3,460.13,Cash,65
+ORD10208,2026-04-21,CUST1519,Customer_1208,Female,58,Kolkata,West Bengal,P016,Denim Jacket,Outerwear,DenimCo,White,M,2,3199,15,5438.3,1282.97,UPI,13
+ORD10209,2026-09-13,CUST1227,Customer_1209,Male,51,Chennai,Tamil Nadu,P010,Polo Shirt,T-Shirts,StyleHub,White,L,2,1299,10,2338.2,720.29,Debit Card,22
+ORD10210,2025-04-29,CUST1261,Customer_1210,Female,27,Pune,Maharashtra,P013,Saree,Ethnic Wear,Heritage,Yellow,XL,2,3999,5,7598.1,1884.54,Net Banking,21
+ORD10211,2026-03-06,CUST1299,Customer_1211,Female,40,Kakinada,Andhra Pradesh,P015,Track Pants,Sportswear,SportX,Black,L,5,1599,25,5996.25,741.19,Net Banking,46
+ORD10212,2026-11-04,CUST1254,Customer_1212,Female,20,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,SportX,Yellow,L,5,3599,0,17995.0,3691.64,Credit Card,26
+ORD10213,2025-01-13,CUST1282,Customer_1213,Male,56,Visakhapatnam,Andhra Pradesh,P015,Track Pants,Sportswear,SportX,Blue,L,4,1599,20,5116.8,1616.42,Cash,10
+ORD10214,2026-10-22,CUST1257,Customer_1214,Male,45,Pune,Maharashtra,P017,Chinos,Trousers,OfficeLine,White,XXL,5,1899,25,7121.25,1936.88,Cash,65
+ORD10215,2026-11-10,CUST1577,Customer_1215,Female,33,Pune,Maharashtra,P007,Formal Trousers,Trousers,OfficeLine,Grey,L,2,1999,15,3398.3,842.13,Cash,82
+ORD10216,2026-01-24,CUST1130,Customer_1216,Female,50,Delhi,Delhi,P008,Leather Jacket,Outerwear,LeatherCraft,Red,S,3,4599,0,13797.0,2775.07,Credit Card,24
+ORD10217,2026-06-19,CUST1164,Customer_1217,Female,22,Delhi,Delhi,P008,Leather Jacket,Outerwear,LeatherCraft,Black,XXL,4,4599,0,18396.0,5460.51,Net Banking,19
+ORD10218,2025-05-19,CUST1530,Customer_1218,Female,50,Hyderabad,Telangana,P006,Running Shoes,Footwear,SportX,White,XL,1,3599,10,3239.1,701.16,Net Banking,21
+ORD10219,2025-10-12,CUST1165,Customer_1219,Male,31,Chennai,Tamil Nadu,P016,Denim Jacket,Outerwear,DenimCo,Red,S,2,3199,25,4798.5,635.48,Cash,57
+ORD10220,2025-06-25,CUST1470,Customer_1220,Female,50,Visakhapatnam,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,Black,XXL,4,1899,5,7216.2,1485.43,Credit Card,48
+ORD10221,2025-05-13,CUST1106,Customer_1221,Male,38,Kakinada,Andhra Pradesh,P009,Sneakers,Footwear,SportX,Red,M,5,3299,5,15670.25,2810.9,Cash,28
+ORD10222,2025-09-24,CUST1079,Customer_1222,Male,36,Hyderabad,Telangana,P019,Loafers,Footwear,OfficeLine,Yellow,M,4,2799,5,10636.2,1701.97,Net Banking,40
+ORD10223,2025-09-24,CUST1299,Customer_1223,Female,45,Kolkata,West Bengal,P019,Loafers,Footwear,OfficeLine,Black,XXL,2,2799,15,4758.3,1449.38,Cash,100
+ORD10224,2026-01-04,CUST1475,Customer_1224,Male,37,Jaipur,Rajasthan,P010,Polo Shirt,T-Shirts,StyleHub,Yellow,S,4,1299,15,4416.6,1324.51,Cash,6
+ORD10225,2025-11-26,CUST1341,Customer_1225,Female,41,Chennai,Tamil Nadu,P012,Kurta,Ethnic Wear,Heritage,Grey,XXL,3,1899,15,4842.45,918.22,Net Banking,15
+ORD10226,2026-07-17,CUST1597,Customer_1226,Female,55,Kolkata,West Bengal,P015,Track Pants,Sportswear,SportX,White,XXL,2,1599,5,3038.1,870.49,UPI,35
+ORD10227,2026-04-05,CUST1564,Customer_1227,Male,32,Hyderabad,Telangana,P003,Casual Shirt,Shirts,StyleHub,Beige,L,3,1499,25,3372.75,787.15,Cash,33
+ORD10228,2026-04-05,CUST1570,Customer_1228,Female,35,Kakinada,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,Black,XXL,1,2999,5,2849.05,321.22,UPI,70
+ORD10229,2026-12-16,CUST1159,Customer_1229,Female,57,Kakinada,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Yellow,S,1,3499,25,2624.25,731.21,Credit Card,70
+ORD10230,2025-09-07,CUST1579,Customer_1230,Female,29,Kakinada,Andhra Pradesh,P020,Sweatshirt,Sportswear,UrbanWear,Black,L,5,1699,10,7645.5,1229.13,Net Banking,46
+ORD10231,2026-02-27,CUST1227,Customer_1231,Female,53,Kolkata,West Bengal,P014,Blazer,Formal Wear,OfficeLine,Pink,M,2,3499,25,5248.5,1416.08,Cash,5
+ORD10232,2025-06-02,CUST1125,Customer_1232,Female,40,Bhubaneswar,Odisha,P012,Kurta,Ethnic Wear,Heritage,Yellow,XXL,3,1899,10,5127.3,556.32,Cash,13
+ORD10233,2025-06-22,CUST1114,Customer_1233,Male,26,Delhi,Delhi,P003,Casual Shirt,Shirts,StyleHub,Grey,L,2,1499,10,2698.2,490.37,Debit Card,51
+ORD10234,2025-04-09,CUST1590,Customer_1234,Male,35,Pune,Maharashtra,P015,Track Pants,Sportswear,SportX,Grey,L,5,1599,15,6795.75,1711.77,Credit Card,93
+ORD10235,2026-12-09,CUST1059,Customer_1235,Male,38,Delhi,Delhi,P002,Slim Fit Jeans,Jeans,DenimCo,White,M,2,2499,30,3498.6,930.65,UPI,22
+ORD10236,2025-06-04,CUST1545,Customer_1236,Female,52,Hyderabad,Telangana,P009,Sneakers,Footwear,SportX,Grey,M,3,3299,5,9402.15,2586.84,Cash,31
+ORD10237,2026-01-10,CUST1242,Customer_1237,Female,27,Vijayawada,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,Red,XXL,2,1499,5,2848.1,876.18,Cash,43
+ORD10238,2025-11-13,CUST1470,Customer_1238,Male,27,Vijayawada,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Red,XXL,1,3599,0,3599.0,866.05,Cash,86
+ORD10239,2026-09-19,CUST1521,Customer_1239,Female,31,Kakinada,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,Black,XL,5,2999,0,14995.0,1666.21,Debit Card,77
+ORD10240,2025-03-19,CUST1438,Customer_1240,Female,36,Kolkata,West Bengal,P013,Saree,Ethnic Wear,Heritage,Black,XXL,1,3999,0,3999.0,1225.58,UPI,55
+ORD10241,2026-03-30,CUST1173,Customer_1241,Male,23,Kolkata,West Bengal,P020,Sweatshirt,Sportswear,UrbanWear,Beige,M,4,1699,0,6796.0,1799.97,Credit Card,53
+ORD10242,2026-08-31,CUST1473,Customer_1242,Female,57,Mumbai,Maharashtra,P014,Blazer,Formal Wear,OfficeLine,Pink,M,3,3499,15,8922.45,1667.81,Cash,75
+ORD10243,2025-09-03,CUST1478,Customer_1243,Male,59,Mumbai,Maharashtra,P006,Running Shoes,Footwear,SportX,Black,XL,4,3599,5,13676.2,1934.86,Net Banking,93
+ORD10244,2026-04-27,CUST1285,Customer_1244,Male,60,Bengaluru,Karnataka,P004,Hoodie,Outerwear,UrbanWear,White,S,5,2199,10,9895.5,2378.97,Debit Card,44
+ORD10245,2026-03-15,CUST1230,Customer_1245,Female,60,Hyderabad,Telangana,P013,Saree,Ethnic Wear,Heritage,Green,XXL,5,3999,0,19995.0,5464.92,Cash,33
+ORD10246,2025-08-03,CUST1396,Customer_1246,Female,53,Bengaluru,Karnataka,P005,Summer Dress,Dresses,Elegance,Beige,S,4,2999,5,11396.2,2659.87,Debit Card,26
+ORD10247,2025-12-13,CUST1034,Customer_1247,Male,32,Mumbai,Maharashtra,P019,Loafers,Footwear,OfficeLine,Pink,XXL,4,2799,10,10076.4,2106.3,Cash,7
+ORD10248,2025-09-20,CUST1450,Customer_1248,Female,29,Bhubaneswar,Odisha,P017,Chinos,Trousers,OfficeLine,Green,XXL,2,1899,10,3418.2,380.08,Credit Card,76
+ORD10249,2025-10-26,CUST1468,Customer_1249,Female,28,Kakinada,Andhra Pradesh,P015,Track Pants,Sportswear,SportX,Pink,M,5,1599,10,7195.5,1560.59,Debit Card,7
+ORD10250,2025-09-29,CUST1447,Customer_1250,Female,40,Delhi,Delhi,P007,Formal Trousers,Trousers,OfficeLine,Black,L,5,1999,15,8495.75,2037.48,UPI,48
+ORD10251,2026-09-04,CUST1488,Customer_1251,Male,33,Kakinada,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,Beige,L,4,2499,10,8996.4,2657.29,UPI,18
+ORD10252,2026-08-26,CUST1200,Customer_1252,Female,25,Jaipur,Rajasthan,P006,Running Shoes,Footwear,SportX,Blue,M,5,3599,5,17095.25,5176.74,UPI,13
+ORD10253,2025-03-06,CUST1045,Customer_1253,Male,23,Visakhapatnam,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Green,XXL,1,2199,10,1979.1,628.88,Cash,60
+ORD10254,2025-08-13,CUST1384,Customer_1254,Male,40,Pune,Maharashtra,P002,Slim Fit Jeans,Jeans,DenimCo,Beige,XL,4,2499,0,9996.0,2939.61,Debit Card,47
+ORD10255,2025-11-04,CUST1478,Customer_1255,Female,29,Chennai,Tamil Nadu,P015,Track Pants,Sportswear,SportX,Red,S,2,1599,5,3038.1,417.24,Cash,28
+ORD10256,2026-04-17,CUST1514,Customer_1256,Female,21,Hyderabad,Telangana,P016,Denim Jacket,Outerwear,DenimCo,Pink,XL,5,3199,20,12796.0,3210.91,Credit Card,34
+ORD10257,2025-03-23,CUST1178,Customer_1257,Female,42,Delhi,Delhi,P016,Denim Jacket,Outerwear,DenimCo,Blue,M,2,3199,15,5438.3,1632.33,Credit Card,58
+ORD10258,2026-11-07,CUST1082,Customer_1258,Male,47,Pune,Maharashtra,P006,Running Shoes,Footwear,SportX,Grey,XL,4,3599,15,12236.6,2902.28,Debit Card,70
+ORD10259,2025-11-14,CUST1053,Customer_1259,Female,27,Chennai,Tamil Nadu,P013,Saree,Ethnic Wear,Heritage,Blue,L,1,3999,25,2999.25,569.82,Net Banking,76
+ORD10260,2025-01-28,CUST1457,Customer_1260,Female,38,Kolkata,West Bengal,P016,Denim Jacket,Outerwear,DenimCo,Green,L,2,3199,25,4798.5,1056.03,UPI,64
+ORD10261,2026-04-14,CUST1362,Customer_1261,Female,49,Chennai,Tamil Nadu,P015,Track Pants,Sportswear,SportX,White,S,5,1599,30,5596.5,1210.55,Debit Card,54
+ORD10262,2026-02-11,CUST1281,Customer_1262,Female,59,Bhubaneswar,Odisha,P014,Blazer,Formal Wear,OfficeLine,Green,L,3,3499,15,8922.45,1860.97,Debit Card,22
+ORD10263,2026-04-17,CUST1260,Customer_1263,Male,51,Vijayawada,Andhra Pradesh,P009,Sneakers,Footwear,SportX,Green,XL,2,3299,5,6268.1,627.59,Cash,8
+ORD10264,2026-12-07,CUST1101,Customer_1264,Male,44,Vijayawada,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,White,M,3,2999,30,6297.9,1933.69,Credit Card,66
+ORD10265,2025-07-02,CUST1544,Customer_1265,Female,39,Kolkata,West Bengal,P007,Formal Trousers,Trousers,OfficeLine,White,XL,3,1999,10,5397.3,813.64,Debit Card,86
+ORD10266,2025-09-13,CUST1151,Customer_1266,Female,29,Kakinada,Andhra Pradesh,P008,Leather Jacket,Outerwear,LeatherCraft,Grey,L,5,4599,25,17246.25,2813.15,Cash,100
+ORD10267,2026-06-11,CUST1516,Customer_1267,Male,58,Mumbai,Maharashtra,P001,Classic T-Shirt,T-Shirts,UrbanWear,Blue,M,5,799,0,3995.0,961.14,Credit Card,55
+ORD10268,2025-06-26,CUST1592,Customer_1268,Male,60,Hyderabad,Telangana,P014,Blazer,Formal Wear,OfficeLine,Beige,XXL,5,3499,5,16620.25,3270.17,Debit Card,81
+ORD10269,2025-02-28,CUST1337,Customer_1269,Male,39,Hyderabad,Telangana,P020,Sweatshirt,Sportswear,UrbanWear,Grey,XL,2,1699,0,3398.0,748.93,Debit Card,44
+ORD10270,2026-01-21,CUST1077,Customer_1270,Male,26,Bengaluru,Karnataka,P014,Blazer,Formal Wear,OfficeLine,Green,XXL,4,3499,25,10497.0,1813.35,Net Banking,47
+ORD10271,2025-05-10,CUST1013,Customer_1271,Female,31,Kolkata,West Bengal,P002,Slim Fit Jeans,Jeans,DenimCo,White,S,2,2499,0,4998.0,1108.94,Credit Card,67
+ORD10272,2026-11-05,CUST1350,Customer_1272,Female,18,Visakhapatnam,Andhra Pradesh,P018,Anarkali Dress,Dresses,Elegance,Black,XXL,2,3299,20,5278.4,591.63,UPI,19
+ORD10273,2025-10-07,CUST1044,Customer_1273,Male,52,Chennai,Tamil Nadu,P011,Cargo Pants,Trousers,UrbanWear,Grey,XXL,4,1799,5,6836.2,1349.65,UPI,6
+ORD10274,2026-05-13,CUST1091,Customer_1274,Female,26,Jaipur,Rajasthan,P011,Cargo Pants,Trousers,UrbanWear,Pink,XL,1,1799,20,1439.2,317.9,UPI,74
+ORD10275,2026-02-13,CUST1181,Customer_1275,Female,38,Bhubaneswar,Odisha,P004,Hoodie,Outerwear,UrbanWear,Yellow,M,3,2199,30,4617.9,963.73,Cash,26
+ORD10276,2025-09-20,CUST1012,Customer_1276,Male,36,Bengaluru,Karnataka,P015,Track Pants,Sportswear,SportX,Green,XL,1,1599,0,1599.0,410.16,Credit Card,63
+ORD10277,2025-02-03,CUST1062,Customer_1277,Female,38,Kolkata,West Bengal,P013,Saree,Ethnic Wear,Heritage,Grey,XL,4,3999,15,13596.6,3488.55,Cash,28
+ORD10278,2025-04-29,CUST1249,Customer_1278,Male,25,Kakinada,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,White,XXL,1,2199,30,1539.3,307.98,Debit Card,93
+ORD10279,2025-08-10,CUST1555,Customer_1279,Female,58,Bhubaneswar,Odisha,P009,Sneakers,Footwear,SportX,Green,S,2,3299,20,5278.4,548.58,Net Banking,78
+ORD10280,2025-05-20,CUST1331,Customer_1280,Female,21,Jaipur,Rajasthan,P015,Track Pants,Sportswear,SportX,Black,XXL,5,1599,5,7595.25,2381.54,UPI,63
+ORD10281,2026-01-02,CUST1093,Customer_1281,Female,49,Chennai,Tamil Nadu,P019,Loafers,Footwear,OfficeLine,Yellow,S,4,2799,15,9516.6,2148.9,Cash,75
+ORD10282,2026-02-02,CUST1188,Customer_1282,Female,59,Chennai,Tamil Nadu,P004,Hoodie,Outerwear,UrbanWear,White,XL,5,2199,15,9345.75,1982.82,UPI,40
+ORD10283,2026-03-09,CUST1566,Customer_1283,Female,49,Kakinada,Andhra Pradesh,P020,Sweatshirt,Sportswear,UrbanWear,Black,M,1,1699,10,1529.1,308.97,Net Banking,87
+ORD10284,2026-03-07,CUST1372,Customer_1284,Male,57,Jaipur,Rajasthan,P014,Blazer,Formal Wear,OfficeLine,White,M,2,3499,5,6648.1,1018.32,UPI,71
+ORD10285,2026-05-05,CUST1405,Customer_1285,Female,32,Vijayawada,Andhra Pradesh,P013,Saree,Ethnic Wear,Heritage,Blue,S,5,3999,15,16995.75,2030.12,Debit Card,50
+ORD10286,2025-01-19,CUST1508,Customer_1286,Female,40,Hyderabad,Telangana,P016,Denim Jacket,Outerwear,DenimCo,Blue,XXL,4,3199,0,12796.0,2222.8,UPI,47
+ORD10287,2025-09-15,CUST1532,Customer_1287,Female,39,Pune,Maharashtra,P017,Chinos,Trousers,OfficeLine,Blue,S,5,1899,5,9020.25,1132.02,Credit Card,19
+ORD10288,2025-11-28,CUST1084,Customer_1288,Male,36,Visakhapatnam,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Yellow,L,4,2199,0,8796.0,1434.19,Debit Card,55
+ORD10289,2025-08-12,CUST1225,Customer_1289,Male,46,Visakhapatnam,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Yellow,S,2,3599,10,6478.2,1523.45,Debit Card,6
+ORD10290,2026-07-13,CUST1487,Customer_1290,Male,34,Chennai,Tamil Nadu,P010,Polo Shirt,T-Shirts,StyleHub,Pink,L,2,1299,10,2338.2,436.53,Credit Card,61
+ORD10291,2026-09-16,CUST1253,Customer_1291,Female,22,Mumbai,Maharashtra,P003,Casual Shirt,Shirts,StyleHub,Black,XL,1,1499,20,1199.2,210.89,Net Banking,95
+ORD10292,2026-10-22,CUST1171,Customer_1292,Female,51,Pune,Maharashtra,P007,Formal Trousers,Trousers,OfficeLine,Green,XL,1,1999,30,1399.3,375.08,Credit Card,94
+ORD10293,2026-12-02,CUST1329,Customer_1293,Female,24,Visakhapatnam,Andhra Pradesh,P020,Sweatshirt,Sportswear,UrbanWear,Pink,M,5,1699,25,6371.25,1260.78,UPI,99
+ORD10294,2026-01-10,CUST1195,Customer_1294,Male,38,Chennai,Tamil Nadu,P004,Hoodie,Outerwear,UrbanWear,White,XXL,1,2199,0,2199.0,627.56,Credit Card,50
+ORD10295,2026-12-21,CUST1160,Customer_1295,Female,39,Visakhapatnam,Andhra Pradesh,P001,Classic T-Shirt,T-Shirts,UrbanWear,Black,S,1,799,5,759.05,233.78,Debit Card,45
+ORD10296,2026-12-12,CUST1156,Customer_1296,Female,39,Mumbai,Maharashtra,P001,Classic T-Shirt,T-Shirts,UrbanWear,Yellow,XXL,5,799,25,2996.25,939.77,UPI,48
+ORD10297,2025-08-29,CUST1319,Customer_1297,Female,59,Jaipur,Rajasthan,P003,Casual Shirt,Shirts,StyleHub,Blue,S,2,1499,10,2698.2,501.26,Cash,33
+ORD10298,2026-06-06,CUST1409,Customer_1298,Male,25,Bengaluru,Karnataka,P004,Hoodie,Outerwear,UrbanWear,Green,XL,1,2199,10,1979.1,285.07,Credit Card,30
+ORD10299,2025-12-02,CUST1280,Customer_1299,Female,33,Bengaluru,Karnataka,P011,Cargo Pants,Trousers,UrbanWear,Black,XXL,2,1799,10,3238.2,834.44,UPI,59
+ORD10300,2026-06-26,CUST1024,Customer_1300,Female,39,Jaipur,Rajasthan,P006,Running Shoes,Footwear,SportX,Green,S,2,3599,0,7198.0,1262.41,Net Banking,27
+ORD10301,2026-10-24,CUST1563,Customer_1301,Male,44,Vijayawada,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,White,XL,4,3499,10,12596.4,3495.85,Debit Card,73
+ORD10302,2025-03-23,CUST1312,Customer_1302,Female,40,Bengaluru,Karnataka,P014,Blazer,Formal Wear,OfficeLine,Pink,S,5,3499,15,14870.75,2019.87,Debit Card,63
+ORD10303,2025-07-08,CUST1024,Customer_1303,Female,22,Bhubaneswar,Odisha,P007,Formal Trousers,Trousers,OfficeLine,Yellow,M,1,1999,0,1999.0,316.25,Credit Card,31
+ORD10304,2026-10-29,CUST1228,Customer_1304,Male,34,Hyderabad,Telangana,P017,Chinos,Trousers,OfficeLine,Beige,M,1,1899,10,1709.1,243.46,Credit Card,36
+ORD10305,2025-08-01,CUST1454,Customer_1305,Female,60,Visakhapatnam,Andhra Pradesh,P007,Formal Trousers,Trousers,OfficeLine,Red,XXL,1,1999,20,1599.2,231.03,UPI,53
+ORD10306,2025-02-19,CUST1459,Customer_1306,Female,54,Hyderabad,Telangana,P016,Denim Jacket,Outerwear,DenimCo,Green,XXL,3,3199,30,6717.9,1815.62,UPI,46
+ORD10307,2025-02-19,CUST1558,Customer_1307,Male,22,Kolkata,West Bengal,P003,Casual Shirt,Shirts,StyleHub,Beige,XXL,4,1499,20,4796.8,805.2,Debit Card,78
+ORD10308,2026-05-04,CUST1463,Customer_1308,Female,52,Pune,Maharashtra,P001,Classic T-Shirt,T-Shirts,UrbanWear,Pink,XL,1,799,5,759.05,81.61,Debit Card,87
+ORD10309,2026-09-14,CUST1026,Customer_1309,Female,37,Hyderabad,Telangana,P007,Formal Trousers,Trousers,OfficeLine,Green,M,1,1999,25,1499.25,286.54,Net Banking,42
+ORD10310,2026-09-21,CUST1537,Customer_1310,Female,36,Jaipur,Rajasthan,P018,Anarkali Dress,Dresses,Elegance,Yellow,M,3,3299,0,9897.0,1578.32,Cash,53
+ORD10311,2025-02-06,CUST1092,Customer_1311,Female,33,Hyderabad,Telangana,P002,Slim Fit Jeans,Jeans,DenimCo,Grey,L,3,2499,15,6372.45,1341.97,Debit Card,44
+ORD10312,2025-01-06,CUST1471,Customer_1312,Male,59,Hyderabad,Telangana,P010,Polo Shirt,T-Shirts,StyleHub,Grey,XXL,5,1299,30,4546.5,1424.64,UPI,18
+ORD10313,2025-08-10,CUST1351,Customer_1313,Male,29,Kakinada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,White,XXL,3,2799,15,7137.45,1998.56,Net Banking,16
+ORD10314,2025-09-03,CUST1359,Customer_1314,Male,53,Delhi,Delhi,P008,Leather Jacket,Outerwear,LeatherCraft,Black,S,3,4599,10,12417.3,1402.49,Debit Card,54
+ORD10315,2025-10-19,CUST1563,Customer_1315,Male,56,Pune,Maharashtra,P006,Running Shoes,Footwear,SportX,Blue,S,2,3599,0,7198.0,907.73,Credit Card,36
+ORD10316,2025-12-10,CUST1094,Customer_1316,Female,22,Delhi,Delhi,P003,Casual Shirt,Shirts,StyleHub,Yellow,XXL,3,1499,10,4047.3,798.87,Cash,48
+ORD10317,2026-11-04,CUST1053,Customer_1317,Female,22,Chennai,Tamil Nadu,P007,Formal Trousers,Trousers,OfficeLine,Grey,XXL,5,1999,5,9495.25,2876.29,Cash,95
+ORD10318,2026-06-23,CUST1250,Customer_1318,Male,26,Bengaluru,Karnataka,P007,Formal Trousers,Trousers,OfficeLine,Green,XXL,2,1999,10,3598.2,717.98,Net Banking,29
+ORD10319,2025-03-27,CUST1393,Customer_1319,Male,32,Visakhapatnam,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,Grey,XL,4,1299,20,4156.8,451.12,Debit Card,14
+ORD10320,2025-12-23,CUST1082,Customer_1320,Female,31,Delhi,Delhi,P016,Denim Jacket,Outerwear,DenimCo,Beige,M,5,3199,30,11196.5,3278.1,Net Banking,56
+ORD10321,2026-02-01,CUST1153,Customer_1321,Female,34,Visakhapatnam,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,White,S,2,1299,25,1948.5,352.98,Cash,30
+ORD10322,2026-05-21,CUST1321,Customer_1322,Female,51,Bengaluru,Karnataka,P007,Formal Trousers,Trousers,OfficeLine,Black,M,4,1999,10,7196.4,1266.45,Credit Card,61
+ORD10323,2026-10-28,CUST1477,Customer_1323,Male,20,Mumbai,Maharashtra,P006,Running Shoes,Footwear,SportX,Yellow,L,5,3599,10,16195.5,4861.17,Net Banking,72
+ORD10324,2025-11-20,CUST1338,Customer_1324,Male,23,Chennai,Tamil Nadu,P011,Cargo Pants,Trousers,UrbanWear,Yellow,XL,5,1799,25,6746.25,812.33,UPI,53
+ORD10325,2026-11-08,CUST1368,Customer_1325,Male,50,Jaipur,Rajasthan,P002,Slim Fit Jeans,Jeans,DenimCo,Grey,XXL,4,2499,25,7497.0,1787.05,Debit Card,88
+ORD10326,2025-04-24,CUST1517,Customer_1326,Female,45,Mumbai,Maharashtra,P001,Classic T-Shirt,T-Shirts,UrbanWear,Green,L,1,799,0,799.0,117.92,UPI,23
+ORD10327,2026-05-20,CUST1057,Customer_1327,Male,56,Delhi,Delhi,P018,Anarkali Dress,Dresses,Elegance,Yellow,XL,2,3299,20,5278.4,765.15,UPI,24
+ORD10328,2026-03-05,CUST1367,Customer_1328,Male,31,Bhubaneswar,Odisha,P006,Running Shoes,Footwear,SportX,Grey,M,2,3599,5,6838.1,1749.19,Cash,8
+ORD10329,2026-11-29,CUST1438,Customer_1329,Female,58,Visakhapatnam,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,Blue,XL,4,2499,20,7996.8,808.23,Credit Card,50
+ORD10330,2026-07-29,CUST1314,Customer_1330,Female,36,Chennai,Tamil Nadu,P005,Summer Dress,Dresses,Elegance,Blue,L,3,2999,30,6297.9,1079.6,Cash,91
+ORD10331,2025-01-03,CUST1109,Customer_1331,Female,33,Visakhapatnam,Andhra Pradesh,P013,Saree,Ethnic Wear,Heritage,White,M,5,3999,25,14996.25,2768.76,Credit Card,21
+ORD10332,2026-09-08,CUST1020,Customer_1332,Female,20,Chennai,Tamil Nadu,P003,Casual Shirt,Shirts,StyleHub,Black,L,4,1499,25,4497.0,1359.15,Cash,12
+ORD10333,2025-03-31,CUST1119,Customer_1333,Male,42,Bhubaneswar,Odisha,P006,Running Shoes,Footwear,SportX,Red,L,2,3599,10,6478.2,945.63,Net Banking,60
+ORD10334,2026-06-22,CUST1258,Customer_1334,Male,47,Kolkata,West Bengal,P004,Hoodie,Outerwear,UrbanWear,White,XXL,2,2199,10,3958.2,516.5,Net Banking,40
+ORD10335,2026-05-25,CUST1042,Customer_1335,Female,49,Visakhapatnam,Andhra Pradesh,P012,Kurta,Ethnic Wear,Heritage,Beige,M,3,1899,20,4557.6,626.53,UPI,74
+ORD10336,2025-02-25,CUST1054,Customer_1336,Male,19,Jaipur,Rajasthan,P001,Classic T-Shirt,T-Shirts,UrbanWear,Pink,S,1,799,30,559.3,158.74,Debit Card,86
+ORD10337,2025-07-28,CUST1478,Customer_1337,Female,39,Mumbai,Maharashtra,P015,Track Pants,Sportswear,SportX,Black,L,2,1599,15,2718.3,526.74,Net Banking,99
+ORD10338,2025-08-01,CUST1287,Customer_1338,Male,56,Kolkata,West Bengal,P009,Sneakers,Footwear,SportX,White,XL,1,3299,20,2639.2,293.97,Net Banking,70
+ORD10339,2025-09-13,CUST1313,Customer_1339,Male,37,Chennai,Tamil Nadu,P016,Denim Jacket,Outerwear,DenimCo,Red,M,2,3199,25,4798.5,866.84,Cash,34
+ORD10340,2026-08-12,CUST1524,Customer_1340,Male,43,Bengaluru,Karnataka,P016,Denim Jacket,Outerwear,DenimCo,Grey,S,2,3199,30,4478.6,595.6,Debit Card,71
+ORD10341,2026-02-21,CUST1006,Customer_1341,Male,20,Kakinada,Andhra Pradesh,P020,Sweatshirt,Sportswear,UrbanWear,Blue,XL,5,1699,0,8495.0,1130.96,UPI,99
+ORD10342,2026-09-13,CUST1356,Customer_1342,Male,50,Delhi,Delhi,P006,Running Shoes,Footwear,SportX,Pink,M,1,3599,10,3239.1,375.12,Debit Card,6
+ORD10343,2025-10-17,CUST1114,Customer_1343,Female,23,Bhubaneswar,Odisha,P007,Formal Trousers,Trousers,OfficeLine,Red,L,3,1999,5,5697.15,892.61,Cash,62
+ORD10344,2025-10-12,CUST1484,Customer_1344,Male,28,Kolkata,West Bengal,P005,Summer Dress,Dresses,Elegance,Green,L,4,2999,20,9596.8,2844.1,Cash,33
+ORD10345,2026-10-26,CUST1585,Customer_1345,Male,35,Bhubaneswar,Odisha,P018,Anarkali Dress,Dresses,Elegance,White,L,2,3299,15,5608.3,1402.17,Net Banking,51
+ORD10346,2025-04-11,CUST1041,Customer_1346,Female,58,Kakinada,Andhra Pradesh,P007,Formal Trousers,Trousers,OfficeLine,Yellow,S,1,1999,10,1799.1,388.75,UPI,24
+ORD10347,2026-11-09,CUST1436,Customer_1347,Male,20,Vijayawada,Andhra Pradesh,P016,Denim Jacket,Outerwear,DenimCo,Black,XL,4,3199,25,9597.0,2860.49,Net Banking,65
+ORD10348,2026-10-04,CUST1352,Customer_1348,Male,31,Kolkata,West Bengal,P006,Running Shoes,Footwear,SportX,Beige,XL,4,3599,0,14396.0,3714.7,UPI,96
+ORD10349,2026-05-06,CUST1454,Customer_1349,Male,60,Pune,Maharashtra,P002,Slim Fit Jeans,Jeans,DenimCo,Green,S,3,2499,5,7122.15,1397.14,UPI,24
+ORD10350,2025-02-12,CUST1030,Customer_1350,Male,35,Chennai,Tamil Nadu,P014,Blazer,Formal Wear,OfficeLine,Pink,L,3,3499,10,9447.3,2132.68,Cash,61
+ORD10351,2025-07-28,CUST1475,Customer_1351,Female,44,Delhi,Delhi,P007,Formal Trousers,Trousers,OfficeLine,Beige,L,4,1999,20,6396.8,1542.53,UPI,63
+ORD10352,2026-12-14,CUST1524,Customer_1352,Female,47,Hyderabad,Telangana,P016,Denim Jacket,Outerwear,DenimCo,Blue,S,1,3199,0,3199.0,691.07,Credit Card,61
+ORD10353,2025-10-05,CUST1357,Customer_1353,Female,43,Delhi,Delhi,P004,Hoodie,Outerwear,UrbanWear,Blue,M,2,2199,0,4398.0,1240.4,Cash,47
+ORD10354,2025-07-13,CUST1221,Customer_1354,Male,20,Delhi,Delhi,P017,Chinos,Trousers,OfficeLine,Pink,S,5,1899,0,9495.0,2035.21,Credit Card,23
+ORD10355,2026-12-21,CUST1141,Customer_1355,Female,22,Bhubaneswar,Odisha,P004,Hoodie,Outerwear,UrbanWear,Blue,M,2,2199,30,3078.6,650.0,UPI,83
+ORD10356,2026-02-23,CUST1067,Customer_1356,Female,44,Kolkata,West Bengal,P018,Anarkali Dress,Dresses,Elegance,Beige,XXL,2,3299,25,4948.5,1368.73,UPI,43
+ORD10357,2026-04-19,CUST1314,Customer_1357,Female,41,Bhubaneswar,Odisha,P004,Hoodie,Outerwear,UrbanWear,Grey,M,1,2199,30,1539.3,453.18,Cash,83
+ORD10358,2026-07-19,CUST1571,Customer_1358,Male,53,Visakhapatnam,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Yellow,M,3,3499,5,9972.15,2495.66,Net Banking,10
+ORD10359,2026-07-24,CUST1386,Customer_1359,Female,37,Bhubaneswar,Odisha,P012,Kurta,Ethnic Wear,Heritage,Yellow,L,5,1899,20,7596.0,1649.33,Net Banking,16
+ORD10360,2025-09-20,CUST1088,Customer_1360,Male,27,Kakinada,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Beige,L,1,3599,20,2879.2,817.87,Net Banking,25
+ORD10361,2026-07-18,CUST1376,Customer_1361,Male,57,Mumbai,Maharashtra,P008,Leather Jacket,Outerwear,LeatherCraft,Red,S,1,4599,10,4139.1,749.1,Net Banking,92
+ORD10362,2026-01-28,CUST1373,Customer_1362,Female,45,Kolkata,West Bengal,P001,Classic T-Shirt,T-Shirts,UrbanWear,Green,XL,5,799,30,2796.5,668.04,Debit Card,6
+ORD10363,2025-04-15,CUST1227,Customer_1363,Male,18,Pune,Maharashtra,P001,Classic T-Shirt,T-Shirts,UrbanWear,Pink,L,5,799,30,2796.5,760.43,Credit Card,53
+ORD10364,2025-04-11,CUST1317,Customer_1364,Female,34,Bengaluru,Karnataka,P001,Classic T-Shirt,T-Shirts,UrbanWear,Black,XXL,3,799,15,2037.45,315.73,Debit Card,21
+ORD10365,2025-06-26,CUST1300,Customer_1365,Male,45,Hyderabad,Telangana,P013,Saree,Ethnic Wear,Heritage,Yellow,XXL,2,3999,30,5598.6,1229.05,Credit Card,32
+ORD10366,2025-07-06,CUST1279,Customer_1366,Female,19,Visakhapatnam,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Pink,XL,4,1799,30,5037.2,794.49,Cash,70
+ORD10367,2025-08-24,CUST1238,Customer_1367,Male,19,Mumbai,Maharashtra,P003,Casual Shirt,Shirts,StyleHub,Yellow,S,4,1499,5,5696.2,1326.46,Debit Card,67
+ORD10368,2026-04-13,CUST1451,Customer_1368,Male,53,Visakhapatnam,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,Red,L,5,2499,10,11245.5,2504.02,UPI,64
+ORD10369,2025-04-11,CUST1556,Customer_1369,Male,19,Jaipur,Rajasthan,P006,Running Shoes,Footwear,SportX,Blue,XXL,4,3599,25,10797.0,1370.18,Credit Card,12
+ORD10370,2026-09-25,CUST1201,Customer_1370,Male,25,Visakhapatnam,Andhra Pradesh,P015,Track Pants,Sportswear,SportX,White,L,1,1599,10,1439.1,284.88,UPI,43
+ORD10371,2026-09-23,CUST1075,Customer_1371,Female,30,Jaipur,Rajasthan,P018,Anarkali Dress,Dresses,Elegance,Yellow,XXL,4,3299,20,10556.8,2571.26,Debit Card,13
+ORD10372,2025-11-15,CUST1247,Customer_1372,Female,46,Bhubaneswar,Odisha,P008,Leather Jacket,Outerwear,LeatherCraft,Green,L,3,4599,30,9657.9,2985.7,Cash,77
+ORD10373,2026-08-10,CUST1140,Customer_1373,Female,46,Vijayawada,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,Black,M,1,1299,0,1299.0,305.43,Credit Card,90
+ORD10374,2025-03-04,CUST1163,Customer_1374,Male,39,Chennai,Tamil Nadu,P019,Loafers,Footwear,OfficeLine,Blue,S,5,2799,15,11895.75,3212.29,Credit Card,87
+ORD10375,2026-10-26,CUST1576,Customer_1375,Male,27,Jaipur,Rajasthan,P012,Kurta,Ethnic Wear,Heritage,Grey,XXL,5,1899,30,6646.5,1947.72,Net Banking,59
+ORD10376,2025-02-13,CUST1174,Customer_1376,Female,28,Mumbai,Maharashtra,P003,Casual Shirt,Shirts,StyleHub,Beige,S,3,1499,20,3597.6,630.92,Debit Card,52
+ORD10377,2025-05-15,CUST1258,Customer_1377,Male,37,Pune,Maharashtra,P017,Chinos,Trousers,OfficeLine,Grey,M,5,1899,15,8070.75,1732.1,Credit Card,84
+ORD10378,2026-12-26,CUST1345,Customer_1378,Male,55,Delhi,Delhi,P008,Leather Jacket,Outerwear,LeatherCraft,Blue,M,1,4599,20,3679.2,983.07,Net Banking,89
+ORD10379,2025-05-05,CUST1508,Customer_1379,Male,60,Kolkata,West Bengal,P007,Formal Trousers,Trousers,OfficeLine,White,L,4,1999,30,5597.2,1378.07,Credit Card,83
+ORD10380,2025-06-02,CUST1237,Customer_1380,Male,42,Chennai,Tamil Nadu,P008,Leather Jacket,Outerwear,LeatherCraft,Green,S,4,4599,0,18396.0,5591.07,Cash,26
+ORD10381,2026-02-17,CUST1148,Customer_1381,Male,39,Bengaluru,Karnataka,P007,Formal Trousers,Trousers,OfficeLine,Grey,XXL,5,1999,20,7996.0,1492.84,Credit Card,90
+ORD10382,2025-08-09,CUST1369,Customer_1382,Female,37,Mumbai,Maharashtra,P013,Saree,Ethnic Wear,Heritage,Blue,M,1,3999,25,2999.25,608.25,Debit Card,50
+ORD10383,2026-07-27,CUST1491,Customer_1383,Female,50,Mumbai,Maharashtra,P007,Formal Trousers,Trousers,OfficeLine,Black,M,3,1999,5,5697.15,1161.49,Cash,81
+ORD10384,2026-05-01,CUST1172,Customer_1384,Female,49,Vijayawada,Andhra Pradesh,P012,Kurta,Ethnic Wear,Heritage,Red,M,5,1899,5,9020.25,2058.33,Cash,69
+ORD10385,2025-10-11,CUST1229,Customer_1385,Male,55,Mumbai,Maharashtra,P004,Hoodie,Outerwear,UrbanWear,Blue,XXL,2,2199,15,3738.3,1154.02,Debit Card,88
+ORD10386,2026-11-20,CUST1236,Customer_1386,Female,55,Kolkata,West Bengal,P004,Hoodie,Outerwear,UrbanWear,Pink,XL,1,2199,25,1649.25,176.59,Cash,56
+ORD10387,2025-01-16,CUST1282,Customer_1387,Female,56,Kolkata,West Bengal,P001,Classic T-Shirt,T-Shirts,UrbanWear,Blue,M,2,799,25,1198.5,306.94,Credit Card,21
+ORD10388,2025-08-08,CUST1150,Customer_1388,Female,23,Bhubaneswar,Odisha,P012,Kurta,Ethnic Wear,Heritage,Black,XXL,4,1899,25,5697.0,879.6,Net Banking,26
+ORD10389,2025-11-05,CUST1334,Customer_1389,Female,40,Bhubaneswar,Odisha,P007,Formal Trousers,Trousers,OfficeLine,Beige,XXL,3,1999,15,5097.45,523.36,Credit Card,39
+ORD10390,2026-09-08,CUST1471,Customer_1390,Male,23,Kakinada,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,White,M,3,3499,10,9447.3,2484.44,Debit Card,90
+ORD10391,2025-01-25,CUST1201,Customer_1391,Female,29,Hyderabad,Telangana,P018,Anarkali Dress,Dresses,Elegance,Grey,L,1,3299,20,2639.2,586.19,Cash,22
+ORD10392,2026-12-24,CUST1056,Customer_1392,Male,54,Delhi,Delhi,P002,Slim Fit Jeans,Jeans,DenimCo,Green,S,3,2499,5,7122.15,1613.63,Credit Card,78
+ORD10393,2026-07-20,CUST1112,Customer_1393,Female,39,Kolkata,West Bengal,P018,Anarkali Dress,Dresses,Elegance,Beige,S,2,3299,15,5608.3,815.33,Net Banking,26
+ORD10394,2026-02-19,CUST1530,Customer_1394,Male,52,Jaipur,Rajasthan,P001,Classic T-Shirt,T-Shirts,UrbanWear,Beige,XXL,4,799,15,2716.6,319.94,Debit Card,72
+ORD10395,2026-07-03,CUST1552,Customer_1395,Female,22,Mumbai,Maharashtra,P011,Cargo Pants,Trousers,UrbanWear,Grey,M,4,1799,15,6116.6,1490.08,UPI,11
+ORD10396,2025-02-10,CUST1505,Customer_1396,Female,60,Chennai,Tamil Nadu,P012,Kurta,Ethnic Wear,Heritage,Blue,S,5,1899,15,8070.75,2006.19,Credit Card,81
+ORD10397,2026-03-16,CUST1213,Customer_1397,Female,45,Visakhapatnam,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,Green,L,5,2999,5,14245.25,3787.81,UPI,29
+ORD10398,2025-03-09,CUST1383,Customer_1398,Male,33,Vijayawada,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Blue,M,1,1799,15,1529.15,187.67,Cash,71
+ORD10399,2025-11-28,CUST1232,Customer_1399,Female,53,Mumbai,Maharashtra,P005,Summer Dress,Dresses,Elegance,Yellow,S,4,2999,20,9596.8,2933.65,Debit Card,76
+ORD10400,2026-01-21,CUST1377,Customer_1400,Female,33,Jaipur,Rajasthan,P005,Summer Dress,Dresses,Elegance,Green,XL,5,2999,25,11246.25,2558.82,Cash,78
+ORD10401,2025-11-26,CUST1358,Customer_1401,Female,23,Chennai,Tamil Nadu,P007,Formal Trousers,Trousers,OfficeLine,Blue,M,5,1999,0,9995.0,1134.3,Cash,36
+ORD10402,2025-01-16,CUST1027,Customer_1402,Male,55,Kakinada,Andhra Pradesh,P012,Kurta,Ethnic Wear,Heritage,White,XL,4,1899,25,5697.0,777.44,Debit Card,8
+ORD10403,2026-07-14,CUST1359,Customer_1403,Male,36,Mumbai,Maharashtra,P009,Sneakers,Footwear,SportX,Black,XXL,1,3299,15,2804.15,454.71,Cash,32
+ORD10404,2026-12-13,CUST1589,Customer_1404,Female,49,Visakhapatnam,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Black,L,4,3499,20,11196.8,3474.25,Credit Card,26
+ORD10405,2026-09-21,CUST1271,Customer_1405,Female,37,Delhi,Delhi,P017,Chinos,Trousers,OfficeLine,White,XXL,5,1899,15,8070.75,1201.17,Cash,70
+ORD10406,2026-01-17,CUST1224,Customer_1406,Female,19,Pune,Maharashtra,P008,Leather Jacket,Outerwear,LeatherCraft,White,XL,4,4599,30,12877.2,2053.96,Credit Card,46
+ORD10407,2025-09-28,CUST1353,Customer_1407,Female,27,Kakinada,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Grey,S,3,1799,25,4047.75,591.27,UPI,78
+ORD10408,2025-08-16,CUST1490,Customer_1408,Male,31,Bengaluru,Karnataka,P015,Track Pants,Sportswear,SportX,Green,XL,2,1599,20,2558.4,498.61,Credit Card,95
+ORD10409,2025-01-05,CUST1275,Customer_1409,Female,35,Chennai,Tamil Nadu,P010,Polo Shirt,T-Shirts,StyleHub,Yellow,L,4,1299,30,3637.2,962.09,Credit Card,35
+ORD10410,2026-09-08,CUST1247,Customer_1410,Female,41,Bengaluru,Karnataka,P011,Cargo Pants,Trousers,UrbanWear,Blue,XXL,1,1799,10,1619.1,206.03,Credit Card,8
+ORD10411,2025-11-13,CUST1150,Customer_1411,Female,23,Chennai,Tamil Nadu,P016,Denim Jacket,Outerwear,DenimCo,Pink,M,4,3199,30,8957.2,935.65,UPI,31
+ORD10412,2025-04-02,CUST1098,Customer_1412,Male,22,Mumbai,Maharashtra,P003,Casual Shirt,Shirts,StyleHub,Blue,L,3,1499,10,4047.3,405.61,Credit Card,36
+ORD10413,2025-12-26,CUST1565,Customer_1413,Male,22,Kakinada,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,Yellow,S,3,1299,10,3507.3,369.43,UPI,19
+ORD10414,2026-02-02,CUST1593,Customer_1414,Female,21,Pune,Maharashtra,P018,Anarkali Dress,Dresses,Elegance,Red,XXL,5,3299,15,14020.75,3284.55,Debit Card,24
+ORD10415,2025-11-16,CUST1559,Customer_1415,Male,24,Chennai,Tamil Nadu,P018,Anarkali Dress,Dresses,Elegance,Red,XXL,4,3299,15,11216.6,2069.12,Debit Card,41
+ORD10416,2025-10-25,CUST1554,Customer_1416,Male,42,Bhubaneswar,Odisha,P014,Blazer,Formal Wear,OfficeLine,Grey,XL,4,3499,10,12596.4,1419.26,Net Banking,19
+ORD10417,2025-08-30,CUST1093,Customer_1417,Female,28,Delhi,Delhi,P011,Cargo Pants,Trousers,UrbanWear,Blue,XXL,3,1799,5,5127.15,1027.35,Net Banking,8
+ORD10418,2026-09-30,CUST1097,Customer_1418,Male,46,Bhubaneswar,Odisha,P006,Running Shoes,Footwear,SportX,Grey,S,4,3599,25,10797.0,1097.47,UPI,61
+ORD10419,2025-09-07,CUST1419,Customer_1419,Female,43,Pune,Maharashtra,P006,Running Shoes,Footwear,SportX,Grey,M,4,3599,10,12956.4,2336.57,Net Banking,59
+ORD10420,2026-06-23,CUST1193,Customer_1420,Female,21,Delhi,Delhi,P015,Track Pants,Sportswear,SportX,Beige,M,5,1599,30,5596.5,1140.53,Cash,6
+ORD10421,2026-12-24,CUST1102,Customer_1421,Female,30,Kakinada,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Yellow,L,5,2199,25,8246.25,2302.95,UPI,36
+ORD10422,2026-11-10,CUST1093,Customer_1422,Male,51,Bhubaneswar,Odisha,P011,Cargo Pants,Trousers,UrbanWear,White,S,4,1799,0,7196.0,2105.3,Debit Card,92
+ORD10423,2026-01-18,CUST1008,Customer_1423,Male,28,Bengaluru,Karnataka,P016,Denim Jacket,Outerwear,DenimCo,Yellow,XXL,3,3199,5,9117.15,1226.67,UPI,81
+ORD10424,2025-03-24,CUST1155,Customer_1424,Female,41,Vijayawada,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Red,M,5,3499,30,12246.5,2820.12,Net Banking,32
+ORD10425,2025-05-26,CUST1391,Customer_1425,Male,23,Kakinada,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Blue,XXL,3,2199,30,4617.9,938.4,Net Banking,53
+ORD10426,2025-06-09,CUST1430,Customer_1426,Female,55,Pune,Maharashtra,P009,Sneakers,Footwear,SportX,White,XL,5,3299,5,15670.25,4014.72,Net Banking,31
+ORD10427,2026-06-29,CUST1145,Customer_1427,Male,20,Pune,Maharashtra,P015,Track Pants,Sportswear,SportX,Beige,L,1,1599,25,1199.25,137.43,Net Banking,20
+ORD10428,2025-04-13,CUST1186,Customer_1428,Female,41,Kolkata,West Bengal,P005,Summer Dress,Dresses,Elegance,Pink,L,4,2999,20,9596.8,2694.91,UPI,50
+ORD10429,2026-07-04,CUST1059,Customer_1429,Female,53,Kakinada,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,Grey,L,4,1899,0,7596.0,2396.03,Debit Card,28
+ORD10430,2026-04-25,CUST1354,Customer_1430,Female,22,Vijayawada,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Blue,S,4,3599,0,14396.0,3892.27,Cash,77
+ORD10431,2025-11-24,CUST1419,Customer_1431,Female,29,Jaipur,Rajasthan,P006,Running Shoes,Footwear,SportX,Pink,XL,2,3599,10,6478.2,1733.93,Cash,96
+ORD10432,2025-10-18,CUST1236,Customer_1432,Male,49,Hyderabad,Telangana,P005,Summer Dress,Dresses,Elegance,Grey,L,1,2999,20,2399.2,363.79,UPI,59
+ORD10433,2026-09-13,CUST1516,Customer_1433,Male,43,Vijayawada,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Grey,M,2,2199,10,3958.2,628.27,Debit Card,80
+ORD10434,2025-04-20,CUST1592,Customer_1434,Male,48,Hyderabad,Telangana,P008,Leather Jacket,Outerwear,LeatherCraft,Yellow,XL,1,4599,10,4139.1,623.44,Net Banking,5
+ORD10435,2025-06-22,CUST1555,Customer_1435,Female,50,Pune,Maharashtra,P007,Formal Trousers,Trousers,OfficeLine,Green,L,1,1999,20,1599.2,293.51,Credit Card,76
+ORD10436,2026-05-12,CUST1552,Customer_1436,Female,28,Chennai,Tamil Nadu,P005,Summer Dress,Dresses,Elegance,White,XXL,5,2999,5,14245.25,3438.17,Debit Card,14
+ORD10437,2026-09-24,CUST1298,Customer_1437,Male,44,Kolkata,West Bengal,P017,Chinos,Trousers,OfficeLine,White,S,4,1899,0,7596.0,1786.68,Net Banking,25
+ORD10438,2025-04-12,CUST1147,Customer_1438,Male,55,Pune,Maharashtra,P011,Cargo Pants,Trousers,UrbanWear,Blue,M,2,1799,5,3418.1,674.11,UPI,47
+ORD10439,2025-02-17,CUST1270,Customer_1439,Male,18,Kakinada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Green,XXL,3,2799,20,6717.6,1753.01,UPI,83
+ORD10440,2026-04-26,CUST1203,Customer_1440,Male,44,Jaipur,Rajasthan,P011,Cargo Pants,Trousers,UrbanWear,Black,XL,4,1799,0,7196.0,2155.18,Cash,30
+ORD10441,2025-08-09,CUST1469,Customer_1441,Female,50,Vijayawada,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,Green,M,2,2999,5,5698.1,1396.31,Net Banking,24
+ORD10442,2025-10-13,CUST1525,Customer_1442,Male,57,Mumbai,Maharashtra,P010,Polo Shirt,T-Shirts,StyleHub,White,XXL,3,1299,25,2922.75,883.25,Credit Card,97
+ORD10443,2025-08-23,CUST1235,Customer_1443,Female,29,Visakhapatnam,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,White,S,3,1499,30,3147.9,372.66,Net Banking,96
+ORD10444,2025-08-01,CUST1385,Customer_1444,Male,47,Bhubaneswar,Odisha,P005,Summer Dress,Dresses,Elegance,Grey,M,1,2999,0,2999.0,801.89,Cash,67
+ORD10445,2026-05-13,CUST1154,Customer_1445,Male,48,Bhubaneswar,Odisha,P009,Sneakers,Footwear,SportX,Grey,XL,1,3299,0,3299.0,548.94,UPI,48
+ORD10446,2026-08-16,CUST1163,Customer_1446,Female,29,Vijayawada,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,Grey,S,4,1299,5,4936.2,1224.83,Net Banking,36
+ORD10447,2026-05-14,CUST1116,Customer_1447,Male,41,Chennai,Tamil Nadu,P017,Chinos,Trousers,OfficeLine,Blue,S,2,1899,25,2848.5,404.18,Cash,71
+ORD10448,2026-01-30,CUST1059,Customer_1448,Female,19,Chennai,Tamil Nadu,P015,Track Pants,Sportswear,SportX,Blue,XL,5,1599,0,7995.0,2384.45,Debit Card,78
+ORD10449,2025-01-29,CUST1226,Customer_1449,Male,31,Visakhapatnam,Andhra Pradesh,P012,Kurta,Ethnic Wear,Heritage,Grey,S,5,1899,15,8070.75,2186.52,Debit Card,100
+ORD10450,2025-01-25,CUST1442,Customer_1450,Male,48,Kolkata,West Bengal,P002,Slim Fit Jeans,Jeans,DenimCo,White,XXL,1,2499,5,2374.05,571.41,Credit Card,22
+ORD10451,2026-08-13,CUST1075,Customer_1451,Male,26,Pune,Maharashtra,P007,Formal Trousers,Trousers,OfficeLine,Green,M,1,1999,5,1899.05,337.74,UPI,11
+ORD10452,2026-07-21,CUST1590,Customer_1452,Male,59,Jaipur,Rajasthan,P018,Anarkali Dress,Dresses,Elegance,Beige,S,1,3299,25,2474.25,417.31,UPI,73
+ORD10453,2025-02-18,CUST1114,Customer_1453,Female,21,Delhi,Delhi,P002,Slim Fit Jeans,Jeans,DenimCo,Pink,XL,4,2499,0,9996.0,1211.14,Credit Card,99
+ORD10454,2025-12-15,CUST1407,Customer_1454,Male,19,Delhi,Delhi,P014,Blazer,Formal Wear,OfficeLine,White,XXL,4,3499,5,13296.2,4209.69,Cash,40
+ORD10455,2026-07-09,CUST1155,Customer_1455,Female,39,Mumbai,Maharashtra,P014,Blazer,Formal Wear,OfficeLine,Pink,S,1,3499,0,3499.0,1071.2,UPI,10
+ORD10456,2025-04-16,CUST1086,Customer_1456,Female,30,Delhi,Delhi,P020,Sweatshirt,Sportswear,UrbanWear,Blue,S,1,1699,30,1189.3,345.01,Cash,7
+ORD10457,2026-07-09,CUST1233,Customer_1457,Male,41,Delhi,Delhi,P005,Summer Dress,Dresses,Elegance,Grey,S,3,2999,15,7647.45,1854.76,Debit Card,19
+ORD10458,2026-08-17,CUST1551,Customer_1458,Female,45,Kolkata,West Bengal,P012,Kurta,Ethnic Wear,Heritage,Green,XXL,5,1899,15,8070.75,2445.46,Net Banking,45
+ORD10459,2026-12-18,CUST1058,Customer_1459,Female,33,Visakhapatnam,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,White,XL,1,2499,5,2374.05,294.59,Net Banking,80
+ORD10460,2025-07-05,CUST1213,Customer_1460,Female,18,Vijayawada,Andhra Pradesh,P020,Sweatshirt,Sportswear,UrbanWear,Pink,M,3,1699,20,4077.6,1078.68,UPI,36
+ORD10461,2025-07-30,CUST1418,Customer_1461,Male,23,Kolkata,West Bengal,P017,Chinos,Trousers,OfficeLine,Pink,XXL,2,1899,15,3228.3,862.55,Net Banking,70
+ORD10462,2025-05-03,CUST1264,Customer_1462,Male,22,Pune,Maharashtra,P010,Polo Shirt,T-Shirts,StyleHub,White,L,1,1299,10,1169.1,241.27,Credit Card,14
+ORD10463,2025-06-26,CUST1171,Customer_1463,Male,33,Vijayawada,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Yellow,M,1,1799,0,1799.0,557.52,Cash,91
+ORD10464,2025-04-07,CUST1069,Customer_1464,Female,41,Bhubaneswar,Odisha,P019,Loafers,Footwear,OfficeLine,Blue,M,3,2799,20,6717.6,1115.01,Credit Card,81
+ORD10465,2026-01-09,CUST1332,Customer_1465,Male,29,Chennai,Tamil Nadu,P013,Saree,Ethnic Wear,Heritage,Beige,L,5,3999,10,17995.5,5645.17,Cash,8
+ORD10466,2025-07-19,CUST1340,Customer_1466,Male,19,Vijayawada,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Black,S,5,3599,0,17995.0,3021.8,UPI,71
+ORD10467,2025-02-16,CUST1137,Customer_1467,Male,26,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,SportX,Beige,XL,1,3599,0,3599.0,628.07,Credit Card,96
+ORD10468,2025-05-07,CUST1385,Customer_1468,Female,48,Bhubaneswar,Odisha,P007,Formal Trousers,Trousers,OfficeLine,Grey,XL,1,1999,30,1399.3,323.03,Debit Card,83
+ORD10469,2026-11-28,CUST1064,Customer_1469,Female,46,Mumbai,Maharashtra,P004,Hoodie,Outerwear,UrbanWear,Green,S,3,2199,10,5937.3,1016.71,UPI,31
+ORD10470,2025-01-23,CUST1378,Customer_1470,Male,36,Kakinada,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,Black,S,1,1499,5,1424.05,342.51,UPI,46
+ORD10471,2026-02-03,CUST1295,Customer_1471,Male,38,Delhi,Delhi,P010,Polo Shirt,T-Shirts,StyleHub,Black,XXL,2,1299,20,2078.4,472.6,Credit Card,77
+ORD10472,2025-04-10,CUST1566,Customer_1472,Male,31,Chennai,Tamil Nadu,P020,Sweatshirt,Sportswear,UrbanWear,Green,M,3,1699,30,3567.9,377.57,Net Banking,100
+ORD10473,2025-05-31,CUST1016,Customer_1473,Male,43,Visakhapatnam,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,Blue,S,4,2499,10,8996.4,1022.12,UPI,94
+ORD10474,2025-11-15,CUST1176,Customer_1474,Male,20,Mumbai,Maharashtra,P017,Chinos,Trousers,OfficeLine,White,XL,5,1899,15,8070.75,1901.96,Net Banking,14
+ORD10475,2026-12-11,CUST1261,Customer_1475,Female,48,Hyderabad,Telangana,P002,Slim Fit Jeans,Jeans,DenimCo,White,XXL,1,2499,25,1874.25,192.57,Debit Card,63
+ORD10476,2026-10-10,CUST1304,Customer_1476,Female,27,Bengaluru,Karnataka,P005,Summer Dress,Dresses,Elegance,Black,XXL,5,2999,30,10496.5,3009.66,Debit Card,31
+ORD10477,2025-05-17,CUST1211,Customer_1477,Male,40,Kakinada,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Grey,XXL,1,3499,0,3499.0,632.17,Net Banking,33
+ORD10478,2025-10-01,CUST1095,Customer_1478,Male,22,Bengaluru,Karnataka,P019,Loafers,Footwear,OfficeLine,Yellow,L,3,2799,5,7977.15,2239.9,Debit Card,69
+ORD10479,2025-08-29,CUST1236,Customer_1479,Female,19,Pune,Maharashtra,P017,Chinos,Trousers,OfficeLine,Green,S,4,1899,0,7596.0,2052.8,Net Banking,8
+ORD10480,2026-02-17,CUST1337,Customer_1480,Female,38,Chennai,Tamil Nadu,P001,Classic T-Shirt,T-Shirts,UrbanWear,Grey,XL,2,799,5,1518.1,270.81,UPI,69
+ORD10481,2026-09-23,CUST1358,Customer_1481,Male,31,Bengaluru,Karnataka,P018,Anarkali Dress,Dresses,Elegance,Yellow,M,2,3299,5,6268.1,1433.72,Debit Card,71
+ORD10482,2025-01-02,CUST1536,Customer_1482,Female,19,Vijayawada,Andhra Pradesh,P007,Formal Trousers,Trousers,OfficeLine,Pink,XXL,4,1999,10,7196.4,1417.9,UPI,20
+ORD10483,2026-04-26,CUST1550,Customer_1483,Female,37,Chennai,Tamil Nadu,P008,Leather Jacket,Outerwear,LeatherCraft,Blue,XXL,3,4599,25,10347.75,1057.83,UPI,32
+ORD10484,2026-01-13,CUST1122,Customer_1484,Female,47,Bhubaneswar,Odisha,P003,Casual Shirt,Shirts,StyleHub,Beige,L,5,1499,15,6370.75,1417.51,Net Banking,95
+ORD10485,2025-10-17,CUST1420,Customer_1485,Male,59,Hyderabad,Telangana,P011,Cargo Pants,Trousers,UrbanWear,Grey,S,3,1799,0,5397.0,703.89,Credit Card,76
+ORD10486,2025-02-25,CUST1416,Customer_1486,Male,45,Visakhapatnam,Andhra Pradesh,P018,Anarkali Dress,Dresses,Elegance,Pink,S,5,3299,25,12371.25,1536.97,Debit Card,85
+ORD10487,2026-08-19,CUST1488,Customer_1487,Male,40,Jaipur,Rajasthan,P009,Sneakers,Footwear,SportX,Red,M,3,3299,15,8412.45,2466.18,Net Banking,53
+ORD10488,2026-01-30,CUST1307,Customer_1488,Female,20,Pune,Maharashtra,P015,Track Pants,Sportswear,SportX,Green,M,1,1599,25,1199.25,155.27,Cash,27
+ORD10489,2025-02-17,CUST1511,Customer_1489,Male,55,Kolkata,West Bengal,P009,Sneakers,Footwear,SportX,Green,M,4,3299,0,13196.0,1485.96,Credit Card,68
+ORD10490,2026-05-10,CUST1052,Customer_1490,Female,55,Vijayawada,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,Yellow,XXL,3,1499,10,4047.3,875.45,Debit Card,83
+ORD10491,2025-11-24,CUST1149,Customer_1491,Female,21,Mumbai,Maharashtra,P015,Track Pants,Sportswear,SportX,White,L,3,1599,5,4557.15,1442.86,Net Banking,36
+ORD10492,2025-08-19,CUST1159,Customer_1492,Female,26,Visakhapatnam,Andhra Pradesh,P009,Sneakers,Footwear,SportX,Black,S,2,3299,15,5608.3,1296.49,Net Banking,39
+ORD10493,2026-05-26,CUST1454,Customer_1493,Male,32,Bengaluru,Karnataka,P003,Casual Shirt,Shirts,StyleHub,Beige,XXL,5,1499,5,7120.25,1775.76,UPI,71
+ORD10494,2025-04-27,CUST1595,Customer_1494,Female,51,Visakhapatnam,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,Blue,XXL,3,1899,20,4557.6,490.94,UPI,91
+ORD10495,2025-12-11,CUST1474,Customer_1495,Male,18,Kolkata,West Bengal,P001,Classic T-Shirt,T-Shirts,UrbanWear,Red,M,1,799,0,799.0,159.2,Cash,77
+ORD10496,2025-12-19,CUST1187,Customer_1496,Female,59,Pune,Maharashtra,P002,Slim Fit Jeans,Jeans,DenimCo,Pink,L,4,2499,0,9996.0,1662.1,Debit Card,47
+ORD10497,2026-05-18,CUST1260,Customer_1497,Female,53,Bengaluru,Karnataka,P016,Denim Jacket,Outerwear,DenimCo,Red,XXL,3,3199,15,8157.45,1807.59,UPI,94
+ORD10498,2025-03-01,CUST1503,Customer_1498,Female,42,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,SportX,Green,XL,3,3599,5,10257.15,2617.14,UPI,76
+ORD10499,2026-03-27,CUST1300,Customer_1499,Male,43,Delhi,Delhi,P005,Summer Dress,Dresses,Elegance,Beige,S,4,2999,10,10796.4,1575.22,Net Banking,87
+ORD10500,2025-06-18,CUST1431,Customer_1500,Female,50,Vijayawada,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Red,M,4,1799,10,6476.4,1810.79,Debit Card,87
+ORD10501,2026-03-23,CUST1387,Customer_1501,Female,48,Mumbai,Maharashtra,P019,Loafers,Footwear,OfficeLine,Black,L,3,2799,30,5877.9,588.62,Cash,52
+ORD10502,2026-01-14,CUST1576,Customer_1502,Female,48,Delhi,Delhi,P009,Sneakers,Footwear,SportX,White,XXL,5,3299,20,13196.0,2126.88,Credit Card,98
+ORD10503,2026-09-12,CUST1104,Customer_1503,Male,41,Kolkata,West Bengal,P009,Sneakers,Footwear,SportX,Pink,XL,5,3299,30,11546.5,2702.74,Debit Card,55
+ORD10504,2026-08-07,CUST1304,Customer_1504,Female,36,Vijayawada,Andhra Pradesh,P013,Saree,Ethnic Wear,Heritage,Yellow,S,5,3999,25,14996.25,2756.41,Net Banking,19
+ORD10505,2026-12-16,CUST1010,Customer_1505,Male,38,Chennai,Tamil Nadu,P008,Leather Jacket,Outerwear,LeatherCraft,Black,S,5,4599,30,16096.5,1782.19,Cash,72
+ORD10506,2026-08-16,CUST1093,Customer_1506,Male,31,Kakinada,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Red,XXL,4,3599,20,11516.8,2652.08,Cash,57
+ORD10507,2026-04-22,CUST1283,Customer_1507,Male,38,Kakinada,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Beige,XXL,5,1799,15,7645.75,1319.7,UPI,15
+ORD10508,2025-07-25,CUST1207,Customer_1508,Male,40,Jaipur,Rajasthan,P005,Summer Dress,Dresses,Elegance,Blue,M,5,2999,15,12745.75,2825.78,UPI,81
+ORD10509,2025-11-09,CUST1309,Customer_1509,Female,48,Bhubaneswar,Odisha,P019,Loafers,Footwear,OfficeLine,Grey,L,3,2799,15,7137.45,1691.52,UPI,91
+ORD10510,2026-07-28,CUST1517,Customer_1510,Male,38,Bhubaneswar,Odisha,P018,Anarkali Dress,Dresses,Elegance,Grey,XXL,1,3299,10,2969.1,827.43,Credit Card,34
+ORD10511,2026-10-11,CUST1268,Customer_1511,Male,31,Vijayawada,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Grey,M,4,2199,30,6157.2,1031.65,UPI,83
+ORD10512,2025-02-03,CUST1460,Customer_1512,Female,52,Delhi,Delhi,P009,Sneakers,Footwear,SportX,Grey,L,2,3299,25,4948.5,575.1,Debit Card,74
+ORD10513,2025-03-25,CUST1291,Customer_1513,Female,51,Kolkata,West Bengal,P008,Leather Jacket,Outerwear,LeatherCraft,Red,M,5,4599,30,16096.5,2992.31,Debit Card,82
+ORD10514,2025-07-11,CUST1027,Customer_1514,Male,60,Kolkata,West Bengal,P002,Slim Fit Jeans,Jeans,DenimCo,Grey,XXL,2,2499,5,4748.1,565.48,Cash,89
+ORD10515,2025-07-13,CUST1079,Customer_1515,Male,39,Chennai,Tamil Nadu,P007,Formal Trousers,Trousers,OfficeLine,Beige,M,5,1999,5,9495.25,1548.71,Debit Card,94
+ORD10516,2026-03-24,CUST1120,Customer_1516,Male,27,Vijayawada,Andhra Pradesh,P016,Denim Jacket,Outerwear,DenimCo,Red,XL,1,3199,15,2719.15,419.36,Credit Card,36
+ORD10517,2026-02-24,CUST1417,Customer_1517,Male,33,Jaipur,Rajasthan,P011,Cargo Pants,Trousers,UrbanWear,Red,S,4,1799,0,7196.0,1673.52,Net Banking,35
+ORD10518,2026-06-16,CUST1271,Customer_1518,Male,53,Pune,Maharashtra,P006,Running Shoes,Footwear,SportX,Red,XL,5,3599,15,15295.75,2463.42,Credit Card,58
+ORD10519,2025-04-15,CUST1114,Customer_1519,Male,22,Delhi,Delhi,P016,Denim Jacket,Outerwear,DenimCo,Yellow,XXL,5,3199,5,15195.25,3668.14,Debit Card,62
+ORD10520,2026-02-19,CUST1494,Customer_1520,Male,27,Pune,Maharashtra,P016,Denim Jacket,Outerwear,DenimCo,Blue,XXL,3,3199,15,8157.45,926.68,Debit Card,56
+ORD10521,2026-04-26,CUST1106,Customer_1521,Male,20,Visakhapatnam,Andhra Pradesh,P013,Saree,Ethnic Wear,Heritage,Yellow,XL,2,3999,20,6398.4,1788.25,Credit Card,38
+ORD10522,2026-07-11,CUST1179,Customer_1522,Female,27,Kakinada,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,Beige,M,2,2999,5,5698.1,1646.86,Debit Card,24
+ORD10523,2026-10-11,CUST1251,Customer_1523,Female,55,Visakhapatnam,Andhra Pradesh,P016,Denim Jacket,Outerwear,DenimCo,Green,S,2,3199,30,4478.6,604.06,Credit Card,25
+ORD10524,2025-10-14,CUST1145,Customer_1524,Male,36,Jaipur,Rajasthan,P019,Loafers,Footwear,OfficeLine,Red,M,5,2799,15,11895.75,2967.74,Credit Card,17
+ORD10525,2026-09-10,CUST1367,Customer_1525,Female,30,Mumbai,Maharashtra,P020,Sweatshirt,Sportswear,UrbanWear,Black,M,2,1699,0,3398.0,608.87,Net Banking,80
+ORD10526,2025-08-06,CUST1167,Customer_1526,Female,20,Hyderabad,Telangana,P016,Denim Jacket,Outerwear,DenimCo,Black,XL,5,3199,10,14395.5,3249.55,UPI,21
+ORD10527,2026-07-10,CUST1057,Customer_1527,Female,32,Chennai,Tamil Nadu,P020,Sweatshirt,Sportswear,UrbanWear,Red,XXL,3,1699,25,3822.75,537.42,Cash,64
+ORD10528,2026-04-01,CUST1056,Customer_1528,Female,41,Visakhapatnam,Andhra Pradesh,P008,Leather Jacket,Outerwear,LeatherCraft,Blue,XL,2,4599,20,7358.4,1707.59,Net Banking,45
+ORD10529,2025-01-29,CUST1259,Customer_1529,Female,55,Visakhapatnam,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Black,M,2,3599,20,5758.4,607.23,Debit Card,60
+ORD10530,2026-04-28,CUST1199,Customer_1530,Male,46,Visakhapatnam,Andhra Pradesh,P020,Sweatshirt,Sportswear,UrbanWear,Pink,L,4,1699,15,5776.6,772.23,Net Banking,75
+ORD10531,2026-02-26,CUST1453,Customer_1531,Female,54,Kolkata,West Bengal,P015,Track Pants,Sportswear,SportX,Beige,XXL,5,1599,5,7595.25,2417.53,Credit Card,75
+ORD10532,2025-05-01,CUST1383,Customer_1532,Female,40,Bhubaneswar,Odisha,P009,Sneakers,Footwear,SportX,Yellow,XXL,5,3299,25,12371.25,2530.49,UPI,46
+ORD10533,2026-03-20,CUST1150,Customer_1533,Female,48,Kolkata,West Bengal,P015,Track Pants,Sportswear,SportX,Black,XL,5,1599,25,5996.25,1868.52,Debit Card,94
+ORD10534,2026-10-22,CUST1101,Customer_1534,Female,59,Mumbai,Maharashtra,P005,Summer Dress,Dresses,Elegance,White,M,5,2999,15,12745.75,2898.56,Debit Card,74
+ORD10535,2025-12-05,CUST1114,Customer_1535,Male,54,Chennai,Tamil Nadu,P020,Sweatshirt,Sportswear,UrbanWear,Pink,L,4,1699,25,5097.0,746.52,UPI,13
+ORD10536,2026-07-12,CUST1186,Customer_1536,Female,26,Hyderabad,Telangana,P003,Casual Shirt,Shirts,StyleHub,Pink,S,4,1499,5,5696.2,1667.89,Cash,54
+ORD10537,2025-09-30,CUST1207,Customer_1537,Male,29,Kolkata,West Bengal,P016,Denim Jacket,Outerwear,DenimCo,Blue,M,3,3199,5,9117.15,1843.6,UPI,94
+ORD10538,2025-10-22,CUST1054,Customer_1538,Male,28,Bhubaneswar,Odisha,P005,Summer Dress,Dresses,Elegance,Pink,S,1,2999,5,2849.05,489.82,Debit Card,80
+ORD10539,2025-08-02,CUST1379,Customer_1539,Female,58,Bengaluru,Karnataka,P017,Chinos,Trousers,OfficeLine,Red,XXL,3,1899,5,5412.15,1329.5,Debit Card,70
+ORD10540,2025-12-31,CUST1423,Customer_1540,Female,21,Kolkata,West Bengal,P014,Blazer,Formal Wear,OfficeLine,Pink,XL,5,3499,15,14870.75,3094.41,UPI,97
+ORD10541,2025-11-02,CUST1136,Customer_1541,Male,40,Jaipur,Rajasthan,P014,Blazer,Formal Wear,OfficeLine,Yellow,XXL,1,3499,15,2974.15,907.88,UPI,97
+ORD10542,2025-01-10,CUST1133,Customer_1542,Female,31,Bengaluru,Karnataka,P011,Cargo Pants,Trousers,UrbanWear,Black,S,1,1799,30,1259.3,319.35,Net Banking,19
+ORD10543,2025-12-25,CUST1468,Customer_1543,Female,35,Pune,Maharashtra,P003,Casual Shirt,Shirts,StyleHub,Black,M,3,1499,0,4497.0,1091.69,UPI,6
+ORD10544,2025-07-19,CUST1013,Customer_1544,Male,24,Hyderabad,Telangana,P006,Running Shoes,Footwear,SportX,Green,XL,2,3599,0,7198.0,1002.0,Cash,65
+ORD10545,2026-09-06,CUST1083,Customer_1545,Female,42,Kolkata,West Bengal,P013,Saree,Ethnic Wear,Heritage,White,S,5,3999,5,18995.25,4272.15,Cash,46
+ORD10546,2025-04-17,CUST1412,Customer_1546,Female,54,Chennai,Tamil Nadu,P007,Formal Trousers,Trousers,OfficeLine,Grey,XL,2,1999,30,2798.6,452.15,Debit Card,65
+ORD10547,2025-09-26,CUST1327,Customer_1547,Male,29,Visakhapatnam,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,White,M,3,1499,15,3822.45,990.19,Net Banking,94
+ORD10548,2026-07-27,CUST1249,Customer_1548,Female,38,Chennai,Tamil Nadu,P013,Saree,Ethnic Wear,Heritage,Blue,M,4,3999,20,12796.8,3027.76,UPI,47
+ORD10549,2025-11-15,CUST1170,Customer_1549,Male,47,Visakhapatnam,Andhra Pradesh,P015,Track Pants,Sportswear,SportX,Pink,XL,4,1599,30,4477.2,1230.81,Debit Card,67
+ORD10550,2025-10-01,CUST1440,Customer_1550,Female,48,Bhubaneswar,Odisha,P002,Slim Fit Jeans,Jeans,DenimCo,Green,M,4,2499,0,9996.0,2117.51,UPI,32
+ORD10551,2026-09-10,CUST1235,Customer_1551,Male,43,Hyderabad,Telangana,P011,Cargo Pants,Trousers,UrbanWear,Blue,M,3,1799,15,4587.45,828.88,Credit Card,82
+ORD10552,2025-01-12,CUST1282,Customer_1552,Female,19,Delhi,Delhi,P003,Casual Shirt,Shirts,StyleHub,Pink,XL,3,1499,20,3597.6,424.22,UPI,37
+ORD10553,2025-01-04,CUST1155,Customer_1553,Male,44,Hyderabad,Telangana,P005,Summer Dress,Dresses,Elegance,Yellow,L,5,2999,15,12745.75,2855.52,UPI,40
+ORD10554,2026-03-01,CUST1600,Customer_1554,Female,35,Vijayawada,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,White,S,2,1899,5,3608.1,455.97,UPI,96
+ORD10555,2026-01-17,CUST1549,Customer_1555,Male,48,Chennai,Tamil Nadu,P003,Casual Shirt,Shirts,StyleHub,Pink,L,1,1499,25,1124.25,289.88,Credit Card,98
+ORD10556,2026-08-30,CUST1558,Customer_1556,Male,28,Bhubaneswar,Odisha,P005,Summer Dress,Dresses,Elegance,Green,S,1,2999,20,2399.2,688.25,Net Banking,68
+ORD10557,2026-11-25,CUST1373,Customer_1557,Female,31,Mumbai,Maharashtra,P010,Polo Shirt,T-Shirts,StyleHub,Black,L,3,1299,20,3117.6,945.93,Net Banking,17
+ORD10558,2026-07-08,CUST1423,Customer_1558,Male,40,Vijayawada,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Black,M,1,1799,15,1529.15,425.51,Debit Card,69
+ORD10559,2026-05-21,CUST1492,Customer_1559,Male,39,Jaipur,Rajasthan,P002,Slim Fit Jeans,Jeans,DenimCo,Black,L,5,2499,15,10620.75,2340.21,Net Banking,88
+ORD10560,2025-10-22,CUST1312,Customer_1560,Female,41,Bengaluru,Karnataka,P006,Running Shoes,Footwear,SportX,Red,XL,2,3599,15,6118.3,1022.25,Cash,46
+ORD10561,2025-07-18,CUST1554,Customer_1561,Male,26,Jaipur,Rajasthan,P010,Polo Shirt,T-Shirts,StyleHub,Blue,L,2,1299,30,1818.6,320.29,Credit Card,56
+ORD10562,2026-04-22,CUST1319,Customer_1562,Female,43,Vijayawada,Andhra Pradesh,P015,Track Pants,Sportswear,SportX,Blue,L,5,1599,0,7995.0,2399.99,Cash,8
+ORD10563,2025-07-31,CUST1390,Customer_1563,Male,39,Hyderabad,Telangana,P013,Saree,Ethnic Wear,Heritage,Pink,S,3,3999,0,11997.0,2104.17,Credit Card,12
+ORD10564,2026-08-30,CUST1107,Customer_1564,Male,55,Kakinada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Blue,M,1,2799,25,2099.25,490.86,Cash,13
+ORD10565,2025-09-02,CUST1576,Customer_1565,Female,58,Hyderabad,Telangana,P018,Anarkali Dress,Dresses,Elegance,Yellow,XL,5,3299,25,12371.25,2394.99,UPI,11
+ORD10566,2026-05-03,CUST1064,Customer_1566,Male,35,Bhubaneswar,Odisha,P001,Classic T-Shirt,T-Shirts,UrbanWear,Red,M,3,799,5,2277.15,702.09,Debit Card,17
+ORD10567,2025-09-03,CUST1055,Customer_1567,Male,39,Hyderabad,Telangana,P003,Casual Shirt,Shirts,StyleHub,Grey,S,4,1499,30,4197.2,738.16,UPI,46
+ORD10568,2026-12-25,CUST1314,Customer_1568,Female,26,Bhubaneswar,Odisha,P002,Slim Fit Jeans,Jeans,DenimCo,Grey,S,1,2499,20,1999.2,263.69,Cash,24
+ORD10569,2026-12-08,CUST1392,Customer_1569,Male,21,Vijayawada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Grey,L,1,2799,20,2239.2,467.02,UPI,60
+ORD10570,2025-11-14,CUST1133,Customer_1570,Male,38,Bengaluru,Karnataka,P005,Summer Dress,Dresses,Elegance,Black,XXL,2,2999,0,5998.0,694.59,Debit Card,100
+ORD10571,2026-09-06,CUST1195,Customer_1571,Male,28,Chennai,Tamil Nadu,P018,Anarkali Dress,Dresses,Elegance,Blue,S,5,3299,15,14020.75,1650.94,Cash,14
+ORD10572,2026-04-17,CUST1430,Customer_1572,Male,33,Bengaluru,Karnataka,P017,Chinos,Trousers,OfficeLine,Beige,XXL,3,1899,25,4272.75,596.81,Debit Card,28
+ORD10573,2026-08-06,CUST1092,Customer_1573,Male,24,Kakinada,Andhra Pradesh,P007,Formal Trousers,Trousers,OfficeLine,Blue,XL,3,1999,15,5097.45,1065.19,Credit Card,30
+ORD10574,2025-11-07,CUST1340,Customer_1574,Male,41,Bhubaneswar,Odisha,P020,Sweatshirt,Sportswear,UrbanWear,Grey,M,1,1699,5,1614.05,176.68,Net Banking,48
+ORD10575,2026-12-17,CUST1117,Customer_1575,Male,31,Delhi,Delhi,P020,Sweatshirt,Sportswear,UrbanWear,Red,XXL,1,1699,10,1529.1,227.49,Cash,81
+ORD10576,2026-03-16,CUST1289,Customer_1576,Female,56,Pune,Maharashtra,P006,Running Shoes,Footwear,SportX,Red,L,5,3599,15,15295.75,3760.35,UPI,39
+ORD10577,2025-02-15,CUST1236,Customer_1577,Female,31,Mumbai,Maharashtra,P016,Denim Jacket,Outerwear,DenimCo,Pink,XXL,4,3199,5,12156.2,1547.29,Debit Card,41
+ORD10578,2026-05-23,CUST1082,Customer_1578,Female,57,Chennai,Tamil Nadu,P001,Classic T-Shirt,T-Shirts,UrbanWear,Yellow,L,5,799,30,2796.5,743.23,Debit Card,29
+ORD10579,2025-03-02,CUST1431,Customer_1579,Male,58,Hyderabad,Telangana,P014,Blazer,Formal Wear,OfficeLine,White,XL,2,3499,10,6298.2,1137.95,UPI,57
+ORD10580,2025-05-15,CUST1176,Customer_1580,Male,58,Kolkata,West Bengal,P010,Polo Shirt,T-Shirts,StyleHub,White,M,3,1299,20,3117.6,894.52,Debit Card,81
+ORD10581,2025-11-24,CUST1352,Customer_1581,Male,23,Delhi,Delhi,P010,Polo Shirt,T-Shirts,StyleHub,White,XL,5,1299,25,4871.25,660.25,Cash,32
+ORD10582,2026-07-16,CUST1236,Customer_1582,Male,45,Jaipur,Rajasthan,P015,Track Pants,Sportswear,SportX,Grey,L,4,1599,25,4797.0,670.73,Net Banking,21
+ORD10583,2025-11-14,CUST1345,Customer_1583,Male,24,Bengaluru,Karnataka,P002,Slim Fit Jeans,Jeans,DenimCo,Beige,L,1,2499,25,1874.25,455.12,UPI,40
+ORD10584,2025-12-08,CUST1325,Customer_1584,Female,57,Delhi,Delhi,P007,Formal Trousers,Trousers,OfficeLine,Blue,L,2,1999,10,3598.2,604.94,UPI,64
+ORD10585,2026-06-29,CUST1459,Customer_1585,Female,53,Kakinada,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Red,S,1,2199,20,1759.2,214.99,UPI,26
+ORD10586,2025-09-01,CUST1413,Customer_1586,Female,56,Pune,Maharashtra,P005,Summer Dress,Dresses,Elegance,Red,M,2,2999,5,5698.1,1349.28,Debit Card,68
+ORD10587,2026-05-08,CUST1058,Customer_1587,Female,48,Hyderabad,Telangana,P009,Sneakers,Footwear,SportX,Black,XL,3,3299,15,8412.45,2520.63,Debit Card,92
+ORD10588,2026-10-13,CUST1463,Customer_1588,Female,39,Hyderabad,Telangana,P010,Polo Shirt,T-Shirts,StyleHub,Red,XL,3,1299,10,3507.3,989.42,Credit Card,30
+ORD10589,2026-01-16,CUST1291,Customer_1589,Female,58,Jaipur,Rajasthan,P018,Anarkali Dress,Dresses,Elegance,Green,XL,3,3299,10,8907.3,1513.85,Debit Card,90
+ORD10590,2025-01-30,CUST1312,Customer_1590,Female,38,Bhubaneswar,Odisha,P009,Sneakers,Footwear,SportX,Grey,XL,2,3299,10,5938.2,793.13,Debit Card,92
+ORD10591,2025-04-14,CUST1307,Customer_1591,Male,39,Pune,Maharashtra,P013,Saree,Ethnic Wear,Heritage,Red,S,4,3999,25,11997.0,2327.83,UPI,53
+ORD10592,2026-04-09,CUST1235,Customer_1592,Male,40,Delhi,Delhi,P002,Slim Fit Jeans,Jeans,DenimCo,Pink,S,5,2499,25,9371.25,2577.62,UPI,41
+ORD10593,2025-03-14,CUST1415,Customer_1593,Female,36,Hyderabad,Telangana,P011,Cargo Pants,Trousers,UrbanWear,Black,L,3,1799,10,4857.3,519.11,Net Banking,28
+ORD10594,2026-06-08,CUST1349,Customer_1594,Male,18,Chennai,Tamil Nadu,P010,Polo Shirt,T-Shirts,StyleHub,Red,XXL,3,1299,10,3507.3,716.46,UPI,11
+ORD10595,2026-04-11,CUST1169,Customer_1595,Female,54,Kakinada,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Blue,M,3,3499,5,9972.15,2146.33,UPI,66
+ORD10596,2025-10-19,CUST1322,Customer_1596,Female,37,Visakhapatnam,Andhra Pradesh,P001,Classic T-Shirt,T-Shirts,UrbanWear,Pink,XXL,2,799,20,1278.4,241.51,Credit Card,72
+ORD10597,2025-04-04,CUST1334,Customer_1597,Male,44,Hyderabad,Telangana,P007,Formal Trousers,Trousers,OfficeLine,Grey,XXL,5,1999,5,9495.25,2597.82,Net Banking,67
+ORD10598,2026-10-06,CUST1420,Customer_1598,Male,38,Delhi,Delhi,P014,Blazer,Formal Wear,OfficeLine,Green,XXL,5,3499,5,16620.25,2127.81,Net Banking,82
+ORD10599,2026-11-23,CUST1296,Customer_1599,Male,21,Vijayawada,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Red,XL,1,3499,30,2449.3,282.44,Net Banking,58
+ORD10600,2026-11-11,CUST1071,Customer_1600,Male,56,Hyderabad,Telangana,P013,Saree,Ethnic Wear,Heritage,Yellow,S,5,3999,30,13996.5,2998.2,Net Banking,14
+ORD10601,2025-03-09,CUST1369,Customer_1601,Male,50,Kolkata,West Bengal,P014,Blazer,Formal Wear,OfficeLine,Beige,XL,2,3499,0,6998.0,862.71,Credit Card,23
+ORD10602,2026-07-11,CUST1420,Customer_1602,Male,33,Chennai,Tamil Nadu,P014,Blazer,Formal Wear,OfficeLine,Black,L,1,3499,15,2974.15,429.9,Credit Card,15
+ORD10603,2025-09-04,CUST1043,Customer_1603,Male,59,Kakinada,Andhra Pradesh,P012,Kurta,Ethnic Wear,Heritage,Blue,XL,3,1899,0,5697.0,1420.7,Debit Card,22
+ORD10604,2026-08-25,CUST1132,Customer_1604,Female,55,Bengaluru,Karnataka,P007,Formal Trousers,Trousers,OfficeLine,Yellow,XL,1,1999,25,1499.25,200.33,Net Banking,21
+ORD10605,2026-05-19,CUST1020,Customer_1605,Male,49,Hyderabad,Telangana,P020,Sweatshirt,Sportswear,UrbanWear,Red,XL,3,1699,10,4587.3,1443.92,Cash,11
+ORD10606,2025-12-03,CUST1323,Customer_1606,Female,46,Bengaluru,Karnataka,P012,Kurta,Ethnic Wear,Heritage,Grey,XL,1,1899,15,1614.15,469.71,Net Banking,84
+ORD10607,2025-11-04,CUST1159,Customer_1607,Male,54,Mumbai,Maharashtra,P003,Casual Shirt,Shirts,StyleHub,Blue,S,3,1499,15,3822.45,986.04,Net Banking,23
+ORD10608,2025-04-22,CUST1113,Customer_1608,Male,40,Bengaluru,Karnataka,P013,Saree,Ethnic Wear,Heritage,Black,XXL,5,3999,5,18995.25,2525.67,Cash,11
+ORD10609,2026-11-08,CUST1168,Customer_1609,Female,59,Chennai,Tamil Nadu,P017,Chinos,Trousers,OfficeLine,Yellow,XXL,1,1899,15,1614.15,500.97,Debit Card,32
+ORD10610,2025-08-22,CUST1254,Customer_1610,Male,53,Delhi,Delhi,P011,Cargo Pants,Trousers,UrbanWear,Green,XL,5,1799,30,6296.5,1338.64,UPI,77
+ORD10611,2026-05-28,CUST1518,Customer_1611,Male,27,Chennai,Tamil Nadu,P011,Cargo Pants,Trousers,UrbanWear,Pink,S,5,1799,15,7645.75,2121.87,Debit Card,43
+ORD10612,2026-12-08,CUST1005,Customer_1612,Female,33,Hyderabad,Telangana,P019,Loafers,Footwear,OfficeLine,White,XL,5,2799,30,9796.5,2488.33,Cash,17
+ORD10613,2026-12-30,CUST1130,Customer_1613,Female,60,Vijayawada,Andhra Pradesh,P001,Classic T-Shirt,T-Shirts,UrbanWear,Beige,XL,5,799,30,2796.5,839.38,UPI,13
+ORD10614,2026-01-14,CUST1486,Customer_1614,Male,35,Visakhapatnam,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,White,L,1,3599,5,3419.05,785.62,UPI,61
+ORD10615,2025-07-02,CUST1429,Customer_1615,Male,60,Delhi,Delhi,P020,Sweatshirt,Sportswear,UrbanWear,Blue,M,3,1699,10,4587.3,934.86,Cash,6
+ORD10616,2026-07-18,CUST1564,Customer_1616,Male,44,Mumbai,Maharashtra,P005,Summer Dress,Dresses,Elegance,Black,L,1,2999,10,2699.1,474.33,Net Banking,81
+ORD10617,2025-11-21,CUST1372,Customer_1617,Male,58,Kolkata,West Bengal,P005,Summer Dress,Dresses,Elegance,Pink,XL,2,2999,25,4498.5,452.88,UPI,86
+ORD10618,2025-01-31,CUST1372,Customer_1618,Female,20,Kolkata,West Bengal,P016,Denim Jacket,Outerwear,DenimCo,Pink,M,2,3199,20,5118.4,1132.1,Net Banking,57
+ORD10619,2025-06-18,CUST1553,Customer_1619,Female,22,Delhi,Delhi,P007,Formal Trousers,Trousers,OfficeLine,Grey,XXL,1,1999,0,1999.0,569.34,Credit Card,11
+ORD10620,2025-07-08,CUST1011,Customer_1620,Female,19,Jaipur,Rajasthan,P018,Anarkali Dress,Dresses,Elegance,Pink,L,3,3299,0,9897.0,1142.79,Debit Card,82
+ORD10621,2025-03-03,CUST1141,Customer_1621,Female,49,Vijayawada,Andhra Pradesh,P018,Anarkali Dress,Dresses,Elegance,Red,XXL,1,3299,0,3299.0,742.54,Net Banking,78
+ORD10622,2026-02-11,CUST1110,Customer_1622,Female,20,Mumbai,Maharashtra,P010,Polo Shirt,T-Shirts,StyleHub,Yellow,XL,5,1299,25,4871.25,1379.1,Debit Card,9
+ORD10623,2026-01-12,CUST1189,Customer_1623,Female,38,Delhi,Delhi,P010,Polo Shirt,T-Shirts,StyleHub,Grey,XL,5,1299,5,6170.25,1909.59,Cash,28
+ORD10624,2026-12-27,CUST1447,Customer_1624,Female,23,Pune,Maharashtra,P016,Denim Jacket,Outerwear,DenimCo,Red,L,3,3199,30,6717.9,2118.41,Cash,61
+ORD10625,2026-10-05,CUST1072,Customer_1625,Male,40,Chennai,Tamil Nadu,P009,Sneakers,Footwear,SportX,Black,S,1,3299,25,2474.25,402.02,Net Banking,61
+ORD10626,2026-06-14,CUST1538,Customer_1626,Male,19,Delhi,Delhi,P005,Summer Dress,Dresses,Elegance,Beige,L,1,2999,10,2699.1,385.84,Cash,35
+ORD10627,2026-01-09,CUST1550,Customer_1627,Female,31,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,SportX,Green,S,2,3599,5,6838.1,1950.53,Net Banking,74
+ORD10628,2025-07-12,CUST1312,Customer_1628,Male,46,Kakinada,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,Black,M,3,1499,15,3822.45,1021.61,Debit Card,47
+ORD10629,2026-09-11,CUST1467,Customer_1629,Female,52,Kolkata,West Bengal,P013,Saree,Ethnic Wear,Heritage,Pink,XL,1,3999,15,3399.15,457.33,Debit Card,6
+ORD10630,2026-02-06,CUST1552,Customer_1630,Male,34,Chennai,Tamil Nadu,P012,Kurta,Ethnic Wear,Heritage,Red,XXL,2,1899,25,2848.5,658.06,Cash,20
+ORD10631,2025-06-15,CUST1091,Customer_1631,Female,29,Visakhapatnam,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,Beige,XL,2,1299,20,2078.4,547.34,Net Banking,56
+ORD10632,2025-07-29,CUST1183,Customer_1632,Female,25,Visakhapatnam,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Green,XL,1,2799,10,2519.1,534.92,Credit Card,26
+ORD10633,2026-02-20,CUST1083,Customer_1633,Male,28,Bengaluru,Karnataka,P008,Leather Jacket,Outerwear,LeatherCraft,Blue,S,3,4599,5,13107.15,1849.21,Net Banking,34
+ORD10634,2026-06-29,CUST1346,Customer_1634,Male,42,Kolkata,West Bengal,P017,Chinos,Trousers,OfficeLine,Pink,XXL,5,1899,25,7121.25,1294.93,Credit Card,27
+ORD10635,2025-07-20,CUST1189,Customer_1635,Male,55,Hyderabad,Telangana,P007,Formal Trousers,Trousers,OfficeLine,Yellow,XXL,2,1999,10,3598.2,392.17,Debit Card,15
+ORD10636,2025-07-27,CUST1333,Customer_1636,Female,18,Bengaluru,Karnataka,P019,Loafers,Footwear,OfficeLine,White,XXL,3,2799,20,6717.6,1394.97,Debit Card,98
+ORD10637,2025-06-21,CUST1201,Customer_1637,Female,24,Pune,Maharashtra,P013,Saree,Ethnic Wear,Heritage,Yellow,L,4,3999,30,11197.2,2420.34,Credit Card,9
+ORD10638,2025-09-19,CUST1197,Customer_1638,Male,59,Chennai,Tamil Nadu,P015,Track Pants,Sportswear,SportX,Grey,S,5,1599,25,5996.25,1146.76,Net Banking,19
+ORD10639,2026-10-16,CUST1142,Customer_1639,Male,56,Pune,Maharashtra,P012,Kurta,Ethnic Wear,Heritage,Beige,M,1,1899,10,1709.1,543.86,UPI,67
+ORD10640,2025-09-27,CUST1322,Customer_1640,Female,28,Chennai,Tamil Nadu,P002,Slim Fit Jeans,Jeans,DenimCo,Grey,XXL,1,2499,30,1749.3,426.84,Debit Card,98
+ORD10641,2026-06-05,CUST1145,Customer_1641,Male,55,Pune,Maharashtra,P009,Sneakers,Footwear,SportX,Grey,M,3,3299,30,6927.9,1897.49,Credit Card,79
+ORD10642,2026-12-30,CUST1315,Customer_1642,Female,54,Hyderabad,Telangana,P004,Hoodie,Outerwear,UrbanWear,White,XXL,1,2199,25,1649.25,358.54,Cash,15
+ORD10643,2025-01-18,CUST1297,Customer_1643,Male,54,Bengaluru,Karnataka,P001,Classic T-Shirt,T-Shirts,UrbanWear,Black,XL,2,799,0,1598.0,328.17,Debit Card,6
+ORD10644,2025-01-06,CUST1079,Customer_1644,Male,35,Pune,Maharashtra,P014,Blazer,Formal Wear,OfficeLine,Pink,L,3,3499,25,7872.75,1584.68,Net Banking,23
+ORD10645,2026-07-22,CUST1310,Customer_1645,Female,55,Hyderabad,Telangana,P008,Leather Jacket,Outerwear,LeatherCraft,Beige,S,4,4599,0,18396.0,4223.3,Debit Card,15
+ORD10646,2026-03-27,CUST1458,Customer_1646,Female,28,Chennai,Tamil Nadu,P005,Summer Dress,Dresses,Elegance,Yellow,S,2,2999,20,4798.4,795.0,Debit Card,44
+ORD10647,2025-01-23,CUST1335,Customer_1647,Male,49,Jaipur,Rajasthan,P020,Sweatshirt,Sportswear,UrbanWear,Beige,XL,4,1699,30,4757.2,1243.23,Net Banking,27
+ORD10648,2026-03-23,CUST1393,Customer_1648,Female,38,Kolkata,West Bengal,P020,Sweatshirt,Sportswear,UrbanWear,Green,L,3,1699,20,4077.6,692.24,UPI,13
+ORD10649,2025-03-15,CUST1220,Customer_1649,Female,20,Jaipur,Rajasthan,P001,Classic T-Shirt,T-Shirts,UrbanWear,White,S,4,799,10,2876.4,377.14,Debit Card,100
+ORD10650,2026-05-30,CUST1589,Customer_1650,Male,28,Bengaluru,Karnataka,P014,Blazer,Formal Wear,OfficeLine,White,XL,3,3499,5,9972.15,1600.26,Debit Card,32
+ORD10651,2025-12-12,CUST1406,Customer_1651,Male,28,Delhi,Delhi,P005,Summer Dress,Dresses,Elegance,White,XL,1,2999,15,2549.15,255.83,Net Banking,78
+ORD10652,2026-04-18,CUST1595,Customer_1652,Female,28,Visakhapatnam,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Black,M,4,1799,10,6476.4,1650.33,Net Banking,83
+ORD10653,2025-06-04,CUST1023,Customer_1653,Female,41,Pune,Maharashtra,P002,Slim Fit Jeans,Jeans,DenimCo,Beige,L,1,2499,15,2124.15,565.25,Debit Card,34
+ORD10654,2025-11-16,CUST1510,Customer_1654,Female,26,Vijayawada,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,Blue,XXL,5,2499,25,9371.25,1687.98,Net Banking,12
+ORD10655,2026-04-29,CUST1475,Customer_1655,Female,54,Visakhapatnam,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,Yellow,XXL,3,1899,20,4557.6,1135.47,Cash,69
+ORD10656,2025-02-22,CUST1387,Customer_1656,Male,55,Mumbai,Maharashtra,P011,Cargo Pants,Trousers,UrbanWear,Pink,M,4,1799,0,7196.0,2164.57,Net Banking,52
+ORD10657,2025-04-07,CUST1587,Customer_1657,Female,36,Kakinada,Andhra Pradesh,P020,Sweatshirt,Sportswear,UrbanWear,White,S,4,1699,0,6796.0,995.58,Net Banking,36
+ORD10658,2026-04-15,CUST1592,Customer_1658,Male,46,Pune,Maharashtra,P001,Classic T-Shirt,T-Shirts,UrbanWear,Red,XL,2,799,15,1358.3,411.65,Cash,35
+ORD10659,2025-03-19,CUST1584,Customer_1659,Male,55,Kakinada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Red,M,5,2799,30,9796.5,1208.92,UPI,69
+ORD10660,2026-03-02,CUST1082,Customer_1660,Male,41,Hyderabad,Telangana,P015,Track Pants,Sportswear,SportX,Grey,L,3,1599,25,3597.75,586.76,Cash,54
+ORD10661,2026-11-04,CUST1540,Customer_1661,Female,22,Bhubaneswar,Odisha,P006,Running Shoes,Footwear,SportX,Grey,XL,2,3599,20,5758.4,1384.84,Credit Card,86
+ORD10662,2025-09-25,CUST1164,Customer_1662,Male,37,Kakinada,Andhra Pradesh,P018,Anarkali Dress,Dresses,Elegance,Grey,M,2,3299,15,5608.3,887.82,Debit Card,31
+ORD10663,2025-02-18,CUST1414,Customer_1663,Male,25,Visakhapatnam,Andhra Pradesh,P015,Track Pants,Sportswear,SportX,Beige,M,4,1599,30,4477.2,782.97,Debit Card,24
+ORD10664,2025-09-13,CUST1164,Customer_1664,Female,60,Chennai,Tamil Nadu,P003,Casual Shirt,Shirts,StyleHub,Yellow,XXL,1,1499,0,1499.0,162.75,UPI,25
+ORD10665,2026-02-06,CUST1482,Customer_1665,Male,23,Chennai,Tamil Nadu,P016,Denim Jacket,Outerwear,DenimCo,Yellow,S,2,3199,25,4798.5,1371.27,Cash,45
+ORD10666,2026-12-27,CUST1345,Customer_1666,Male,24,Jaipur,Rajasthan,P016,Denim Jacket,Outerwear,DenimCo,Blue,XL,5,3199,10,14395.5,1779.58,Net Banking,92
+ORD10667,2025-03-18,CUST1246,Customer_1667,Female,52,Visakhapatnam,Andhra Pradesh,P009,Sneakers,Footwear,SportX,Beige,M,3,3299,5,9402.15,2138.39,Credit Card,88
+ORD10668,2026-12-26,CUST1021,Customer_1668,Female,30,Vijayawada,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Black,XL,2,3499,20,5598.4,937.32,Cash,18
+ORD10669,2026-07-30,CUST1525,Customer_1669,Female,58,Vijayawada,Andhra Pradesh,P001,Classic T-Shirt,T-Shirts,UrbanWear,Beige,S,1,799,10,719.1,84.18,Credit Card,77
+ORD10670,2025-01-18,CUST1172,Customer_1670,Male,37,Bhubaneswar,Odisha,P007,Formal Trousers,Trousers,OfficeLine,Red,XXL,4,1999,25,5997.0,1058.66,Cash,74
+ORD10671,2026-08-04,CUST1513,Customer_1671,Male,35,Kakinada,Andhra Pradesh,P001,Classic T-Shirt,T-Shirts,UrbanWear,Red,XL,3,799,25,1797.75,467.31,Debit Card,43
+ORD10672,2025-12-15,CUST1587,Customer_1672,Female,37,Mumbai,Maharashtra,P004,Hoodie,Outerwear,UrbanWear,Yellow,M,3,2199,5,6267.15,1696.26,Net Banking,40
+ORD10673,2026-01-01,CUST1257,Customer_1673,Male,25,Hyderabad,Telangana,P006,Running Shoes,Footwear,SportX,Black,M,1,3599,25,2699.25,321.26,Debit Card,81
+ORD10674,2025-11-18,CUST1341,Customer_1674,Male,26,Pune,Maharashtra,P010,Polo Shirt,T-Shirts,StyleHub,Pink,M,2,1299,5,2468.1,736.14,Debit Card,61
+ORD10675,2025-05-17,CUST1326,Customer_1675,Female,29,Vijayawada,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,Beige,XL,3,2499,10,6747.3,1337.96,Cash,11
+ORD10676,2025-02-13,CUST1364,Customer_1676,Female,35,Kolkata,West Bengal,P016,Denim Jacket,Outerwear,DenimCo,White,M,2,3199,20,5118.4,803.81,Debit Card,92
+ORD10677,2025-10-05,CUST1448,Customer_1677,Female,47,Kakinada,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,White,S,2,1499,20,2398.4,719.63,Credit Card,17
+ORD10678,2025-11-29,CUST1468,Customer_1678,Male,30,Kakinada,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Green,S,4,3599,20,11516.8,1723.38,Credit Card,8
+ORD10679,2026-11-02,CUST1067,Customer_1679,Female,26,Pune,Maharashtra,P011,Cargo Pants,Trousers,UrbanWear,Blue,L,3,1799,20,4317.6,1257.09,UPI,39
+ORD10680,2025-12-13,CUST1250,Customer_1680,Female,60,Bhubaneswar,Odisha,P004,Hoodie,Outerwear,UrbanWear,Red,S,3,2199,25,4947.75,1087.89,Net Banking,94
+ORD10681,2026-08-29,CUST1305,Customer_1681,Male,36,Mumbai,Maharashtra,P007,Formal Trousers,Trousers,OfficeLine,Yellow,M,3,1999,30,4197.9,1271.26,Debit Card,68
+ORD10682,2025-02-02,CUST1387,Customer_1682,Male,35,Kakinada,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,Grey,S,3,2499,25,5622.75,1439.82,UPI,47
+ORD10683,2025-12-08,CUST1050,Customer_1683,Female,29,Visakhapatnam,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Yellow,XL,1,2799,25,2099.25,408.8,Debit Card,34
+ORD10684,2025-10-18,CUST1581,Customer_1684,Female,55,Jaipur,Rajasthan,P014,Blazer,Formal Wear,OfficeLine,White,M,5,3499,30,12246.5,2801.61,Cash,76
+ORD10685,2026-08-19,CUST1011,Customer_1685,Female,29,Delhi,Delhi,P008,Leather Jacket,Outerwear,LeatherCraft,Beige,XXL,1,4599,0,4599.0,956.77,Debit Card,35
+ORD10686,2026-05-11,CUST1506,Customer_1686,Female,50,Kakinada,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,Grey,L,1,2999,30,2099.3,431.25,UPI,25
+ORD10687,2026-12-08,CUST1438,Customer_1687,Male,35,Chennai,Tamil Nadu,P009,Sneakers,Footwear,SportX,Yellow,L,1,3299,10,2969.1,829.12,Debit Card,46
+ORD10688,2026-09-24,CUST1305,Customer_1688,Male,58,Mumbai,Maharashtra,P009,Sneakers,Footwear,SportX,Grey,L,3,3299,5,9402.15,2348.78,UPI,6
+ORD10689,2026-10-22,CUST1332,Customer_1689,Male,48,Mumbai,Maharashtra,P005,Summer Dress,Dresses,Elegance,Green,M,2,2999,25,4498.5,984.84,Debit Card,68
+ORD10690,2026-09-04,CUST1108,Customer_1690,Female,35,Bengaluru,Karnataka,P008,Leather Jacket,Outerwear,LeatherCraft,Pink,XL,4,4599,30,12877.2,2427.06,Cash,92
+ORD10691,2026-03-20,CUST1445,Customer_1691,Male,32,Hyderabad,Telangana,P004,Hoodie,Outerwear,UrbanWear,Yellow,XXL,3,2199,0,6597.0,1649.93,Net Banking,12
+ORD10692,2025-01-12,CUST1528,Customer_1692,Male,36,Vijayawada,Andhra Pradesh,P009,Sneakers,Footwear,SportX,Grey,M,1,3299,25,2474.25,332.35,Cash,46
+ORD10693,2025-03-28,CUST1394,Customer_1693,Male,23,Hyderabad,Telangana,P006,Running Shoes,Footwear,SportX,Yellow,XL,2,3599,0,7198.0,938.17,UPI,24
+ORD10694,2026-09-23,CUST1053,Customer_1694,Male,58,Kolkata,West Bengal,P008,Leather Jacket,Outerwear,LeatherCraft,Green,L,4,4599,0,18396.0,2346.81,Cash,65
+ORD10695,2025-04-01,CUST1532,Customer_1695,Male,29,Hyderabad,Telangana,P013,Saree,Ethnic Wear,Heritage,Beige,XL,1,3999,15,3399.15,717.86,Net Banking,68
+ORD10696,2025-05-30,CUST1266,Customer_1696,Female,45,Hyderabad,Telangana,P019,Loafers,Footwear,OfficeLine,Red,L,1,2799,20,2239.2,341.1,Debit Card,28
+ORD10697,2025-08-02,CUST1333,Customer_1697,Female,27,Pune,Maharashtra,P011,Cargo Pants,Trousers,UrbanWear,Grey,XL,4,1799,5,6836.2,1464.65,Credit Card,42
+ORD10698,2026-07-10,CUST1362,Customer_1698,Male,32,Vijayawada,Andhra Pradesh,P018,Anarkali Dress,Dresses,Elegance,Yellow,XXL,2,3299,20,5278.4,1220.92,UPI,86
+ORD10699,2026-04-13,CUST1600,Customer_1699,Male,27,Delhi,Delhi,P017,Chinos,Trousers,OfficeLine,Beige,M,1,1899,0,1899.0,354.44,Debit Card,47
+ORD10700,2025-02-11,CUST1133,Customer_1700,Female,39,Delhi,Delhi,P011,Cargo Pants,Trousers,UrbanWear,Grey,XXL,2,1799,20,2878.4,592.37,Cash,81
+ORD10701,2026-10-08,CUST1528,Customer_1701,Male,48,Hyderabad,Telangana,P015,Track Pants,Sportswear,SportX,Beige,L,3,1599,20,3837.6,535.63,Credit Card,89
+ORD10702,2026-08-07,CUST1073,Customer_1702,Male,38,Delhi,Delhi,P011,Cargo Pants,Trousers,UrbanWear,Black,M,1,1799,5,1709.05,252.39,Net Banking,95
+ORD10703,2025-03-28,CUST1401,Customer_1703,Female,57,Kolkata,West Bengal,P018,Anarkali Dress,Dresses,Elegance,Black,L,2,3299,0,6598.0,1746.77,Net Banking,42
+ORD10704,2026-04-28,CUST1285,Customer_1704,Male,32,Hyderabad,Telangana,P014,Blazer,Formal Wear,OfficeLine,Pink,M,1,3499,25,2624.25,770.35,Cash,51
+ORD10705,2026-09-23,CUST1378,Customer_1705,Female,51,Hyderabad,Telangana,P007,Formal Trousers,Trousers,OfficeLine,Blue,M,4,1999,10,7196.4,1919.26,Debit Card,65
+ORD10706,2026-12-19,CUST1380,Customer_1706,Female,26,Bengaluru,Karnataka,P013,Saree,Ethnic Wear,Heritage,Red,XXL,1,3999,25,2999.25,777.88,Credit Card,10
+ORD10707,2026-02-09,CUST1481,Customer_1707,Male,43,Bhubaneswar,Odisha,P005,Summer Dress,Dresses,Elegance,Green,XL,3,2999,20,7197.6,1561.38,Net Banking,67
+ORD10708,2026-03-28,CUST1143,Customer_1708,Female,60,Kakinada,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Grey,M,4,3499,20,11196.8,2947.0,Net Banking,27
+ORD10709,2026-05-06,CUST1429,Customer_1709,Male,24,Kakinada,Andhra Pradesh,P009,Sneakers,Footwear,SportX,Yellow,S,5,3299,15,14020.75,2515.3,UPI,51
+ORD10710,2025-01-09,CUST1223,Customer_1710,Male,31,Kakinada,Andhra Pradesh,P012,Kurta,Ethnic Wear,Heritage,Grey,S,2,1899,5,3608.1,368.14,Cash,64
+ORD10711,2026-05-18,CUST1524,Customer_1711,Female,43,Visakhapatnam,Andhra Pradesh,P012,Kurta,Ethnic Wear,Heritage,Red,L,4,1899,25,5697.0,967.06,UPI,49
+ORD10712,2025-03-20,CUST1547,Customer_1712,Female,27,Kolkata,West Bengal,P011,Cargo Pants,Trousers,UrbanWear,Grey,M,2,1799,25,2698.5,812.47,Cash,20
+ORD10713,2026-02-09,CUST1114,Customer_1713,Male,57,Hyderabad,Telangana,P005,Summer Dress,Dresses,Elegance,Blue,S,2,2999,5,5698.1,1363.46,Debit Card,5
+ORD10714,2026-04-28,CUST1358,Customer_1714,Male,27,Delhi,Delhi,P007,Formal Trousers,Trousers,OfficeLine,Beige,S,5,1999,5,9495.25,1691.86,Net Banking,50
+ORD10715,2026-01-15,CUST1398,Customer_1715,Male,50,Pune,Maharashtra,P020,Sweatshirt,Sportswear,UrbanWear,Grey,S,2,1699,15,2888.3,427.45,Net Banking,9
+ORD10716,2026-09-06,CUST1422,Customer_1716,Female,35,Kolkata,West Bengal,P014,Blazer,Formal Wear,OfficeLine,White,M,3,3499,20,8397.6,2042.06,Cash,56
+ORD10717,2025-02-16,CUST1175,Customer_1717,Female,39,Delhi,Delhi,P002,Slim Fit Jeans,Jeans,DenimCo,Pink,L,2,2499,30,3498.6,501.46,Debit Card,62
+ORD10718,2026-01-26,CUST1528,Customer_1718,Male,45,Bhubaneswar,Odisha,P020,Sweatshirt,Sportswear,UrbanWear,Blue,XL,3,1699,20,4077.6,1161.24,Credit Card,63
+ORD10719,2026-01-13,CUST1016,Customer_1719,Male,18,Hyderabad,Telangana,P016,Denim Jacket,Outerwear,DenimCo,Pink,XXL,3,3199,15,8157.45,1878.18,UPI,9
+ORD10720,2025-09-26,CUST1538,Customer_1720,Female,26,Pune,Maharashtra,P016,Denim Jacket,Outerwear,DenimCo,Grey,XXL,3,3199,10,8637.3,1240.3,Net Banking,78
+ORD10721,2026-02-10,CUST1239,Customer_1721,Male,28,Vijayawada,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,White,XXL,2,1499,5,2848.1,482.96,Debit Card,27
+ORD10722,2026-08-12,CUST1136,Customer_1722,Female,36,Vijayawada,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,Green,L,5,1899,30,6646.5,2097.99,Cash,16
+ORD10723,2026-05-29,CUST1330,Customer_1723,Female,43,Hyderabad,Telangana,P011,Cargo Pants,Trousers,UrbanWear,Green,S,5,1799,15,7645.75,1688.48,Debit Card,21
+ORD10724,2025-06-03,CUST1554,Customer_1724,Male,40,Hyderabad,Telangana,P015,Track Pants,Sportswear,SportX,Beige,XL,1,1599,30,1119.3,147.61,UPI,39
+ORD10725,2025-10-29,CUST1207,Customer_1725,Male,37,Mumbai,Maharashtra,P008,Leather Jacket,Outerwear,LeatherCraft,Beige,L,2,4599,5,8738.1,1439.61,Debit Card,99
+ORD10726,2025-03-19,CUST1210,Customer_1726,Female,48,Chennai,Tamil Nadu,P013,Saree,Ethnic Wear,Heritage,Pink,S,2,3999,10,7198.2,956.59,Debit Card,60
+ORD10727,2025-03-01,CUST1249,Customer_1727,Female,51,Visakhapatnam,Andhra Pradesh,P009,Sneakers,Footwear,SportX,Beige,L,3,3299,10,8907.3,2719.19,Cash,94
+ORD10728,2026-09-02,CUST1207,Customer_1728,Male,33,Bengaluru,Karnataka,P017,Chinos,Trousers,OfficeLine,White,XXL,2,1899,25,2848.5,760.41,UPI,58
+ORD10729,2026-12-13,CUST1518,Customer_1729,Male,42,Pune,Maharashtra,P001,Classic T-Shirt,T-Shirts,UrbanWear,Pink,M,4,799,30,2237.2,631.21,Cash,7
+ORD10730,2026-09-19,CUST1099,Customer_1730,Female,30,Kolkata,West Bengal,P018,Anarkali Dress,Dresses,Elegance,Grey,L,4,3299,25,9897.0,1970.68,Cash,85
+ORD10731,2025-09-06,CUST1562,Customer_1731,Male,23,Pune,Maharashtra,P007,Formal Trousers,Trousers,OfficeLine,Black,XXL,1,1999,10,1799.1,478.09,UPI,62
+ORD10732,2026-05-24,CUST1374,Customer_1732,Female,31,Visakhapatnam,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,Black,L,4,1899,30,5317.2,1123.8,Credit Card,58
+ORD10733,2025-04-01,CUST1129,Customer_1733,Female,57,Visakhapatnam,Andhra Pradesh,P016,Denim Jacket,Outerwear,DenimCo,Green,XXL,3,3199,20,7677.6,1510.08,UPI,33
+ORD10734,2025-09-20,CUST1525,Customer_1734,Female,39,Kakinada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Green,S,1,2799,20,2239.2,459.27,Credit Card,8
+ORD10735,2025-01-29,CUST1338,Customer_1735,Female,31,Jaipur,Rajasthan,P018,Anarkali Dress,Dresses,Elegance,Yellow,XXL,2,3299,10,5938.2,1405.72,Credit Card,36
+ORD10736,2026-03-02,CUST1537,Customer_1736,Female,29,Jaipur,Rajasthan,P007,Formal Trousers,Trousers,OfficeLine,Black,XL,5,1999,0,9995.0,2062.31,UPI,13
+ORD10737,2025-09-16,CUST1003,Customer_1737,Male,31,Kakinada,Andhra Pradesh,P020,Sweatshirt,Sportswear,UrbanWear,Green,L,3,1699,20,4077.6,464.06,Credit Card,48
+ORD10738,2026-01-01,CUST1076,Customer_1738,Female,35,Bhubaneswar,Odisha,P002,Slim Fit Jeans,Jeans,DenimCo,Grey,XL,2,2499,30,3498.6,1073.0,Credit Card,75
+ORD10739,2026-10-06,CUST1200,Customer_1739,Female,48,Delhi,Delhi,P011,Cargo Pants,Trousers,UrbanWear,Pink,XL,2,1799,10,3238.2,412.26,Cash,85
+ORD10740,2025-06-30,CUST1116,Customer_1740,Female,18,Kakinada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Black,L,1,2799,25,2099.25,232.32,Net Banking,55
+ORD10741,2025-06-28,CUST1405,Customer_1741,Male,20,Bengaluru,Karnataka,P009,Sneakers,Footwear,SportX,White,XXL,4,3299,15,11216.6,1129.58,Credit Card,7
+ORD10742,2026-06-28,CUST1366,Customer_1742,Male,47,Jaipur,Rajasthan,P015,Track Pants,Sportswear,SportX,Yellow,S,3,1599,15,4077.45,921.29,UPI,69
+ORD10743,2025-07-15,CUST1207,Customer_1743,Female,50,Bhubaneswar,Odisha,P003,Casual Shirt,Shirts,StyleHub,White,L,5,1499,0,7495.0,1480.05,Net Banking,29
+ORD10744,2025-09-28,CUST1103,Customer_1744,Female,18,Kakinada,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Beige,S,1,3499,25,2624.25,527.52,Credit Card,94
+ORD10745,2026-09-27,CUST1148,Customer_1745,Male,59,Visakhapatnam,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Yellow,XXL,1,2199,25,1649.25,328.63,Credit Card,43
+ORD10746,2025-09-03,CUST1176,Customer_1746,Male,23,Bengaluru,Karnataka,P012,Kurta,Ethnic Wear,Heritage,Green,S,3,1899,5,5412.15,586.3,Credit Card,58
+ORD10747,2026-08-07,CUST1266,Customer_1747,Female,23,Vijayawada,Andhra Pradesh,P018,Anarkali Dress,Dresses,Elegance,Black,S,1,3299,15,2804.15,576.85,Credit Card,23
+ORD10748,2025-05-30,CUST1244,Customer_1748,Male,35,Kolkata,West Bengal,P002,Slim Fit Jeans,Jeans,DenimCo,Yellow,XL,2,2499,30,3498.6,1054.47,Debit Card,65
+ORD10749,2026-04-11,CUST1339,Customer_1749,Male,23,Vijayawada,Andhra Pradesh,P015,Track Pants,Sportswear,SportX,Beige,M,1,1599,10,1439.1,282.46,UPI,34
+ORD10750,2025-02-02,CUST1306,Customer_1750,Male,26,Chennai,Tamil Nadu,P019,Loafers,Footwear,OfficeLine,Green,S,2,2799,30,3918.6,954.86,Cash,83
+ORD10751,2025-01-29,CUST1483,Customer_1751,Male,50,Visakhapatnam,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,Grey,XXL,3,2499,20,5997.6,940.34,Net Banking,62
+ORD10752,2026-12-24,CUST1391,Customer_1752,Male,43,Chennai,Tamil Nadu,P008,Leather Jacket,Outerwear,LeatherCraft,Red,S,3,4599,25,10347.75,1476.42,Net Banking,90
+ORD10753,2026-10-14,CUST1522,Customer_1753,Male,57,Visakhapatnam,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,White,L,2,1899,5,3608.1,621.08,Debit Card,96
+ORD10754,2025-10-28,CUST1230,Customer_1754,Female,50,Kolkata,West Bengal,P014,Blazer,Formal Wear,OfficeLine,Beige,L,5,3499,20,13996.0,4046.75,Net Banking,74
+ORD10755,2025-08-27,CUST1182,Customer_1755,Female,60,Delhi,Delhi,P015,Track Pants,Sportswear,SportX,White,M,1,1599,15,1359.15,422.25,Net Banking,24
+ORD10756,2026-09-18,CUST1185,Customer_1756,Female,44,Kolkata,West Bengal,P016,Denim Jacket,Outerwear,DenimCo,Yellow,M,1,3199,5,3039.05,674.86,Cash,48
+ORD10757,2026-12-23,CUST1351,Customer_1757,Male,60,Delhi,Delhi,P011,Cargo Pants,Trousers,UrbanWear,Grey,M,5,1799,10,8095.5,2167.4,Credit Card,30
+ORD10758,2026-07-04,CUST1436,Customer_1758,Female,32,Mumbai,Maharashtra,P017,Chinos,Trousers,OfficeLine,White,S,1,1899,25,1424.25,334.61,Credit Card,65
+ORD10759,2026-12-01,CUST1170,Customer_1759,Male,36,Hyderabad,Telangana,P001,Classic T-Shirt,T-Shirts,UrbanWear,Beige,M,5,799,20,3196.0,448.93,Net Banking,38
+ORD10760,2026-01-30,CUST1025,Customer_1760,Male,57,Bengaluru,Karnataka,P006,Running Shoes,Footwear,SportX,Black,L,4,3599,20,11516.8,2155.17,Cash,36
+ORD10761,2025-09-14,CUST1025,Customer_1761,Male,24,Pune,Maharashtra,P010,Polo Shirt,T-Shirts,StyleHub,Green,S,1,1299,25,974.25,282.57,Net Banking,62
+ORD10762,2026-03-03,CUST1460,Customer_1762,Male,49,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,SportX,Blue,M,5,3599,25,13496.25,2370.45,Debit Card,20
+ORD10763,2026-06-10,CUST1400,Customer_1763,Male,53,Kolkata,West Bengal,P009,Sneakers,Footwear,SportX,Blue,M,2,3299,5,6268.1,1585.29,Net Banking,37
+ORD10764,2026-09-12,CUST1179,Customer_1764,Male,20,Jaipur,Rajasthan,P014,Blazer,Formal Wear,OfficeLine,Yellow,XL,1,3499,20,2799.2,638.59,Cash,76
+ORD10765,2025-10-30,CUST1452,Customer_1765,Female,46,Kakinada,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,Grey,XL,4,1499,25,4497.0,1353.18,Cash,91
+ORD10766,2026-04-21,CUST1219,Customer_1766,Male,53,Pune,Maharashtra,P006,Running Shoes,Footwear,SportX,Red,XL,5,3599,20,14396.0,2759.24,UPI,12
+ORD10767,2025-11-08,CUST1572,Customer_1767,Male,36,Jaipur,Rajasthan,P017,Chinos,Trousers,OfficeLine,Red,XL,1,1899,25,1424.25,419.57,UPI,84
+ORD10768,2026-08-24,CUST1019,Customer_1768,Female,43,Vijayawada,Andhra Pradesh,P001,Classic T-Shirt,T-Shirts,UrbanWear,Black,XL,2,799,20,1278.4,408.25,Debit Card,70
+ORD10769,2026-03-05,CUST1498,Customer_1769,Male,27,Delhi,Delhi,P006,Running Shoes,Footwear,SportX,Pink,XL,2,3599,25,5398.5,796.86,Net Banking,80
+ORD10770,2026-04-29,CUST1052,Customer_1770,Male,26,Kakinada,Andhra Pradesh,P020,Sweatshirt,Sportswear,UrbanWear,Red,L,1,1699,5,1614.05,438.06,Credit Card,94
+ORD10771,2025-01-05,CUST1279,Customer_1771,Male,36,Bengaluru,Karnataka,P005,Summer Dress,Dresses,Elegance,Grey,L,3,2999,15,7647.45,2410.79,Credit Card,34
+ORD10772,2026-01-13,CUST1410,Customer_1772,Male,26,Delhi,Delhi,P006,Running Shoes,Footwear,SportX,Grey,M,2,3599,10,6478.2,706.02,Cash,19
+ORD10773,2025-04-27,CUST1099,Customer_1773,Female,27,Delhi,Delhi,P003,Casual Shirt,Shirts,StyleHub,Green,XXL,3,1499,10,4047.3,720.52,Net Banking,30
+ORD10774,2026-05-27,CUST1437,Customer_1774,Male,38,Hyderabad,Telangana,P003,Casual Shirt,Shirts,StyleHub,Red,S,4,1499,20,4796.8,678.85,UPI,97
+ORD10775,2026-12-31,CUST1294,Customer_1775,Female,51,Bengaluru,Karnataka,P010,Polo Shirt,T-Shirts,StyleHub,Black,S,1,1299,0,1299.0,239.87,Net Banking,94
+ORD10776,2026-04-17,CUST1557,Customer_1776,Male,43,Bhubaneswar,Odisha,P003,Casual Shirt,Shirts,StyleHub,Black,M,4,1499,30,4197.2,1174.48,UPI,47
+ORD10777,2025-07-14,CUST1056,Customer_1777,Female,53,Chennai,Tamil Nadu,P017,Chinos,Trousers,OfficeLine,Green,M,4,1899,10,6836.4,1784.08,UPI,95
+ORD10778,2025-04-27,CUST1492,Customer_1778,Male,49,Vijayawada,Andhra Pradesh,P016,Denim Jacket,Outerwear,DenimCo,Blue,XXL,1,3199,0,3199.0,891.28,Debit Card,30
+ORD10779,2026-04-30,CUST1268,Customer_1779,Male,18,Bengaluru,Karnataka,P005,Summer Dress,Dresses,Elegance,Black,L,5,2999,10,13495.5,2945.09,Debit Card,76
+ORD10780,2025-05-09,CUST1107,Customer_1780,Male,45,Bhubaneswar,Odisha,P018,Anarkali Dress,Dresses,Elegance,Red,S,1,3299,30,2309.3,500.4,UPI,11
+ORD10781,2026-07-03,CUST1444,Customer_1781,Male,20,Vijayawada,Andhra Pradesh,P013,Saree,Ethnic Wear,Heritage,Blue,XXL,4,3999,20,12796.8,1578.71,UPI,81
+ORD10782,2025-09-29,CUST1380,Customer_1782,Female,20,Mumbai,Maharashtra,P010,Polo Shirt,T-Shirts,StyleHub,Grey,XXL,1,1299,30,909.3,110.26,Cash,24
+ORD10783,2025-03-12,CUST1271,Customer_1783,Female,42,Vijayawada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Grey,XXL,4,2799,0,11196.0,1635.86,Cash,7
+ORD10784,2025-01-23,CUST1531,Customer_1784,Male,57,Bengaluru,Karnataka,P002,Slim Fit Jeans,Jeans,DenimCo,Yellow,XXL,1,2499,10,2249.1,406.08,Net Banking,18
+ORD10785,2026-10-31,CUST1398,Customer_1785,Female,28,Delhi,Delhi,P013,Saree,Ethnic Wear,Heritage,Pink,M,3,3999,20,9597.6,1619.83,Debit Card,87
+ORD10786,2025-06-16,CUST1015,Customer_1786,Female,28,Bhubaneswar,Odisha,P008,Leather Jacket,Outerwear,LeatherCraft,Pink,S,2,4599,30,6438.6,1077.67,Cash,53
+ORD10787,2026-01-22,CUST1218,Customer_1787,Male,25,Pune,Maharashtra,P013,Saree,Ethnic Wear,Heritage,Green,L,1,3999,15,3399.15,994.18,Net Banking,80
+ORD10788,2025-03-05,CUST1281,Customer_1788,Female,32,Vijayawada,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Red,S,3,2199,15,5607.45,1223.44,Credit Card,99
+ORD10789,2026-03-28,CUST1343,Customer_1789,Female,37,Kakinada,Andhra Pradesh,P013,Saree,Ethnic Wear,Heritage,Blue,M,1,3999,15,3399.15,448.78,Credit Card,46
+ORD10790,2026-11-11,CUST1184,Customer_1790,Male,26,Hyderabad,Telangana,P010,Polo Shirt,T-Shirts,StyleHub,White,XXL,4,1299,0,5196.0,1565.84,Net Banking,82
+ORD10791,2026-09-04,CUST1209,Customer_1791,Male,54,Jaipur,Rajasthan,P015,Track Pants,Sportswear,SportX,Red,XL,2,1599,15,2718.3,582.09,Debit Card,33
+ORD10792,2025-03-09,CUST1578,Customer_1792,Female,41,Bengaluru,Karnataka,P005,Summer Dress,Dresses,Elegance,Black,L,4,2999,15,10196.6,1022.02,Debit Card,62
+ORD10793,2026-06-02,CUST1374,Customer_1793,Female,46,Hyderabad,Telangana,P001,Classic T-Shirt,T-Shirts,UrbanWear,White,L,3,799,20,1917.6,601.64,Net Banking,32
+ORD10794,2025-06-17,CUST1398,Customer_1794,Male,55,Bengaluru,Karnataka,P020,Sweatshirt,Sportswear,UrbanWear,Pink,M,1,1699,10,1529.1,212.15,Debit Card,36
+ORD10795,2025-07-09,CUST1219,Customer_1795,Female,22,Vijayawada,Andhra Pradesh,P007,Formal Trousers,Trousers,OfficeLine,Blue,S,4,1999,10,7196.4,2191.13,Net Banking,94
+ORD10796,2026-06-22,CUST1117,Customer_1796,Female,55,Pune,Maharashtra,P016,Denim Jacket,Outerwear,DenimCo,Black,S,2,3199,20,5118.4,687.69,Net Banking,6
+ORD10797,2025-01-04,CUST1077,Customer_1797,Male,60,Jaipur,Rajasthan,P014,Blazer,Formal Wear,OfficeLine,Grey,XL,3,3499,10,9447.3,1622.27,Credit Card,86
+ORD10798,2026-03-10,CUST1195,Customer_1798,Female,48,Delhi,Delhi,P015,Track Pants,Sportswear,SportX,Yellow,XL,4,1599,15,5436.6,1003.62,Debit Card,96
+ORD10799,2026-11-19,CUST1369,Customer_1799,Male,36,Hyderabad,Telangana,P005,Summer Dress,Dresses,Elegance,Grey,XL,3,2999,0,8997.0,1868.64,Credit Card,61
+ORD10800,2026-05-10,CUST1550,Customer_1800,Male,35,Mumbai,Maharashtra,P012,Kurta,Ethnic Wear,Heritage,White,L,1,1899,30,1329.3,318.22,Debit Card,50
+ORD10801,2025-11-26,CUST1547,Customer_1801,Female,41,Visakhapatnam,Andhra Pradesh,P020,Sweatshirt,Sportswear,UrbanWear,Red,L,3,1699,10,4587.3,1364.27,UPI,10
+ORD10802,2026-03-18,CUST1029,Customer_1802,Male,48,Chennai,Tamil Nadu,P010,Polo Shirt,T-Shirts,StyleHub,Pink,M,3,1299,15,3312.45,847.95,Net Banking,67
+ORD10803,2025-03-03,CUST1502,Customer_1803,Female,44,Kakinada,Andhra Pradesh,P009,Sneakers,Footwear,SportX,Beige,S,4,3299,30,9237.2,1818.8,Cash,47
+ORD10804,2026-11-08,CUST1007,Customer_1804,Female,44,Pune,Maharashtra,P006,Running Shoes,Footwear,SportX,Red,XL,2,3599,15,6118.3,1439.05,Cash,78
+ORD10805,2026-06-14,CUST1108,Customer_1805,Female,36,Hyderabad,Telangana,P002,Slim Fit Jeans,Jeans,DenimCo,White,S,1,2499,20,1999.2,385.21,Net Banking,15
+ORD10806,2025-12-24,CUST1029,Customer_1806,Male,42,Hyderabad,Telangana,P009,Sneakers,Footwear,SportX,White,M,4,3299,15,11216.6,2877.16,UPI,81
+ORD10807,2026-08-23,CUST1137,Customer_1807,Female,42,Bengaluru,Karnataka,P013,Saree,Ethnic Wear,Heritage,Pink,S,4,3999,0,15996.0,3791.01,Net Banking,46
+ORD10808,2026-06-20,CUST1355,Customer_1808,Male,33,Jaipur,Rajasthan,P006,Running Shoes,Footwear,SportX,Red,M,1,3599,30,2519.3,498.51,Net Banking,24
+ORD10809,2026-07-26,CUST1449,Customer_1809,Female,35,Kolkata,West Bengal,P015,Track Pants,Sportswear,SportX,Green,S,5,1599,25,5996.25,775.42,Credit Card,55
+ORD10810,2026-11-24,CUST1155,Customer_1810,Female,56,Kakinada,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,Red,XL,1,1499,0,1499.0,379.44,Cash,84
+ORD10811,2026-04-06,CUST1330,Customer_1811,Male,40,Jaipur,Rajasthan,P020,Sweatshirt,Sportswear,UrbanWear,Grey,XXL,4,1699,20,5436.8,976.29,Debit Card,20
+ORD10812,2026-09-05,CUST1521,Customer_1812,Female,34,Kolkata,West Bengal,P020,Sweatshirt,Sportswear,UrbanWear,Pink,S,3,1699,10,4587.3,832.19,Cash,61
+ORD10813,2026-04-14,CUST1118,Customer_1813,Female,51,Visakhapatnam,Andhra Pradesh,P018,Anarkali Dress,Dresses,Elegance,Black,XXL,3,3299,25,7422.75,856.32,Credit Card,57
+ORD10814,2025-05-01,CUST1450,Customer_1814,Male,30,Mumbai,Maharashtra,P002,Slim Fit Jeans,Jeans,DenimCo,White,S,1,2499,5,2374.05,684.28,Debit Card,91
+ORD10815,2025-02-02,CUST1059,Customer_1815,Female,20,Visakhapatnam,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Beige,XL,5,3499,20,13996.0,3935.79,Cash,56
+ORD10816,2026-07-21,CUST1035,Customer_1816,Female,44,Jaipur,Rajasthan,P002,Slim Fit Jeans,Jeans,DenimCo,Green,XL,3,2499,25,5622.75,1600.5,Net Banking,57
+ORD10817,2025-10-21,CUST1119,Customer_1817,Female,53,Delhi,Delhi,P007,Formal Trousers,Trousers,OfficeLine,Blue,XXL,5,1999,30,6996.5,859.95,UPI,14
+ORD10818,2025-08-14,CUST1042,Customer_1818,Female,56,Kolkata,West Bengal,P020,Sweatshirt,Sportswear,UrbanWear,Beige,XXL,1,1699,25,1274.25,145.47,Cash,89
+ORD10819,2025-08-16,CUST1180,Customer_1819,Male,29,Hyderabad,Telangana,P016,Denim Jacket,Outerwear,DenimCo,Grey,XXL,4,3199,30,8957.2,2681.69,UPI,70
+ORD10820,2026-10-26,CUST1368,Customer_1820,Female,46,Vijayawada,Andhra Pradesh,P016,Denim Jacket,Outerwear,DenimCo,Black,XXL,5,3199,25,11996.25,3712.9,UPI,41
+ORD10821,2025-08-13,CUST1539,Customer_1821,Male,47,Pune,Maharashtra,P005,Summer Dress,Dresses,Elegance,Green,S,4,2999,0,11996.0,3278.57,UPI,22
+ORD10822,2025-06-18,CUST1023,Customer_1822,Female,34,Bhubaneswar,Odisha,P019,Loafers,Footwear,OfficeLine,Blue,XL,5,2799,10,12595.5,3940.26,Credit Card,77
+ORD10823,2026-07-01,CUST1296,Customer_1823,Male,28,Pune,Maharashtra,P004,Hoodie,Outerwear,UrbanWear,Black,S,1,2199,10,1979.1,260.12,Cash,12
+ORD10824,2026-08-23,CUST1282,Customer_1824,Female,35,Delhi,Delhi,P005,Summer Dress,Dresses,Elegance,Beige,M,5,2999,10,13495.5,4116.14,Net Banking,64
+ORD10825,2025-04-26,CUST1526,Customer_1825,Female,28,Delhi,Delhi,P013,Saree,Ethnic Wear,Heritage,Beige,L,2,3999,25,5998.5,1657.32,Credit Card,26
+ORD10826,2025-09-22,CUST1435,Customer_1826,Female,21,Delhi,Delhi,P008,Leather Jacket,Outerwear,LeatherCraft,Red,XXL,1,4599,20,3679.2,812.28,Net Banking,100
+ORD10827,2025-03-07,CUST1443,Customer_1827,Female,55,Jaipur,Rajasthan,P004,Hoodie,Outerwear,UrbanWear,Beige,XXL,3,2199,0,6597.0,1013.2,Cash,82
+ORD10828,2025-09-05,CUST1080,Customer_1828,Male,22,Kolkata,West Bengal,P020,Sweatshirt,Sportswear,UrbanWear,Beige,XL,3,1699,25,3822.75,963.16,UPI,65
+ORD10829,2026-02-21,CUST1238,Customer_1829,Female,35,Jaipur,Rajasthan,P014,Blazer,Formal Wear,OfficeLine,Pink,XL,3,3499,20,8397.6,2058.33,Cash,77
+ORD10830,2026-10-04,CUST1424,Customer_1830,Female,53,Mumbai,Maharashtra,P015,Track Pants,Sportswear,SportX,Red,S,3,1599,20,3837.6,997.46,Credit Card,77
+ORD10831,2026-01-06,CUST1430,Customer_1831,Male,40,Visakhapatnam,Andhra Pradesh,P017,Chinos,Trousers,OfficeLine,Grey,XL,3,1899,25,4272.75,1065.55,Credit Card,33
+ORD10832,2026-01-04,CUST1418,Customer_1832,Male,54,Bengaluru,Karnataka,P009,Sneakers,Footwear,SportX,Green,XL,2,3299,10,5938.2,1129.51,UPI,21
+ORD10833,2026-06-16,CUST1149,Customer_1833,Male,40,Vijayawada,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,Green,XL,2,1299,15,2208.3,554.46,Credit Card,69
+ORD10834,2026-03-30,CUST1330,Customer_1834,Male,22,Hyderabad,Telangana,P018,Anarkali Dress,Dresses,Elegance,Beige,XXL,2,3299,25,4948.5,1206.15,Net Banking,54
+ORD10835,2026-11-17,CUST1200,Customer_1835,Female,29,Kakinada,Andhra Pradesh,P018,Anarkali Dress,Dresses,Elegance,Grey,L,3,3299,0,9897.0,1810.54,UPI,49
+ORD10836,2026-06-01,CUST1061,Customer_1836,Female,51,Bhubaneswar,Odisha,P003,Casual Shirt,Shirts,StyleHub,Yellow,XXL,5,1499,20,5996.0,889.11,Net Banking,87
+ORD10837,2026-03-31,CUST1493,Customer_1837,Female,43,Hyderabad,Telangana,P003,Casual Shirt,Shirts,StyleHub,Grey,L,1,1499,30,1049.3,114.94,Debit Card,58
+ORD10838,2025-07-29,CUST1388,Customer_1838,Female,49,Pune,Maharashtra,P019,Loafers,Footwear,OfficeLine,Beige,XL,2,2799,15,4758.3,507.93,Debit Card,36
+ORD10839,2025-06-07,CUST1118,Customer_1839,Female,45,Delhi,Delhi,P008,Leather Jacket,Outerwear,LeatherCraft,Grey,M,5,4599,15,19545.75,2506.26,Debit Card,16
+ORD10840,2026-02-03,CUST1365,Customer_1840,Male,25,Vijayawada,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,Black,XL,1,1299,0,1299.0,266.44,Net Banking,31
+ORD10841,2026-06-04,CUST1576,Customer_1841,Male,39,Kakinada,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,Red,S,2,2999,5,5698.1,1554.13,Credit Card,30
+ORD10842,2025-03-27,CUST1580,Customer_1842,Female,43,Jaipur,Rajasthan,P010,Polo Shirt,T-Shirts,StyleHub,Blue,L,1,1299,25,974.25,115.61,Debit Card,86
+ORD10843,2025-04-14,CUST1505,Customer_1843,Male,40,Kolkata,West Bengal,P011,Cargo Pants,Trousers,UrbanWear,Beige,S,1,1799,20,1439.2,180.84,Credit Card,84
+ORD10844,2026-08-25,CUST1279,Customer_1844,Male,55,Vijayawada,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,Grey,XL,1,1799,20,1439.2,396.53,UPI,64
+ORD10845,2026-02-19,CUST1063,Customer_1845,Female,40,Vijayawada,Andhra Pradesh,P012,Kurta,Ethnic Wear,Heritage,Green,M,2,1899,25,2848.5,887.19,Cash,30
+ORD10846,2026-08-04,CUST1522,Customer_1846,Male,30,Kolkata,West Bengal,P012,Kurta,Ethnic Wear,Heritage,Green,L,3,1899,20,4557.6,1235.02,Cash,5
+ORD10847,2025-12-15,CUST1102,Customer_1847,Female,53,Hyderabad,Telangana,P003,Casual Shirt,Shirts,StyleHub,Yellow,XXL,4,1499,25,4497.0,1005.21,Cash,89
+ORD10848,2026-09-16,CUST1186,Customer_1848,Female,28,Bhubaneswar,Odisha,P005,Summer Dress,Dresses,Elegance,Black,M,1,2999,0,2999.0,463.38,Credit Card,58
+ORD10849,2026-12-06,CUST1502,Customer_1849,Male,47,Bengaluru,Karnataka,P001,Classic T-Shirt,T-Shirts,UrbanWear,Grey,L,2,799,15,1358.3,331.74,Cash,19
+ORD10850,2025-05-03,CUST1035,Customer_1850,Female,46,Visakhapatnam,Andhra Pradesh,P008,Leather Jacket,Outerwear,LeatherCraft,Green,M,5,4599,30,16096.5,2545.21,Cash,67
+ORD10851,2026-08-31,CUST1028,Customer_1851,Female,36,Chennai,Tamil Nadu,P019,Loafers,Footwear,OfficeLine,White,XL,2,2799,5,5318.1,1067.62,Net Banking,57
+ORD10852,2026-09-20,CUST1009,Customer_1852,Male,24,Delhi,Delhi,P002,Slim Fit Jeans,Jeans,DenimCo,Beige,L,1,2499,10,2249.1,377.74,UPI,34
+ORD10853,2025-04-11,CUST1172,Customer_1853,Male,44,Kakinada,Andhra Pradesh,P020,Sweatshirt,Sportswear,UrbanWear,Grey,XL,4,1699,5,6456.2,1743.27,Credit Card,42
+ORD10854,2025-05-11,CUST1582,Customer_1854,Female,27,Mumbai,Maharashtra,P008,Leather Jacket,Outerwear,LeatherCraft,Yellow,XL,1,4599,25,3449.25,1100.28,Credit Card,38
+ORD10855,2025-04-09,CUST1324,Customer_1855,Male,53,Pune,Maharashtra,P017,Chinos,Trousers,OfficeLine,Grey,M,1,1899,0,1899.0,399.15,Cash,69
+ORD10856,2026-01-26,CUST1571,Customer_1856,Female,38,Visakhapatnam,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Grey,S,2,3499,15,5948.3,1089.51,Debit Card,71
+ORD10857,2025-03-08,CUST1226,Customer_1857,Female,42,Jaipur,Rajasthan,P014,Blazer,Formal Wear,OfficeLine,Beige,XXL,5,3499,15,14870.75,3358.28,UPI,87
+ORD10858,2026-03-11,CUST1342,Customer_1858,Female,24,Chennai,Tamil Nadu,P008,Leather Jacket,Outerwear,LeatherCraft,Green,S,5,4599,15,19545.75,2465.67,UPI,52
+ORD10859,2025-03-11,CUST1515,Customer_1859,Male,50,Jaipur,Rajasthan,P013,Saree,Ethnic Wear,Heritage,Beige,XL,4,3999,30,11197.2,3048.14,Net Banking,5
+ORD10860,2026-12-25,CUST1094,Customer_1860,Male,53,Vijayawada,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Green,XL,4,2199,15,7476.6,844.16,Cash,96
+ORD10861,2026-04-15,CUST1528,Customer_1861,Male,54,Jaipur,Rajasthan,P010,Polo Shirt,T-Shirts,StyleHub,Black,XXL,5,1299,15,5520.75,713.52,Cash,19
+ORD10862,2025-11-05,CUST1222,Customer_1862,Male,37,Bhubaneswar,Odisha,P015,Track Pants,Sportswear,SportX,Blue,S,1,1599,15,1359.15,187.89,Credit Card,6
+ORD10863,2025-05-07,CUST1171,Customer_1863,Female,27,Jaipur,Rajasthan,P019,Loafers,Footwear,OfficeLine,Pink,L,5,2799,10,12595.5,3787.65,Debit Card,48
+ORD10864,2026-07-26,CUST1318,Customer_1864,Male,34,Kolkata,West Bengal,P016,Denim Jacket,Outerwear,DenimCo,Pink,M,1,3199,25,2399.25,766.0,Debit Card,14
+ORD10865,2025-04-20,CUST1328,Customer_1865,Male,54,Mumbai,Maharashtra,P007,Formal Trousers,Trousers,OfficeLine,Yellow,M,2,1999,15,3398.3,662.69,Credit Card,7
+ORD10866,2025-06-22,CUST1485,Customer_1866,Male,56,Vijayawada,Andhra Pradesh,P008,Leather Jacket,Outerwear,LeatherCraft,Yellow,XL,1,4599,30,3219.3,725.97,Net Banking,43
+ORD10867,2026-11-29,CUST1523,Customer_1867,Male,38,Bengaluru,Karnataka,P006,Running Shoes,Footwear,SportX,Pink,M,1,3599,30,2519.3,436.17,UPI,32
+ORD10868,2025-11-06,CUST1008,Customer_1868,Male,25,Bhubaneswar,Odisha,P012,Kurta,Ethnic Wear,Heritage,Black,XXL,1,1899,10,1709.1,189.84,UPI,55
+ORD10869,2025-03-20,CUST1514,Customer_1869,Male,26,Bengaluru,Karnataka,P015,Track Pants,Sportswear,SportX,White,S,4,1599,20,5116.8,588.99,UPI,59
+ORD10870,2026-01-16,CUST1295,Customer_1870,Male,28,Vijayawada,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Pink,M,1,3499,30,2449.3,676.21,UPI,75
+ORD10871,2025-04-07,CUST1365,Customer_1871,Male,59,Vijayawada,Andhra Pradesh,P014,Blazer,Formal Wear,OfficeLine,Yellow,M,1,3499,0,3499.0,824.29,Debit Card,11
+ORD10872,2026-01-27,CUST1332,Customer_1872,Female,26,Pune,Maharashtra,P002,Slim Fit Jeans,Jeans,DenimCo,Green,XXL,3,2499,0,7497.0,979.95,Credit Card,85
+ORD10873,2025-01-02,CUST1078,Customer_1873,Male,33,Bhubaneswar,Odisha,P015,Track Pants,Sportswear,SportX,Beige,XL,3,1599,30,3357.9,1059.59,Cash,13
+ORD10874,2026-02-12,CUST1247,Customer_1874,Male,50,Hyderabad,Telangana,P011,Cargo Pants,Trousers,UrbanWear,Green,M,2,1799,15,3058.3,946.39,Cash,17
+ORD10875,2026-01-01,CUST1219,Customer_1875,Male,47,Visakhapatnam,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,White,M,5,1799,15,7645.75,858.67,Net Banking,11
+ORD10876,2026-11-24,CUST1321,Customer_1876,Male,23,Kakinada,Andhra Pradesh,P005,Summer Dress,Dresses,Elegance,Black,M,2,2999,15,5098.3,515.91,Credit Card,66
+ORD10877,2026-09-04,CUST1149,Customer_1877,Male,59,Hyderabad,Telangana,P007,Formal Trousers,Trousers,OfficeLine,Grey,S,4,1999,10,7196.4,1240.82,Net Banking,22
+ORD10878,2026-07-25,CUST1058,Customer_1878,Male,45,Kakinada,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Blue,XL,3,2199,20,5277.6,709.71,Cash,67
+ORD10879,2026-08-20,CUST1440,Customer_1879,Female,52,Hyderabad,Telangana,P008,Leather Jacket,Outerwear,LeatherCraft,Blue,XL,4,4599,25,13797.0,4167.43,UPI,39
+ORD10880,2026-02-05,CUST1271,Customer_1880,Female,19,Chennai,Tamil Nadu,P019,Loafers,Footwear,OfficeLine,Blue,S,2,2799,25,4198.5,509.47,Credit Card,94
+ORD10881,2025-05-24,CUST1343,Customer_1881,Male,56,Mumbai,Maharashtra,P004,Hoodie,Outerwear,UrbanWear,Pink,XL,4,2199,0,8796.0,1539.67,Cash,62
+ORD10882,2026-04-29,CUST1589,Customer_1882,Male,36,Bengaluru,Karnataka,P015,Track Pants,Sportswear,SportX,Grey,M,3,1599,30,3357.9,851.83,Cash,46
+ORD10883,2026-03-08,CUST1216,Customer_1883,Female,33,Bhubaneswar,Odisha,P016,Denim Jacket,Outerwear,DenimCo,Beige,L,3,3199,5,9117.15,2329.35,UPI,8
+ORD10884,2026-05-16,CUST1120,Customer_1884,Male,49,Kolkata,West Bengal,P020,Sweatshirt,Sportswear,UrbanWear,Black,XL,3,1699,10,4587.3,1125.38,UPI,30
+ORD10885,2025-06-07,CUST1082,Customer_1885,Female,26,Pune,Maharashtra,P015,Track Pants,Sportswear,SportX,Green,L,4,1599,25,4797.0,1365.96,Cash,9
+ORD10886,2026-12-16,CUST1276,Customer_1886,Female,60,Kolkata,West Bengal,P003,Casual Shirt,Shirts,StyleHub,Black,L,3,1499,15,3822.45,507.3,Debit Card,52
+ORD10887,2026-09-08,CUST1407,Customer_1887,Male,35,Kakinada,Andhra Pradesh,P007,Formal Trousers,Trousers,OfficeLine,Black,M,3,1999,15,5097.45,674.78,Net Banking,8
+ORD10888,2025-09-09,CUST1230,Customer_1888,Female,43,Visakhapatnam,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,Beige,M,5,1499,15,6370.75,1688.23,Credit Card,19
+ORD10889,2026-01-30,CUST1262,Customer_1889,Male,37,Delhi,Delhi,P014,Blazer,Formal Wear,OfficeLine,Beige,M,3,3499,10,9447.3,1351.04,Credit Card,59
+ORD10890,2026-09-16,CUST1292,Customer_1890,Male,31,Mumbai,Maharashtra,P001,Classic T-Shirt,T-Shirts,UrbanWear,Blue,L,1,799,15,679.15,84.86,Debit Card,46
+ORD10891,2026-08-22,CUST1136,Customer_1891,Male,33,Chennai,Tamil Nadu,P010,Polo Shirt,T-Shirts,StyleHub,Black,S,5,1299,30,4546.5,1273.34,Cash,45
+ORD10892,2026-12-06,CUST1385,Customer_1892,Male,25,Jaipur,Rajasthan,P017,Chinos,Trousers,OfficeLine,Red,S,4,1899,0,7596.0,1705.31,UPI,81
+ORD10893,2026-04-06,CUST1579,Customer_1893,Male,44,Vijayawada,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,Blue,M,1,1499,15,1274.15,390.23,UPI,84
+ORD10894,2025-08-04,CUST1548,Customer_1894,Female,57,Chennai,Tamil Nadu,P004,Hoodie,Outerwear,UrbanWear,Beige,XL,2,2199,15,3738.3,667.45,Net Banking,15
+ORD10895,2025-11-25,CUST1084,Customer_1895,Female,20,Kakinada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Green,XL,3,2799,20,6717.6,1979.55,Cash,48
+ORD10896,2025-12-10,CUST1023,Customer_1896,Male,19,Visakhapatnam,Andhra Pradesh,P008,Leather Jacket,Outerwear,LeatherCraft,Pink,L,5,4599,5,21845.25,6034.46,UPI,26
+ORD10897,2025-10-15,CUST1437,Customer_1897,Female,27,Visakhapatnam,Andhra Pradesh,P013,Saree,Ethnic Wear,Heritage,Grey,XL,3,3999,25,8997.75,969.83,UPI,76
+ORD10898,2026-07-07,CUST1234,Customer_1898,Male,21,Kolkata,West Bengal,P009,Sneakers,Footwear,SportX,Beige,XXL,1,3299,10,2969.1,472.24,UPI,58
+ORD10899,2025-09-29,CUST1535,Customer_1899,Female,48,Bhubaneswar,Odisha,P016,Denim Jacket,Outerwear,DenimCo,Beige,XXL,3,3199,5,9117.15,1582.66,Net Banking,92
+ORD10900,2025-08-19,CUST1483,Customer_1900,Female,45,Vijayawada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Yellow,M,5,2799,20,11196.0,3080.28,Debit Card,97
+ORD10901,2026-03-17,CUST1098,Customer_1901,Male,49,Chennai,Tamil Nadu,P017,Chinos,Trousers,OfficeLine,Pink,S,2,1899,30,2658.6,570.87,UPI,71
+ORD10902,2026-09-19,CUST1095,Customer_1902,Male,54,Bengaluru,Karnataka,P009,Sneakers,Footwear,SportX,Black,XXL,5,3299,0,16495.0,4223.92,Net Banking,19
+ORD10903,2025-09-13,CUST1424,Customer_1903,Female,39,Mumbai,Maharashtra,P003,Casual Shirt,Shirts,StyleHub,Grey,XL,4,1499,0,5996.0,1300.71,Net Banking,27
+ORD10904,2026-03-21,CUST1359,Customer_1904,Male,25,Jaipur,Rajasthan,P005,Summer Dress,Dresses,Elegance,Pink,XXL,2,2999,25,4498.5,558.62,Cash,60
+ORD10905,2025-02-28,CUST1575,Customer_1905,Male,39,Kakinada,Andhra Pradesh,P006,Running Shoes,Footwear,SportX,Green,L,3,3599,0,10797.0,2117.35,Net Banking,76
+ORD10906,2025-12-02,CUST1091,Customer_1906,Female,48,Chennai,Tamil Nadu,P018,Anarkali Dress,Dresses,Elegance,Green,XXL,2,3299,5,6268.1,1091.45,Net Banking,91
+ORD10907,2026-10-03,CUST1383,Customer_1907,Female,59,Chennai,Tamil Nadu,P002,Slim Fit Jeans,Jeans,DenimCo,Red,XL,5,2499,10,11245.5,1827.33,Debit Card,52
+ORD10908,2025-03-16,CUST1458,Customer_1908,Male,36,Kolkata,West Bengal,P015,Track Pants,Sportswear,SportX,Pink,M,4,1599,30,4477.2,1353.19,Net Banking,52
+ORD10909,2026-09-02,CUST1284,Customer_1909,Female,32,Bhubaneswar,Odisha,P007,Formal Trousers,Trousers,OfficeLine,White,XL,2,1999,10,3598.2,761.93,Net Banking,54
+ORD10910,2026-04-02,CUST1260,Customer_1910,Male,26,Jaipur,Rajasthan,P009,Sneakers,Footwear,SportX,Red,L,1,3299,30,2309.3,413.33,UPI,72
+ORD10911,2025-08-24,CUST1423,Customer_1911,Female,30,Visakhapatnam,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,Grey,M,5,1299,5,6170.25,1938.28,Credit Card,33
+ORD10912,2026-01-10,CUST1424,Customer_1912,Male,55,Hyderabad,Telangana,P014,Blazer,Formal Wear,OfficeLine,Red,XL,5,3499,5,16620.25,3354.31,Debit Card,77
+ORD10913,2025-04-15,CUST1078,Customer_1913,Female,59,Jaipur,Rajasthan,P013,Saree,Ethnic Wear,Heritage,Red,M,1,3999,5,3799.05,610.35,Debit Card,18
+ORD10914,2025-10-03,CUST1361,Customer_1914,Male,50,Hyderabad,Telangana,P011,Cargo Pants,Trousers,UrbanWear,Green,XL,4,1799,30,5037.2,651.5,Debit Card,19
+ORD10915,2025-08-18,CUST1125,Customer_1915,Male,18,Kolkata,West Bengal,P001,Classic T-Shirt,T-Shirts,UrbanWear,Black,L,3,799,15,2037.45,275.95,UPI,23
+ORD10916,2025-11-29,CUST1390,Customer_1916,Male,27,Bhubaneswar,Odisha,P003,Casual Shirt,Shirts,StyleHub,Red,S,4,1499,20,4796.8,699.98,Credit Card,77
+ORD10917,2026-11-11,CUST1095,Customer_1917,Male,37,Bhubaneswar,Odisha,P011,Cargo Pants,Trousers,UrbanWear,Blue,M,3,1799,15,4587.45,997.97,UPI,89
+ORD10918,2026-05-23,CUST1402,Customer_1918,Male,51,Bengaluru,Karnataka,P013,Saree,Ethnic Wear,Heritage,Blue,S,4,3999,0,15996.0,3457.06,Net Banking,7
+ORD10919,2026-11-08,CUST1082,Customer_1919,Female,35,Bengaluru,Karnataka,P006,Running Shoes,Footwear,SportX,Grey,L,1,3599,5,3419.05,692.96,Credit Card,15
+ORD10920,2025-03-30,CUST1305,Customer_1920,Female,31,Pune,Maharashtra,P012,Kurta,Ethnic Wear,Heritage,Pink,XXL,5,1899,15,8070.75,1496.95,Credit Card,60
+ORD10921,2026-08-08,CUST1488,Customer_1921,Female,27,Jaipur,Rajasthan,P015,Track Pants,Sportswear,SportX,Black,S,3,1599,20,3837.6,1091.24,Credit Card,71
+ORD10922,2025-03-24,CUST1178,Customer_1922,Male,30,Delhi,Delhi,P011,Cargo Pants,Trousers,UrbanWear,Beige,L,3,1799,0,5397.0,1442.82,Debit Card,31
+ORD10923,2025-03-14,CUST1435,Customer_1923,Female,39,Delhi,Delhi,P006,Running Shoes,Footwear,SportX,Black,XL,4,3599,30,10077.2,2054.22,Net Banking,26
+ORD10924,2025-01-31,CUST1334,Customer_1924,Male,54,Delhi,Delhi,P004,Hoodie,Outerwear,UrbanWear,Red,M,4,2199,10,7916.4,1255.96,Net Banking,75
+ORD10925,2025-02-15,CUST1365,Customer_1925,Female,60,Jaipur,Rajasthan,P013,Saree,Ethnic Wear,Heritage,Yellow,L,5,3999,25,14996.25,2824.31,Debit Card,16
+ORD10926,2025-12-20,CUST1149,Customer_1926,Male,32,Kolkata,West Bengal,P001,Classic T-Shirt,T-Shirts,UrbanWear,Yellow,XL,1,799,30,559.3,108.06,UPI,49
+ORD10927,2026-06-21,CUST1534,Customer_1927,Female,28,Delhi,Delhi,P020,Sweatshirt,Sportswear,UrbanWear,Black,XL,5,1699,25,6371.25,2002.38,Debit Card,6
+ORD10928,2025-08-31,CUST1510,Customer_1928,Female,24,Hyderabad,Telangana,P006,Running Shoes,Footwear,SportX,Blue,XXL,5,3599,10,16195.5,3988.22,UPI,6
+ORD10929,2025-06-20,CUST1352,Customer_1929,Female,57,Chennai,Tamil Nadu,P014,Blazer,Formal Wear,OfficeLine,Black,M,3,3499,5,9972.15,1817.92,Credit Card,60
+ORD10930,2026-10-19,CUST1566,Customer_1930,Male,20,Kolkata,West Bengal,P011,Cargo Pants,Trousers,UrbanWear,Yellow,L,5,1799,30,6296.5,686.07,Net Banking,60
+ORD10931,2025-05-31,CUST1452,Customer_1931,Male,24,Vijayawada,Andhra Pradesh,P016,Denim Jacket,Outerwear,DenimCo,Black,L,4,3199,0,12796.0,1784.55,Cash,75
+ORD10932,2025-02-17,CUST1582,Customer_1932,Male,37,Kakinada,Andhra Pradesh,P019,Loafers,Footwear,OfficeLine,Red,S,4,2799,25,8397.0,1401.22,Net Banking,26
+ORD10933,2025-07-17,CUST1016,Customer_1933,Male,40,Bhubaneswar,Odisha,P003,Casual Shirt,Shirts,StyleHub,Blue,S,2,1499,5,2848.1,474.47,Credit Card,31
+ORD10934,2026-01-01,CUST1270,Customer_1934,Female,25,Delhi,Delhi,P009,Sneakers,Footwear,SportX,Green,S,5,3299,10,14845.5,1650.03,Net Banking,61
+ORD10935,2025-05-16,CUST1149,Customer_1935,Male,57,Delhi,Delhi,P001,Classic T-Shirt,T-Shirts,UrbanWear,Yellow,L,3,799,30,1677.9,497.17,Cash,29
+ORD10936,2025-02-01,CUST1433,Customer_1936,Female,30,Visakhapatnam,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,Blue,XXL,5,2499,30,8746.5,1951.27,Credit Card,28
+ORD10937,2025-04-12,CUST1229,Customer_1937,Male,54,Visakhapatnam,Andhra Pradesh,P002,Slim Fit Jeans,Jeans,DenimCo,Yellow,S,5,2499,30,8746.5,1182.39,Debit Card,89
+ORD10938,2025-03-21,CUST1071,Customer_1938,Female,58,Chennai,Tamil Nadu,P014,Blazer,Formal Wear,OfficeLine,Grey,L,2,3499,0,6998.0,1242.86,Net Banking,71
+ORD10939,2026-07-04,CUST1540,Customer_1939,Male,48,Mumbai,Maharashtra,P015,Track Pants,Sportswear,SportX,Black,L,3,1599,25,3597.75,847.8,Net Banking,66
+ORD10940,2025-05-25,CUST1267,Customer_1940,Female,50,Chennai,Tamil Nadu,P006,Running Shoes,Footwear,SportX,Red,XXL,4,3599,10,12956.4,3076.47,UPI,97
+ORD10941,2025-06-25,CUST1107,Customer_1941,Male,38,Pune,Maharashtra,P008,Leather Jacket,Outerwear,LeatherCraft,Yellow,M,5,4599,30,16096.5,4263.21,Debit Card,5
+ORD10942,2026-05-08,CUST1153,Customer_1942,Female,47,Jaipur,Rajasthan,P001,Classic T-Shirt,T-Shirts,UrbanWear,Red,L,5,799,25,2996.25,638.24,Credit Card,82
+ORD10943,2026-10-17,CUST1161,Customer_1943,Male,22,Bengaluru,Karnataka,P020,Sweatshirt,Sportswear,UrbanWear,Black,M,5,1699,25,6371.25,979.7,Debit Card,6
+ORD10944,2026-08-25,CUST1440,Customer_1944,Male,22,Hyderabad,Telangana,P017,Chinos,Trousers,OfficeLine,Grey,XXL,1,1899,30,1329.3,179.68,UPI,26
+ORD10945,2025-10-28,CUST1154,Customer_1945,Male,39,Visakhapatnam,Andhra Pradesh,P011,Cargo Pants,Trousers,UrbanWear,White,S,1,1799,10,1619.1,416.67,UPI,99
+ORD10946,2026-11-18,CUST1147,Customer_1946,Male,29,Bengaluru,Karnataka,P015,Track Pants,Sportswear,SportX,Grey,XXL,1,1599,10,1439.1,413.54,Credit Card,31
+ORD10947,2025-05-27,CUST1546,Customer_1947,Female,45,Chennai,Tamil Nadu,P005,Summer Dress,Dresses,Elegance,Green,L,1,2999,0,2999.0,308.17,Credit Card,24
+ORD10948,2026-04-03,CUST1529,Customer_1948,Female,42,Delhi,Delhi,P008,Leather Jacket,Outerwear,LeatherCraft,Blue,XL,4,4599,20,14716.8,1667.44,Debit Card,30
+ORD10949,2025-02-09,CUST1232,Customer_1949,Female,19,Delhi,Delhi,P010,Polo Shirt,T-Shirts,StyleHub,Yellow,XXL,1,1299,30,909.3,249.74,Debit Card,24
+ORD10950,2025-01-12,CUST1044,Customer_1950,Male,19,Pune,Maharashtra,P015,Track Pants,Sportswear,SportX,Beige,XXL,2,1599,25,2398.5,292.59,UPI,34
+ORD10951,2026-01-02,CUST1316,Customer_1951,Male,40,Bhubaneswar,Odisha,P015,Track Pants,Sportswear,SportX,Beige,M,4,1599,20,5116.8,1265.28,UPI,62
+ORD10952,2025-11-02,CUST1200,Customer_1952,Female,55,Kolkata,West Bengal,P016,Denim Jacket,Outerwear,DenimCo,Blue,S,5,3199,15,13595.75,2628.46,Net Banking,86
+ORD10953,2026-11-27,CUST1287,Customer_1953,Male,26,Delhi,Delhi,P019,Loafers,Footwear,OfficeLine,Pink,XXL,2,2799,25,4198.5,1164.53,UPI,40
+ORD10954,2026-04-14,CUST1410,Customer_1954,Male,23,Mumbai,Maharashtra,P005,Summer Dress,Dresses,Elegance,Red,L,2,2999,20,4798.4,939.14,Net Banking,90
+ORD10955,2025-04-14,CUST1533,Customer_1955,Male,43,Chennai,Tamil Nadu,P013,Saree,Ethnic Wear,Heritage,Black,XXL,1,3999,0,3999.0,981.02,Debit Card,26
+ORD10956,2025-09-16,CUST1335,Customer_1956,Male,38,Bhubaneswar,Odisha,P007,Formal Trousers,Trousers,OfficeLine,Grey,L,2,1999,0,3998.0,1179.07,Cash,10
+ORD10957,2025-01-19,CUST1168,Customer_1957,Female,32,Kolkata,West Bengal,P004,Hoodie,Outerwear,UrbanWear,Green,S,5,2199,30,7696.5,1542.19,Debit Card,74
+ORD10958,2025-12-17,CUST1588,Customer_1958,Male,23,Kakinada,Andhra Pradesh,P012,Kurta,Ethnic Wear,Heritage,Red,L,3,1899,30,3987.9,945.38,Net Banking,52
+ORD10959,2025-11-10,CUST1095,Customer_1959,Male,24,Mumbai,Maharashtra,P009,Sneakers,Footwear,SportX,Grey,XXL,1,3299,15,2804.15,654.25,Net Banking,34
+ORD10960,2026-04-02,CUST1444,Customer_1960,Male,54,Pune,Maharashtra,P002,Slim Fit Jeans,Jeans,DenimCo,Green,XL,4,2499,0,9996.0,2845.04,Credit Card,48
+ORD10961,2025-02-21,CUST1078,Customer_1961,Male,36,Bengaluru,Karnataka,P017,Chinos,Trousers,OfficeLine,Black,M,2,1899,0,3798.0,729.39,Credit Card,8
+ORD10962,2026-05-01,CUST1484,Customer_1962,Female,41,Kolkata,West Bengal,P006,Running Shoes,Footwear,SportX,Yellow,XXL,2,3599,5,6838.1,1553.26,Credit Card,81
+ORD10963,2026-11-01,CUST1359,Customer_1963,Male,52,Bhubaneswar,Odisha,P010,Polo Shirt,T-Shirts,StyleHub,Red,M,1,1299,20,1039.2,107.29,Credit Card,62
+ORD10964,2026-12-02,CUST1057,Customer_1964,Male,22,Visakhapatnam,Andhra Pradesh,P003,Casual Shirt,Shirts,StyleHub,Red,XL,2,1499,10,2698.2,274.84,UPI,55
+ORD10965,2025-11-15,CUST1163,Customer_1965,Male,51,Delhi,Delhi,P016,Denim Jacket,Outerwear,DenimCo,Grey,XXL,3,3199,0,9597.0,995.23,Debit Card,47
+ORD10966,2025-07-27,CUST1249,Customer_1966,Female,28,Kolkata,West Bengal,P017,Chinos,Trousers,OfficeLine,Beige,S,1,1899,10,1709.1,503.74,Credit Card,61
+ORD10967,2026-08-12,CUST1386,Customer_1967,Male,53,Delhi,Delhi,P012,Kurta,Ethnic Wear,Heritage,Red,L,5,1899,30,6646.5,1128.54,Debit Card,83
+ORD10968,2026-10-15,CUST1279,Customer_1968,Female,60,Bengaluru,Karnataka,P006,Running Shoes,Footwear,SportX,Black,L,2,3599,0,7198.0,1643.0,Debit Card,41
+ORD10969,2026-01-02,CUST1434,Customer_1969,Male,34,Mumbai,Maharashtra,P017,Chinos,Trousers,OfficeLine,Black,M,2,1899,0,3798.0,676.35,Debit Card,64
+ORD10970,2025-03-11,CUST1272,Customer_1970,Female,48,Pune,Maharashtra,P006,Running Shoes,Footwear,SportX,Yellow,XL,1,3599,20,2879.2,607.78,Credit Card,86
+ORD10971,2026-04-29,CUST1350,Customer_1971,Male,45,Hyderabad,Telangana,P007,Formal Trousers,Trousers,OfficeLine,White,L,2,1999,25,2998.5,771.08,Debit Card,79
+ORD10972,2025-12-22,CUST1245,Customer_1972,Male,46,Mumbai,Maharashtra,P020,Sweatshirt,Sportswear,UrbanWear,Blue,L,1,1699,0,1699.0,229.0,Net Banking,41
+ORD10973,2025-03-06,CUST1571,Customer_1973,Female,36,Kolkata,West Bengal,P001,Classic T-Shirt,T-Shirts,UrbanWear,Pink,XL,5,799,5,3795.25,818.95,Cash,21
+ORD10974,2026-06-15,CUST1302,Customer_1974,Male,26,Bengaluru,Karnataka,P013,Saree,Ethnic Wear,Heritage,Yellow,XL,2,3999,0,7998.0,986.0,Debit Card,23
+ORD10975,2026-12-19,CUST1562,Customer_1975,Male,39,Bhubaneswar,Odisha,P003,Casual Shirt,Shirts,StyleHub,Green,S,1,1499,0,1499.0,366.97,Cash,60
+ORD10976,2026-06-15,CUST1372,Customer_1976,Male,50,Visakhapatnam,Andhra Pradesh,P008,Leather Jacket,Outerwear,LeatherCraft,Yellow,L,3,4599,25,10347.75,2995.4,Debit Card,64
+ORD10977,2026-10-31,CUST1098,Customer_1977,Male,20,Bhubaneswar,Odisha,P003,Casual Shirt,Shirts,StyleHub,Blue,XL,2,1499,25,2248.5,423.07,Credit Card,99
+ORD10978,2025-03-11,CUST1434,Customer_1978,Male,32,Delhi,Delhi,P018,Anarkali Dress,Dresses,Elegance,Blue,XL,5,3299,25,12371.25,3933.21,Cash,12
+ORD10979,2025-10-12,CUST1573,Customer_1979,Male,60,Chennai,Tamil Nadu,P013,Saree,Ethnic Wear,Heritage,Pink,M,2,3999,0,7998.0,1154.91,Debit Card,73
+ORD10980,2026-08-04,CUST1141,Customer_1980,Male,32,Vijayawada,Andhra Pradesh,P010,Polo Shirt,T-Shirts,StyleHub,Grey,M,3,1299,10,3507.3,610.7,Credit Card,15
+ORD10981,2025-03-05,CUST1195,Customer_1981,Male,40,Jaipur,Rajasthan,P007,Formal Trousers,Trousers,OfficeLine,Blue,M,2,1999,25,2998.5,356.07,Credit Card,54
+ORD10982,2026-01-19,CUST1409,Customer_1982,Male,42,Pune,Maharashtra,P014,Blazer,Formal Wear,OfficeLine,Blue,L,1,3499,15,2974.15,666.11,UPI,38
+ORD10983,2026-10-18,CUST1197,Customer_1983,Female,47,Mumbai,Maharashtra,P003,Casual Shirt,Shirts,StyleHub,Beige,S,2,1499,10,2698.2,285.28,Net Banking,11
+ORD10984,2026-06-16,CUST1563,Customer_1984,Female,59,Bengaluru,Karnataka,P018,Anarkali Dress,Dresses,Elegance,Pink,L,4,3299,15,11216.6,3100.29,Cash,30
+ORD10985,2025-12-13,CUST1194,Customer_1985,Female,20,Pune,Maharashtra,P016,Denim Jacket,Outerwear,DenimCo,Yellow,M,4,3199,15,10876.6,2576.84,Credit Card,19
+ORD10986,2026-09-24,CUST1362,Customer_1986,Female,58,Bhubaneswar,Odisha,P003,Casual Shirt,Shirts,StyleHub,Red,M,1,1499,25,1124.25,115.85,Cash,55
+ORD10987,2026-04-18,CUST1491,Customer_1987,Male,50,Hyderabad,Telangana,P015,Track Pants,Sportswear,SportX,Pink,XXL,4,1599,25,4797.0,983.79,Net Banking,99
+ORD10988,2026-02-23,CUST1400,Customer_1988,Male,49,Delhi,Delhi,P014,Blazer,Formal Wear,OfficeLine,Black,XL,2,3499,15,5948.3,1383.65,Net Banking,90
+ORD10989,2026-05-28,CUST1357,Customer_1989,Female,50,Pune,Maharashtra,P019,Loafers,Footwear,OfficeLine,White,XL,2,2799,0,5598.0,904.99,Debit Card,45
+ORD10990,2025-09-06,CUST1157,Customer_1990,Female,57,Bengaluru,Karnataka,P010,Polo Shirt,T-Shirts,StyleHub,Black,M,3,1299,15,3312.45,454.43,UPI,98
+ORD10991,2025-07-17,CUST1419,Customer_1991,Female,45,Delhi,Delhi,P015,Track Pants,Sportswear,SportX,Black,XL,2,1599,10,2878.2,651.22,UPI,91
+ORD10992,2025-07-11,CUST1425,Customer_1992,Female,39,Visakhapatnam,Andhra Pradesh,P018,Anarkali Dress,Dresses,Elegance,Green,L,3,3299,20,7917.6,1263.5,Credit Card,62
+ORD10993,2026-11-04,CUST1429,Customer_1993,Female,48,Kolkata,West Bengal,P020,Sweatshirt,Sportswear,UrbanWear,Pink,XXL,2,1699,25,2548.5,660.51,Net Banking,62
+ORD10994,2025-11-09,CUST1431,Customer_1994,Male,38,Vijayawada,Andhra Pradesh,P015,Track Pants,Sportswear,SportX,Blue,M,5,1599,10,7195.5,1719.95,Net Banking,57
+ORD10995,2025-09-01,CUST1106,Customer_1995,Female,42,Jaipur,Rajasthan,P003,Casual Shirt,Shirts,StyleHub,Red,M,2,1499,5,2848.1,508.37,Cash,14
+ORD10996,2026-01-18,CUST1359,Customer_1996,Female,42,Mumbai,Maharashtra,P019,Loafers,Footwear,OfficeLine,Yellow,XL,3,2799,5,7977.15,1101.67,Net Banking,39
+ORD10997,2026-08-24,CUST1017,Customer_1997,Female,53,Bhubaneswar,Odisha,P015,Track Pants,Sportswear,SportX,Pink,S,2,1599,25,2398.5,535.99,Cash,80
+ORD10998,2026-02-22,CUST1165,Customer_1998,Male,50,Bhubaneswar,Odisha,P001,Classic T-Shirt,T-Shirts,UrbanWear,Beige,M,4,799,20,2556.8,798.81,Net Banking,65
+ORD10999,2026-02-21,CUST1035,Customer_1999,Female,23,Visakhapatnam,Andhra Pradesh,P004,Hoodie,Outerwear,UrbanWear,Black,M,3,2199,25,4947.75,500.42,Cash,92
+ORD11000,2026-09-26,CUST1441,Customer_2000,Female,34,Kolkata,West Bengal,P006,Running Shoes,Footwear,SportX,Beige,XXL,3,3599,25,8097.75,2303.23,Debit Card,76
